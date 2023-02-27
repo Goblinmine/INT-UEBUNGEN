@@ -39,3 +39,4 @@ if input("Would you like to use the advanced version? Y/N ").upper() == 'Y':
         outputArray.remove(outputArray[iSelected])
         
 print(f"The Password is {output}")
+print('Katzenfleisch')
