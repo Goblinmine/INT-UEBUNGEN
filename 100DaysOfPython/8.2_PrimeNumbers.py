@@ -1,6 +1,6 @@
 # Exercise:         Day 8.2 | Prime Numbers
 # Created by:       Jonas Millonig
-# Creation date: 
+# Creation date:    01.03.2023
    
 #Write your code below this line 👇
 
