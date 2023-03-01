@@ -1,3 +1,7 @@
+# Exercise:         Day 5.5 | Password Generator
+# Created by:       Jonas Millonig
+# Creation date:    27. 02. 2023
+
 import secrets
 
 letters = int(input("How many letters would you like in your password?\n"))
