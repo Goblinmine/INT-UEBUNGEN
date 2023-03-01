@@ -11,7 +11,13 @@ for n in range(0, len(student_heights)):
 
 #Write your code below this row 👇
 
-print(round(sum(student_heights) / len(student_heights)))
+def mySum(array: list):
+  output = 0
+  for value in array:
+    output += value
+  return output
+
+print(round(mySum(student_heights) / len(student_heights)))
 
 
 
