@@ -1,3 +1,7 @@
+# Exercise:         Day 3.5 | Love Calculator
+# Created by:       Jonas Millonig
+# Creation date:    
+
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")

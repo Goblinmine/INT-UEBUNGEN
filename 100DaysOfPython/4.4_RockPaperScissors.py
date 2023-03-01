@@ -1,3 +1,6 @@
+# Exercise:         Day 4.4 | Rock Paper Scissors
+# Created by:       Jonas Millonig
+# Creation date:    
 import random
 
 rock = '''

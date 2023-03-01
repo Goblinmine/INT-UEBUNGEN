@@ -1,3 +1,7 @@
+# Exercise:         Day 3.5 | Treasure Island
+# Created by:       Jonas Millonig
+# Creation date:    
+
 print('''
 *******************************************************************************
           |                   |                  |                     |

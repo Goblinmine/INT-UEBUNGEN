@@ -1,3 +1,7 @@
+# Exercise:         Day 26.4 | Dictionary Comprehension 1
+# Created by:       Jonas Millonig
+# Creation date:    
+
 sentence = "What is the Airspeed Velocity of an Unladen Swallow?"
 # Don't change code above 👆
 
