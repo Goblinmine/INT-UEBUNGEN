@@ -1,3 +1,7 @@
+# Exercise:         Day 9.2 | Dictionary in List
+# Created by:       Goblinmine
+# Creation date:    
+
 travel_log = [
 {
   "country": "France",

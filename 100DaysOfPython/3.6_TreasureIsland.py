@@ -1,3 +1,7 @@
+# Exercise:         Day 3.5 | Treasure Island
+# Created by:       Goblinmine
+# Creation date:    
+
 print('''
 *******************************************************************************
           |                   |                  |                     |

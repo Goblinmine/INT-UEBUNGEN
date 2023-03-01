@@ -1,3 +1,7 @@
+# Exercise:         Day 26.5 | Dictionary Comprehension 2
+# Created by:       Goblinmine
+# Creation date:    
+
 weather_c = {
     "Monday": 12,
     "Tuesday": 14,
@@ -8,14 +12,8 @@ weather_c = {
     "Sunday": 24,
 }
 # 🚨 Don't change code above 👆
+# Write your code 👇 below:
 
 weather_f = {x:round((y * 1.8 + 32), 1) for (x,y) in weather_c.items()}
 
-
-# Write your code 👇 below:
-
-
-
 print(weather_f)
-
-
