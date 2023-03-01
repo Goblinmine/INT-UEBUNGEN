@@ -1,6 +1,6 @@
 # Exercise:         Day 30.2 | KeyError Handling
 # Created by:       Jonas Millonig
-# Creation date:    
+# Creation date:    01.03.2023
 
 facebook_posts = [
     {'Likes': 21, 'Comments': 2}, 
