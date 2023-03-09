@@ -12,6 +12,10 @@ except Exception:
     
 output = ""
 
+if currentHour < 0 and currentHour > 24:
+    print("Time Error!")
+    exit()
+
 if currentHour <= 9:
     output += "Guten Morgen"
 elif currentHour <= 17:
@@ -23,6 +27,9 @@ if sex == "m":
     output += " Herr "
 elif sex == "f":
     output += " Frau "
+else:
+    print("Sex Error!")
+    exit()
     
     
 print(output + name)
