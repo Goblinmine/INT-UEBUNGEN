@@ -34,11 +34,11 @@ for x in range(numbers):
 
 if input("Would you like to use the advanced version? Y/N ").upper() == 'Y':
     
-    howMany = len(output) -1
+    howMany = len(output)
     outputArray = list(output)
     output = ""
     for i in range(howMany):
-        iSelected = secrets.randbelow(len(outputArray) -1)
+        iSelected = secrets.randbelow(len(outputArray))
         output += outputArray[iSelected]
         outputArray.remove(outputArray[iSelected])
         
