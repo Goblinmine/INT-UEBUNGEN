@@ -1,12 +1,10 @@
+# Jonas Millonig
+# 09. 03. 2023
+# Hangman DiY
+
 import random
 from hangman_art import logo, stages
 from hangman_words import word_list
-
-# def OutputWord(word: list):
-#     output = ""
-#     for letter in word:
-#         output += f" {letter} "
-#     return output
 
 print(logo)
 ranWord = random.choice(word_list)
@@ -29,7 +27,6 @@ while True:
                 output[counter] = letter
             counter += 1    
             
-    # word output
     outputStr = ""
     for letter in output:
         outputStr += f" {letter} " 
