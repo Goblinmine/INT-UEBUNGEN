@@ -2,10 +2,10 @@
 # Created by:       Goblinmine
 # Creation date: 
    
-#Write your code below this line 👇
+# Write your code below this line 👇
 import math
 
-#(height * width) / coverage
+# (height * width) / coverage
 
 
 def paint_calc(height, width, cover):
@@ -13,7 +13,7 @@ def paint_calc(height, width, cover):
     print(f"You'll need {output} cans of paint.")
     
 
-#Write your code above this line 👆
+# Write your code above this line 👆
 # Define a function called paint_calc() so that the code below works.   
 
 # 🚨 Don't change the code below 👇
