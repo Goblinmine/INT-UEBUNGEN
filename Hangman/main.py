@@ -11,7 +11,7 @@ ranWord = random.choice(word_list)
 lives = len(stages) -1
 
 # debug
-print(ranWord)
+# print(ranWord)
 
 
 output = []
