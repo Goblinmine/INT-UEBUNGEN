@@ -11,7 +11,7 @@ student_scores = {
 }
 # 🚨 Don't change the code above 👆
 
-#TODO-1: Create an empty dictionary called student_grades.
+# TODO-1: Create an empty dictionary called student_grades.
 student_grades = {}
 
 
