@@ -3,11 +3,11 @@
 # Creation date: 
    
 student_scores = {
-  "Harry": 81,
-  "Ron": 78,
-  "Hermione": 99, 
-  "Draco": 74,
-  "Neville": 62,
+    "Harry": 81,
+    "Ron": 78,
+    "Hermione": 99, 
+    "Draco": 74,
+    "Neville": 62,
 }
 # 🚨 Don't change the code above 👆
 
@@ -15,7 +15,7 @@ student_scores = {
 student_grades = {}
 
 
-#TODO-2: Write your code below to add the grades to student_grades.👇
+# TODO-2: Write your code below to add the grades to student_grades.👇
 
 for student in student_scores:
     grade = ""
