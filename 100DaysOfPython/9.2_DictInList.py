@@ -4,14 +4,14 @@
 
 travel_log = [
 {
-  "country": "France",
-  "visits": 12,
-  "cities": ["Paris", "Lille", "Dijon"]
+    "country": "France",
+    "visits": 12,
+    "cities": ["Paris", "Lille", "Dijon"]
 },
 {
-  "country": "Germany",
-  "visits": 5,
-  "cities": ["Berlin", "Hamburg", "Stuttgart"]
+    "country": "Germany",
+    "visits": 5,
+    "cities": ["Berlin", "Hamburg", "Stuttgart"]
 },
 ]
 #🚨 Do NOT change the code above
@@ -21,9 +21,9 @@ travel_log = [
 
 def add_new_country(conutry, visits, cities):
     travel_log.append({
-      "country": conutry,
-      "visits": visits,
-      "cities": cities
+        "country": conutry,
+        "visits": visits,
+        "cities": cities
     })
 
 
