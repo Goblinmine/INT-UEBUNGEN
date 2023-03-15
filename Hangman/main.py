@@ -10,6 +10,10 @@ print(logo)
 ranWord = random.choice(word_list)
 lives = len(stages) -1
 
+# debug
+print(ranWord)
+
+
 output = []
 for letter in ranWord:
     output.append('_')
@@ -33,7 +37,7 @@ while True:
     print(outputStr)
     
     # won game
-    if not letter.__contains__("_"):
+    if not output.__contains__("_"):
         print(f"You won the game!")
         exit()
     
