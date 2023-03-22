@@ -1,4 +1,4 @@
-# Exercise:         Day 1.3 | Input Function
+# Exercise:         Adder
 # Created by:       Goblinmine
 # Creation date:    20. 03. 2023
 
