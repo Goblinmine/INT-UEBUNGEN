@@ -2,7 +2,7 @@
 # Created by:       Jonas Millonig
 # Creation date:    20. 03. 2023
 
-def AddNumber():
+def add_number():
     output = 0
     
     while True:
@@ -13,5 +13,5 @@ def AddNumber():
     return output
 
 
-print(f"The sum is: {AddNumber()}")
+print(f"The sum is: {add_number()}")
 

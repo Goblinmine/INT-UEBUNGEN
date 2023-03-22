@@ -2,7 +2,7 @@
 # Created by:       Jonas Millonig
 # Creation date:    20. 03. 2023
 
-def AddName():
+def add_name():
     output = []
     
     while True:
@@ -14,4 +14,4 @@ def AddName():
     return output
 
 
-print(AddName())
+print(add_name())
