@@ -1,3 +1,7 @@
+# Exercise:         Add Name
+# Created by:       Jonas Millonig
+# Creation date:    20. 03. 2023
+
 def AddName():
     output = []
     
