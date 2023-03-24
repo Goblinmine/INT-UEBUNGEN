@@ -28,39 +28,48 @@ logo = """
 
 def get_emty_table():
     return {
-        "dealer":[],
-        "player":[]
+        "dealer":{
+            "points": 0,
+            "cards": []
+        },
+        "player":{
+            "points": 0,
+            "cards": []
+        }
     }
 
 
-def give_random_cards(guy: list, how_many: int = 1):
+def give_random_cards(guy: dict[str, any], how_many: int = 1):
     cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
     for i in range(how_many):
-        guy.append(cards[random.randint(0, len(cards) - 1)])
-        # debug
-        # print(guy[-1])
+        print(type(guy["cards"]))
+        print(guy["cards"])
+        guy["cards"].append(cards[random.randint(0, len(cards) - 1)])
         
-def show_cards_on_table(cards_on_table: dict[str, list]):
-    for guy in cards_on_table:
-        if guy == "player":
-            print(f"Your cards: {cards_on_table[guy]}, current score: {sum(cards_on_table[guy])}") # score could be over 21
-        elif guy == "dealer":
-            print(f"Computers first card: {cards_on_table[guy][0]}")
+def show_cards_on_table(cards_on_table: dict[str, dict[str, any]], final = False):
+    if final:
+        print(f"Your final hand: {cards_on_table['player']['cards']}, final score: {cards_on_table['player']['points']}")
+        print(f"Computer's final hand: {cards_on_table['dealer']['cards']}, final score: {cards_on_table['dealer']['points']}")
+    else:
+        print(f"Your cards: {cards_on_table['player']['cards']}, current score: {cards_on_table['player']['points']}")
+        print(f"Computer's first card: {cards_on_table['dealer']['cards'][0]}")
     
-    # for guy in cards_on_table:
-    #     if guy == "dealer":
-    #         print("Dealers cards:")
-    #         if len(cards_on_table[guy]) == 2:              
-    #             print("Not visible")
-    #             print(cards_on_table[guy][0])
-    #         else:
-    #             for cards in cards_on_table[guy]:
-    #                 print(cards)
-    #     elif guy == "player":
-    #         print("\nYour cards:")
-    #         for cards in cards_on_table[guy]:
-    #             print(cards)
-                
+def calc_ace(guy: dict[str, any]):
+    # print(type(guy['cards']))
+    # print(guy['cards'])
+    guy["points"] = sum(guy["cards"])
+    if guy["points"] > 21:
+        for card in guy["cards"]:
+            if card == 11 and guy["points"] > 21:
+                first_index_11 = guy["cards"].index(11)
+                guy["cards"][first_index_11] = 1
+                guy["points"] = sum(guy["cards"])
+    return guy
+
+
+
+
+
                 
 # # if dealer < 17
 # def calc_points(cards_on_table: dict[str, list]):
@@ -92,7 +101,7 @@ def calc_dealer(dealers_cards: list):
         give_random_cards(dealers_cards)
         # not sure about that
         # dealers_cards = over_21(dealers_cards)
-        over_21(dealers_cards)
+        calc_ace(dealers_cards)
         dealer_points = sum(dealers_cards)
         
     
@@ -105,18 +114,8 @@ def calc_dealer(dealers_cards: list):
                 
     return points
 
-
-def over_21(guy: list):
-    points = sum(guy)
-    if points > 21:
-        for card in guy:
-            if card == 11 and points > 21:
-                guy[guy.index(11)] = 1
-                points = sum(guy)
-    return guy
-
 def check_gameover(player_cards: list):
-    over_21(player_cards)   
+    calc_ace(player_cards)   
     if sum(player_cards) >= 21:
         return True
     
@@ -129,7 +128,7 @@ def show_end_screen(cards_on_table: dict[str, list]):
     points_dealer = sum(cards_on_table["dealer"])
     points_player = sum(cards_on_table["player"])
     
-    over_21(cards_on_table["player"])   
+    calc_ace(cards_on_table["player"])   
     
     
     print(f"Your final hand: {cards_on_table['player']}, final score: {sum(cards_on_table['player'])}")
@@ -149,52 +148,69 @@ def show_end_screen(cards_on_table: dict[str, list]):
     else:
         print("draw")
 
-print(logo)
+
 
 
 # 4 cards are getting pulled. 2 for the play. they see it. 2 for dealer. player only sees 1
+
+
 def main():
+    # main loop. end of loop when lost or won
     while True:
-        
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    while True:
+        # draw logo and first pick.
+        print(logo)
         cards_on_table = get_emty_table()
+        
         give_random_cards(cards_on_table["dealer"], 2)
         give_random_cards(cards_on_table["player"], 2)
+        calc_ace(cards_on_table["player"])
+        
         show_cards_on_table(cards_on_table)
         
-        if check_gameover(cards_on_table["player"]):
-            show_end_screen(cards_on_table)
-            break
+        # check 
+        # mid game loop. get out of it if check. or if player selects stand
+        while input("Do you want to take another card or stand? [c]ard / [s]and\n").lower() == 'c':
+            give_random_cards(cards_on_table["player"])
+            show_cards_on_table(cards_on_table)
         
-        
-        while True:
-            player_input = input("Do you want to take another card or stand? [c]ard / [s]and\n").lower()
-            if player_input == 'c':
-                # takes another card.
-                give_random_cards(cards_on_table["player"])
-                show_cards_on_table(cards_on_table)
-                break
-            elif player_input == 's':
-                pass
-                break
-            else:
-                print("wrong input. try again\n")
-        
+        # calc points and winner. show end screen.
+        show_cards_on_table(cards_on_table, final=True)
+    
         if input("Want to try again? y / n\n") != 'y':
             break
+        
+        
+        
+    
+    
+    
+    
+    # while True:
+    #     cards_on_table = get_emty_table()
+    #     give_random_cards(cards_on_table["dealer"], 2)
+    #     give_random_cards(cards_on_table["player"], 2)
+    #     show_cards_on_table(cards_on_table)
+        
+    #     if check_gameover(cards_on_table["player"]):
+    #         show_end_screen(cards_on_table)
+    #         break
+        
+        
+    #     while True:
+    #         player_input = input("Do you want to take another card or stand? [c]ard / [s]and\n").lower()
+    #         if player_input == 'c':
+    #             # takes another card.
+    #             give_random_cards(cards_on_table["player"])
+    #             show_cards_on_table(cards_on_table)
+    #             break
+    #         elif player_input == 's':
+    #             pass
+    #             break
+    #         else:
+    #             print("wrong input. try again\n")
+        
+    #     if input("Want to try again? y / n\n") != 'y':
+    #         break
         
         
     
