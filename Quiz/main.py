@@ -1,28 +1,33 @@
 from quiz_brain import Quiz
 from data import question_data
+import urllib.request
+import json
+import base64
 
-# Q.1: The HTML5 standard was published in 2014. (True/False): True
-# You got it right!
-# The correct answer was: True.
-# Your current score is: 1/1
+URL = 'https://opentdb.com/api.php?amount=12&type=boolean&encode=base64'
+
+# README!!!
+# if you want to use this with the data.py questions insted of the API set the use_api variable to False!
+use_api = True
 
 
 def main():
-    quiz = Quiz(question_data)
+    def question_data_api():
+        response = urllib.request.urlopen(URL)
+        data = json.loads(response.read().decode())           
+        return [{"text":base64.b64decode(x['question']).decode(), "answer":base64.b64decode(x['correct_answer']).decode()} for x in data['results']]
     
     def get_user_input(input_str: str) -> bool:
-        
         output = None
         while output == None:
             user_input = input(input_str).lower()
-            if user_input in ('true', 't', '1'):
-                output = True
-            elif user_input in ('false', 'f', '0'):
-                output = False
-            else:
-                print("\nInput Error! Try again. Press ctrl + c to exit.\n")
+            if user_input in ('true', 't', '1'): output = True
+            elif user_input in ('false', 'f', '0'): output = False
+            else: print("\nInput Error! Try again. Press ctrl + c to exit.\n")
                 
         return output
+    
+    quiz = Quiz(question_data_api() if use_api else question_data)   
     
     while not quiz.completed:
         next_question = quiz.get_next_question()

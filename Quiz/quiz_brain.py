@@ -13,15 +13,15 @@ class Quiz:
             for question_data in quiz_data:
                 self.__questions.append(Question(question_data))
                 
-    def import_quiz_data(self, quiz_data) -> bool:
-        """Imports quiz data if not allready done on init"""
-        if len(self.__questions) == 0:
-            return False
+    # def import_quiz_data(self, quiz_data) -> bool:
+    #     """Imports quiz data if not allready done on init"""
+    #     if len(self.__questions) == 0:
+    #         return False
         
-        for question_data in quiz_data:
-                self.__questions.append(Question(question_data))  
+    #     for question_data in quiz_data:
+    #             self.__questions.append(Question(question_data))  
                 
-        return True 
+    #     return True 
          
     def get_next_question(self) -> tuple[str, str]:
         """Retuns score and next question"""
