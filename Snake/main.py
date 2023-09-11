@@ -17,12 +17,30 @@ size = 30
 SIZEX = grid_unit*size
 SIZEY = grid_unit*size
 
-Screen().setup(SIZEX, SIZEY)
+Screen().setup(SIZEX+3*grid_unit, SIZEY+3*grid_unit)
 Screen().colormode(255)
 
 
+# region draw board
+board_turtle = Turtle(visible=False)
+board_turtle.penup()
+board_turtle.speed(0)
+board_turtle.pensize(grid_unit-3)
 
+board_turtle.goto(-SIZEX/2-grid_unit, -SIZEY/2-grid_unit)
+board_turtle.pendown()
+board_turtle.setheading(0)
+for _ in range(4):
+    board_turtle.forward(SIZEX+2*grid_unit)
+    board_turtle.left(90)  
+# endregion
 
+# debug
+# board_turtle.color(200, 200, 200)
+# board_turtle.goto(SIZEX/2, SIZEX/2)
+# board_turtle.goto(SIZEX/2, -SIZEX/2)
+# board_turtle.goto(-SIZEX/2, SIZEX/2)
+# board_turtle.goto(-SIZEX/2, -SIZEX/2)
 
 # region food
 food_turtle = Turtle(visible=False)
@@ -37,7 +55,13 @@ def add_food(how_many, food: list[tuple[int, int]]):
 
         food.append(new_food)
         food_turtle.goto(new_food)
-        food_turtle.dot(10)
+        food_turtle.dot(15)
+def clean_food(ctx):
+    food_turtle.color(255, 255, 255)
+    print(f"lol: {ctx}")
+    food_turtle.goto(ctx)
+    food_turtle.dot(16)
+    food_turtle.color(0,0,0)
 
 
 
@@ -57,8 +81,8 @@ async def main():
         # Execute your code here
         loop_counter += 1
         turtle.update()
-        if loop_counter == 10:
-            snake.move(buffered_input)
+        if loop_counter == 30:
+            snake.move(buffered_input, clean_food)
             
             add_food(1, food)
             

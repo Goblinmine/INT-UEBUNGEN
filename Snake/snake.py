@@ -44,7 +44,7 @@ class Snake:
     # 4. won?
     
     
-    def __check_food(self):
+    def __check_food(self, clean_event):
         pos = (
             int(self.head.pos()[0]),
             int(self.head.pos()[1])
@@ -52,13 +52,15 @@ class Snake:
         if pos in self.__food:
             self.__food.remove(pos)
             self.grow = True
+            clean_event(pos)
+            
             
     
     def heading(self):
         return self.head.heading()
     
-    def move(self, heading: int):
-        self.__check_food()
+    def move(self, heading: int, eat_clean_event = None):
+        self.__check_food(eat_clean_event)
         print(f"Turtle: {self.head.pos()}, foods: {self.__food}")
         self.head.setheading(heading)
         self.__body_stamps.append(self.head.stamp())
