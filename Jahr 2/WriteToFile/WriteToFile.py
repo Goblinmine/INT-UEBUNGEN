@@ -2,11 +2,19 @@
 # Created by:       Jonas Millonig
 # Creation date:    12. 09. 2023
 
-rootPath = 'Jahr 2/WriteToFile/'
+projectPath = 'Jahr 2/WriteToFile/'
 
-# with open(rootPath + 'myFile.txt') as file:
-    # contents = file.read()
-    # print(contents)
+# with open(projectPath + 'myFile.txt') as file:
+#     contents = file.read()
+#     print(contents)
 
-with open(rootPath + 'myFile.txt', 'w') as file:
-    file.write('New text.')
+# with open(projectPath + 'myFile.txt', 'a') as file:
+#     file.write('\nNew text.')
+
+# with open("C:/Users/Jonas/Desktop/new_file.txt") as file:
+#     contents = file.read()
+#     print(contents)
+
+# with open("../../../Desktop/new_file.txt") as file:
+#     contents = file.read()
+#     print(contents)
