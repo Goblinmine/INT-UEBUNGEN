@@ -22,7 +22,7 @@ def get_starting_letter(starting_letter_file: str) -> str:
 
 def make_letters(people: list[str], starting_letter: str, output_path: str) -> None:
     for person in people:
-            with open(f'Jahr 2/WorkWithFiles/Output/ReadyToSend/{person}.txt','w') as outputfile:
+            with open(f'{output_path}/{person}.txt','w') as outputfile:
                 outputfile.write(starting_letter.replace('[name]',person)) 
     
 
@@ -31,4 +31,4 @@ def main(workingdir: str, invited_names_file: str, starting_letter_file: str, ou
     starting_letter = get_starting_letter(workingdir + starting_letter_file)
     make_letters(people, starting_letter, workingdir + output_path)    
 
-if __name__ == '__main__': main('Jahr 2/WorkWithFiles/', 'Input/Names/invited_names.txt','Input/Letters/starting_letter.txt', 'Output/ReadyToSend')
+if __name__ == '__main__': main('Jahr 2/MailMerge/', 'Input/Names/invited_names.txt','Input/Letters/starting_letter.txt', 'Output/ReadyToSend')
