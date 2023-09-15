@@ -5,11 +5,15 @@
 placeholder = {'VERB_ING', 'NOUN', 'ADJECTIVE'}
 
 def makeCrazyLib(filename: str) -> str:
-    text = '\n'
-    with open(filename) as file:
-        for line in file:
-            text += processLine(line)
-    return text
+    text = ''
+    try:
+        with open(filename) as file:
+            for line in file:
+                text += processLine(line)
+    except FileNotFoundError:
+        print(f'File "{filename}" nicht gefunden!')
+    finally:
+        return text
 
 def processLine(line: str) -> str:
     processdLine = ''
@@ -25,8 +29,19 @@ def processLine(line: str) -> str:
     processdLine += '\n' 
     return processdLine
 
+def save_crazy_lib(filename: str, text: str) -> None:
+    try:
+        with open(filename, 'w') as file:
+            file.write(text)
+    except FileNotFoundError:
+        print(f'File "{filename}" nicht gefunden!')
+    pass
+
 
 def main() -> None:
-    print(makeCrazyLib('Jahr 2/Crazy lib/lib.txt'))
+    filename = 'Jahr 2/Crazy lib/lib.txt'
+    text = makeCrazyLib(filename)
+    print(text)
+    save_crazy_lib(filename, text)
 
 if __name__ == '__main__': main()
