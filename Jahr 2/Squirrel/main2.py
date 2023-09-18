@@ -5,6 +5,11 @@
 import pandas
 import numpy as np
 
+# Read csv file
 data = pandas.read_csv('Jahr 2/Squirrel/data.csv')
 
-print(data.groupby('Primary Fur Color').size().reset_index(name='Amount'))
+# only show relevant data and group by color
+data_filterd = data.groupby('Primary Fur Color').size().reset_index(name='Amount')
+
+# save data to csv file
+data_filterd.to_csv('Jahr 2/Squirrel/output.csv')
