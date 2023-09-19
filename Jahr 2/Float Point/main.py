@@ -2,7 +2,6 @@
 # Created by:       Jonas Millonig
 # Creation date:    19. 09. 2023
 
-
 def convert_to_b(num: int, decimal_num: float = 0.0, max_lenght_decimal = 128) -> tuple[str, str]:     
     output_decimal = ''
     output_num = ''
