@@ -1,0 +1,23 @@
+SPALTENFELD;TABELLENAME;BEDEUTUNG ;ANMERKUNG
+SEE;Seen_Morphometrie;Seenname;
+GEO_LAENGE;Seen_Morphometrie;Geographische Länge der tiefsten Stelle;
+GEO_BREITE;Seen_Morphometrie;Geographische Breite der tiefsten Stelle;
+SEEHÖHE;Seen_Morphometrie;Seehöhe [m ü. A.];
+FLÄCHE;Seen_Morphometrie;Fläche [km²];
+MAX_TIEFE;Seen_Morphometrie;Max. Tiefe [m];
+MITTLERE_TIEFE;Seen_Morphometrie;Mittlere Tiefe [m];
+VOLUMEN;Seen_Morphometrie;Volumen [m³];
+W_ERNEUERUNG;Seen_Morphometrie;Theoretische Wassererneuerungszeit [Jahre];
+ABFLUSS;Seen_Morphometrie;Abfluss MQ (1971 - 1990) [l/s];
+EINZUG;Seen_Morphometrie;Einzugsgebiet [km²];
+MESSSTELLE;Seenberichtsdaten Jahr […];Messstellenbezeichnung;
+PARAMETER;Seenberichtsdaten Jahr […];Kurzform der Parameterbezeichnung;
+PARAMETERBEZEICHNUNG;Seenberichtsdaten Jahr […];Parameterbezeichnung;
+DIM;Seenberichtsdaten Jahr […];Dimension des Parameters;
+T.von;Seenberichtsdaten Jahr […];Tiefe von [m];"wenn die Werte in den Spalten ""T.von"" und ""T.bis"" übereinstimmen handelt es sich um einen gemessenen Wert aus der angegebenen Tiefe"
+T.bis;Seenberichtsdaten Jahr […];Tiefe bis [m];"wenn die Werte in den Spalten ""T.von"" und ""T.bis"" nicht übereinstimmen handelt es sich um einen Mittelwert aus der besagten Wassersäule"
+JAHR;Seenberichtsdaten Jahr […];Probenahmejahr;
+MIN;Seenberichtsdaten Jahr […];Minimumwert;
+MAX;Seenberichtsdaten Jahr […];Maximumwert;
+AVG;Seenberichtsdaten Jahr […];Mittelwert;
+ANZ;Seenberichtsdaten Jahr […];Probenanzahl [n];
