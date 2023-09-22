@@ -1,7 +1,7 @@
 MESSSTELLE;PARAMETER;PARAMETERBEZEICHNUNG;DIM;T.von;T.bis;JAHR;MIN;MAX;AVG;ANZ
-Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;3;20;9;3
-Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;20;2017;3;17,819801;8,192454;3
-Afritzer See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;165;178;173;4
+Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;3;20;9;3
+Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;20;2017;3;17,819801;8,192454;3
+Afritzer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;165;178;173;4
 Afritzer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;20;20;2017;0,0543;0,558;0,285225;4
 Afritzer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,24736;0,094003;4
 Afritzer See [tief.St.];O2;Sauerstoffgehalt;mg/l;20;20;2017;0,1;5,1;1,95;4
@@ -9,40 +9,40 @@ Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;20;20;2017;0,0157;0,0774;0,04
 Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;22;2017;0,012559;0,0298;0,019931;4
 Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0102;0,0271;0,01525;4
 Afritzer See [tief.St.];pH;pH-Wert;;1;1;2017;7,5;9,1;8,25;4
-Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;20;2017;0,320141;0,933451;0,700192;4
-Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,351235;0,760776;0,49541;4
+Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;20;2017;0,320141;0,933451;0,700192;4
+Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,351235;0,760776;0,49541;4
 Afritzer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0054;0,0021;4
 Afritzer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,5;4,6;3,625;4
-Afritzer See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;5,8;21,3;12,375;4
-Aichwaldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;1;8;4,5;2
-Aichwaldsee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;409;426;417,5;2
+Afritzer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;5,8;21,3;12,375;4
+Aichwaldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;1;8;4,5;2
+Aichwaldsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;409;426;417,5;2
 Aichwaldsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;7;7;2017;0,0775;0,798;0,43775;2
 Aichwaldsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,034;0,20493;0,119465;2
 Aichwaldsee [tief.St.];O2;Sauerstoffgehalt;mg/l;7;7;2017;0,2;9;4,6;2
 Aichwaldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0098;0,0149;0,01235;2
 Aichwaldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;7;2017;0,009824;0,015163;0,012494;2
 Aichwaldsee [tief.St.];pH;pH-Wert;;1;1;2017;7,8;8;7,9;2
-Aichwaldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0;0;0;0
+Aichwaldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0;0;0;0
 Aichwaldsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001;0,001;2
 Aichwaldsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,9;6,3;4,6;2
-Aichwaldsee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;14,3;22,7;18,5;2
-Badesee Kirschentheuer [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;0;0;0;0
-Badesee Kirschentheuer [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;10;2017;0;0;0;0
-Badesee Kirschentheuer [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;0;0;0;0
+Aichwaldsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;14,3;22,7;18,5;2
+Badesee Kirschentheuer [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2017;0;0;0;0
+Badesee Kirschentheuer [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];pH;pH-Wert;;1;1;2017;0;0;0;0
-Badesee Kirschentheuer [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;10;2017;0;0;0;0
-Badesee Kirschentheuer [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0;0;0;0
+Badesee Kirschentheuer [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2017;0;0;0;0
+Badesee Kirschentheuer [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0;0;0;0
 Badesee Kirschentheuer [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0;0;0;0
-Badesee Kirschentheuer [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;0;0;0;0
-Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;29;2017;0,5;2,114096;1,167449;3
-Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;0,5;2,75;1,416667;3
-Faaker See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;338;380;365,75;4
+Badesee Kirschentheuer [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;0;0;0;0
+Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;29;2017;0,5;2,114096;1,167449;3
+Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;0,5;2,75;1,416667;3
+Faaker See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;338;380;365,75;4
 Faaker See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;29;29;2017;0,0066;0,0244;0,015975;4
 Faaker See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,159983;0,215445;0,190236;4
 Faaker See [tief.St.];O2;Sauerstoffgehalt;mg/l;29;29;2017;0,1;8,4;4,2;4
@@ -50,14 +50,14 @@ Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,006374;0,01009;0,007
 Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;29;2017;0,007002;0,010187;0,008003;4
 Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;29;29;2017;0,0096;0,0111;0,01035;4
 Faaker See [tief.St.];pH;pH-Wert;;1;1;2017;7,97;8,2;8,0675;4
-Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;29;2017;0,079706;0,197631;0,144144;4
-Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,095839;0,315893;0,200601;4
+Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;29;2017;0,079706;0,197631;0,144144;4
+Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,095839;0,315893;0,200601;4
 Faaker See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,003688;0,002008;4
 Faaker See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;4,4;6,4;5,533333;4
-Faaker See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;6;18,8;12,3;4
-Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;26;2017;3,287695;8,736391;5,480717;3
-Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;3;14;7,333333;3
-Feldsee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;125;127;125,75;4
+Faaker See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;6;18,8;12,3;4
+Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;26;2017;3,287695;8,736391;5,480717;3
+Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;3;14;7,333333;3
+Feldsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;125;127;125,75;4
 Feldsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;26;26;2017;0,0382;1,06;0,556175;4
 Feldsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,23894;0,124338;4
 Feldsee [tief.St.];O2;Sauerstoffgehalt;mg/l;26;26;2017;0,1;4;1,25;4
@@ -65,49 +65,49 @@ Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;26;26;2017;0,0168;0,2044;0,10965;4
 Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;26;2017;0,011723;0,016377;0,014817;4
 Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0094;0,0138;0,011775;4
 Feldsee [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8,4;8,125;4
-Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,262725;1,016444;0,579773;4
-Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;26;2017;0,319478;1,174381;0,843192;4
+Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,262725;1,016444;0,579773;4
+Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;26;2017;0,319478;1,174381;0,843192;4
 Feldsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0026;0,00165;4
 Feldsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3,6;5,2;4,425;4
-Feldsee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;5,9;21,2;12,225;4
-Ferlacher Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;2;2;2;1
-Ferlacher Badesee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;314;337;325,5;2
+Feldsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;5,9;21,2;12,225;4
+Ferlacher Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;2;2;2;1
+Ferlacher Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;314;337;325,5;2
 Ferlacher Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2017;0,0545;0,0599;0,0572;2
 Ferlacher Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,23877;0,24032;0,239545;2
 Ferlacher Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2017;5,8;7,1;6,45;2
 Ferlacher Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0,0093;0,0145;0,0119;2
 Ferlacher Badesee [tief.St.];pH;pH-Wert;;1;1;2017;8;8,1;8,05;2
-Ferlacher Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0,298183;0,60176;0,449972;2
+Ferlacher Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0,298183;0,60176;0,449972;2
 Ferlacher Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001;0,001;0,001;2
 Ferlacher Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;4;4,7;4,35;2
-Ferlacher Badesee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;20,2;22,1;21,15;2
-Flatschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;1;1;2017;22;22;22;1
-Flatschacher See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;204;210;207;2
+Ferlacher Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;20,2;22,1;21,15;2
+Flatschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2017;22;22;22;1
+Flatschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;204;210;207;2
 Flatschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0276;0,0562;0,0419;2
 Flatschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,23929;0,37087;0,30508;2
 Flatschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;6,5;8,5;7,5;2
 Flatschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0344;0,0427;0,03855;2
 Flatschacher See [tief.St.];pH;pH-Wert;;1;1;2017;7,42;8,1;7,76;2
-Flatschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;1;1;2017;0;0;0;0
+Flatschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2017;0;0;0;0
 Flatschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,0022;0,0028;0,0025;2
 Flatschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,1;1,4;1,25;2
-Flatschacher See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;17,1;23,2;20,15;2
-Forstsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;6;6;6;1
-Forstsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;30;2017;2,16129;2,16129;2,16129;1
-Forstsee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;268;271;269,5;2
+Flatschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;17,1;23,2;20,15;2
+Forstsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;6;6;6;1
+Forstsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2017;2,16129;2,16129;2,16129;1
+Forstsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;268;271;269,5;2
 Forstsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2017;0,0067;0,0277;0,0172;2
 Forstsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,51258;0,51286;0,51272;2
 Forstsee [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2017;1;1,2;1,1;2
 Forstsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0123;0,0123;0,0123;2
 Forstsee [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2017;0,0112;0,0198;0,0155;2
 Forstsee [tief.St.];pH;pH-Wert;;1;1;2017;8;8,5;8,25;2
-Forstsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;30;2017;0;0;0;0
-Forstsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0;0;0;0
+Forstsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2017;0;0;0;0
+Forstsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0;0;0;0
 Forstsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0021;0,00155;2
 Forstsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3,9;4;3,95;2
-Forstsee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;16,3;23,3;19,8;2
-Goggausee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;13;20;16;3
-Goggausee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;166;182;171,6;5
+Forstsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;16,3;23,3;19,8;2
+Goggausee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;13;20;16;3
+Goggausee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;166;182;171,6;5
 Goggausee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;8;8;2017;0,438;1,391;1,032;4
 Goggausee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,00565;0,0615;0,02245;4
 Goggausee [tief.St.];O2;Sauerstoffgehalt;mg/l;8;8;2017;0,1;3,5;0,78;5
@@ -116,36 +116,36 @@ Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;8;8;2017;0,0304;0,07004;0,05421;
 Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;8;2017;0,03135;0,046723;0,037994;4
 Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2017;0,0165;0,0321;0,024325;4
 Goggausee [tief.St.];pH;pH-Wert;;1;1;2017;7,6;8,5;8;5
-Goggausee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0,391951;1,768952;1,021811;4
+Goggausee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0,391951;1,768952;1,021811;4
 Goggausee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001775;0,00335;0,002588;4
 Goggausee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,3;4,5;2,68;5
-Goggausee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;4,5;22,2;13,84;5
-Gï¿½sselsdorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;1;1;2017;3;5;4;2
-Gï¿½sselsdorfer See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;305;344;324,5;2
-Gï¿½sselsdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0073;0,0385;0,0229;2
-Gï¿½sselsdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,00565;0,113;0,059325;2
-Gï¿½sselsdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;7,3;9,5;8,4;2
-Gï¿½sselsdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0147;0,0185;0,0166;2
-Gï¿½sselsdorfer See [tief.St.];pH;pH-Wert;;1;1;2017;8,2;8,2;8,2;2
-Gï¿½sselsdorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;1;1;2017;0,165691;0,849304;0,507498;2
-Gï¿½sselsdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,001;0,0027;0,00185;2
-Gï¿½sselsdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0,9;1,7;1,3;2
-Gï¿½sselsdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;14,4;22,3;18,35;2
-Greifenburger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;6;6;6;1
-Greifenburger Badesee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;310;348;329;2
+Goggausee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;4,5;22,2;13,84;5
+Gösselsdorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2017;3;5;4;2
+Gösselsdorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;305;344;324,5;2
+Gösselsdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0073;0,0385;0,0229;2
+Gösselsdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,00565;0,113;0,059325;2
+Gösselsdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;7,3;9,5;8,4;2
+Gösselsdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0147;0,0185;0,0166;2
+Gösselsdorfer See [tief.St.];pH;pH-Wert;;1;1;2017;8,2;8,2;8,2;2
+Gösselsdorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2017;0,165691;0,849304;0,507498;2
+Gösselsdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,001;0,0027;0,00185;2
+Gösselsdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0,9;1,7;1,3;2
+Gösselsdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;14,4;22,3;18,35;2
+Greifenburger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;6;6;6;1
+Greifenburger Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;310;348;329;2
 Greifenburger Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2017;0,468;1,568;1,018;2
 Greifenburger Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,37933;0,69871;0,53902;2
 Greifenburger Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2017;0,1;1,4;0,75;2
 Greifenburger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2017;0,0185;0,0593;0,0389;2
 Greifenburger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0078;0,0115;0,00965;2
 Greifenburger Badesee [tief.St.];pH;pH-Wert;;1;1;2017;8,4;8,4;8,4;2
-Greifenburger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;12;2017;0;0;0;0
-Greifenburger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0;0;0;0
+Greifenburger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2017;0;0;0;0
+Greifenburger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0;0;0;0
 Greifenburger Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0021;0,00155;2
 Greifenburger Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;5,6;9,3;7,45;2
-Greifenburger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;21,9;24,5;23,2;2
-Hafnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;9;12;10,5;2
-Hafnersee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;367;376;371,5;2
+Greifenburger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;21,9;24,5;23,2;2
+Hafnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;9;12;10,5;2
+Hafnersee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;367;376;371,5;2
 Hafnersee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2017;0,878;3,3425;2,11025;2
 Hafnersee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,041;0,30094;0,17097;2
 Hafnersee [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2017;0,1;0,1;0,1;2
@@ -153,25 +153,25 @@ Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2017;0,017145;0,01954;0,018
 Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2017;0,044;0,0525;0,04825;2
 Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0155;0,0179;0,0167;2
 Hafnersee [tief.St.];pH;pH-Wert;;1;1;2017;7,5;8,2;7,85;2
-Hafnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0;0;0;0
-Hafnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;10;2017;0;0;0;0
+Hafnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0;0;0;0
+Hafnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2017;0;0;0;0
 Hafnersee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,002;0,0015;2
 Hafnersee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,5;2,7;2,6;2
-Hafnersee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;15,3;21,9;18,6;2
-Hï¿½rzendorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;3;2017;5;48;26,5;2
-Hï¿½rzendorfer See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;400;494;447;2
-Hï¿½rzendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2017;0,0612;0,154;0,1076;2
-Hï¿½rzendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2017;0,863961;2,458068;1,661015;2
-Hï¿½rzendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2017;5,7;7,4;6,55;2
-Hï¿½rzendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2017;0,045188;0,056925;0,051057;2
-Hï¿½rzendorfer See [tief.St.];pH;pH-Wert;;1;1;2017;7,4;7,8;7,6;2
-Hï¿½rzendorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;3;2017;0;0;0;0
-Hï¿½rzendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2017;0,002538;0,002575;0,002557;2
-Hï¿½rzendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0,7;1;0,85;2
-Hï¿½rzendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;15,4;21,2;18,3;2
-Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;3;6;4,5;2
-Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;15;2017;2,538462;7,090909;4,814686;2
-Keutschacher See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;280;330;310,25;4
+Hafnersee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;15,3;21,9;18,6;2
+Hörzendorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;3;2017;5;48;26,5;2
+Hörzendorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;400;494;447;2
+Hörzendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2017;0,0612;0,154;0,1076;2
+Hörzendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2017;0,863961;2,458068;1,661015;2
+Hörzendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2017;5,7;7,4;6,55;2
+Hörzendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2017;0,045188;0,056925;0,051057;2
+Hörzendorfer See [tief.St.];pH;pH-Wert;;1;1;2017;7,4;7,8;7,6;2
+Hörzendorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;3;2017;0;0;0;0
+Hörzendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2017;0,002538;0,002575;0,002557;2
+Hörzendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0,7;1;0,85;2
+Hörzendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;15,4;21,2;18,3;2
+Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;3;6;4,5;2
+Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;15;2017;2,538462;7,090909;4,814686;2
+Keutschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;280;330;310,25;4
 Keutschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2017;0,2491;1,323;0,614275;4
 Keutschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,041071;0,251815;0,135845;4
 Keutschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2017;0,1;8,7;3,025;4
@@ -179,13 +179,13 @@ Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,007962;0,01183
 Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;15;2017;0,010933;0,015157;0,013075;4
 Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2017;0,0115;0,0424;0,025025;4
 Keutschacher See [tief.St.];pH;pH-Wert;;1;1;2017;8,1;8,3;8,175;4
-Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,247428;1,666517;0,74419;4
-Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;15;2017;0,456545;1,300013;0,968668;4
+Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,247428;1,666517;0,74419;4
+Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;15;2017;0,456545;1,300013;0,968668;4
 Keutschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,00261;0,001507;4
 Keutschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,1;6,3;4,1;4
-Keutschacher See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;4,7;23,5;13,475;4
-Klopeiner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;2;2,75;2,333333;3
-Klopeiner See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;253;267;259,5;4
+Keutschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;4,7;23,5;13,475;4
+Klopeiner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;2;2,75;2,333333;3
+Klopeiner See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;253;267;259,5;4
 Klopeiner See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2017;1,161;1,802;1,576375;4
 Klopeiner See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,024714;0,014416;4
 Klopeiner See [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2017;0,1;0,1;0,1;4
@@ -194,52 +194,52 @@ Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;20;2017;0,008908;0,012494;
 Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2017;0,0215;0,0901;0,0601;4
 Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2017;0,013507;0,023187;0,017571;4
 Klopeiner See [tief.St.];pH;pH-Wert;;1;1;2017;7,75;8,2;7,9625;4
-Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;20;2017;0,286371;0,706761;0,439696;4
-Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,316354;0,563859;0,454976;4
+Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;20;2017;0,286371;0,706761;0,439696;4
+Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,316354;0,563859;0,454976;4
 Klopeiner See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,00214;0,001285;4
 Klopeiner See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;7,4;10,3;8,925;4
-Klopeiner See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;5,5;24;13,875;4
-Kraiger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;8;8;8;1
-Kraiger See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;490;530;510;2
+Klopeiner See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;5,5;24;13,875;4
+Kraiger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;8;8;8;1
+Kraiger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;490;530;510;2
 Kraiger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;8;8;2017;0,0495;0,487;0,26825;2
 Kraiger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,00565;0,00565;2
 Kraiger See [tief.St.];O2;Sauerstoffgehalt;mg/l;8;8;2017;3;8,5;5,75;2
 Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0136;0,0139;0,01375;2
 Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;8;8;2017;0,0127;0,0436;0,02815;2
 Kraiger See [tief.St.];pH;pH-Wert;;1;1;2017;8,1;8,2;8,15;2
-Kraiger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0;0;0;0
+Kraiger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0;0;0;0
 Kraiger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001;0,001;2
 Kraiger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,8;3,8;3,3;2
-Kraiger See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;20,8;21,6;21,2;2
-Lï¿½ngsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;3;6;4,333333;3
-Lï¿½ngsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;15;2017;2,535291;6,929418;4,17843;3
-Lï¿½ngsee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;392;422;407,5;4
-Lï¿½ngsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2017;1,451;2,41;1,980875;4
-Lï¿½ngsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,059;0,13387;0,081968;4
-Lï¿½ngsee [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2017;0,1;0,1;0,1;4
-Lï¿½ngsee [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2017;0,0331;0,0437;0,036775;4
-Lï¿½ngsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,008;0,0137;0,0117;4
-Lï¿½ngsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;13;2017;0,013641;0,020301;0,016754;4
-Lï¿½ngsee [tief.St.];pH;pH-Wert;;1;1;2017;7,7;8;7,85;4
-Lï¿½ngsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;15;2017;0,253682;0,571466;0,362013;4
-Lï¿½ngsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,281942;0,454113;0,35419;4
-Lï¿½ngsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0027;0,0018;4
-Lï¿½ngsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,3;6,2;4,85;4
-Lï¿½ngsee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;7,5;22,8;15,575;4
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;2;2017;6;6;6;1
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;302;304;303;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;NH4-N;Ammonium-Stickstoff;mg/l;2;2;2017;0,0064;0,0108;0,0086;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;NO3-N;Nitrat-Stickstoff;mg/l;0;2;2017;0,00565;0,00565;0,00565;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;O2;Sauerstoffgehalt;mg/l;2;2;2017;8,4;8,4;8,4;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;P-ges;Phosphor gesamt;mg/l;2;2;2017;0,0159;0,0193;0,0176;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;P-ges;Phosphor gesamt;mg/l;0;2;2017;0,0159;0,0193;0,0176;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;pH;pH-Wert;;1;1;2017;8,3;8,3;8,3;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;2;2017;0,357576;0,365041;0,361309;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;PO4-P;Phosphat-Phosphor;mg/l;0;2;2017;0,001;0,002;0,0015;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;Sichttiefe;Sichttiefe;m;0;0;2017;3;3,4;3,2;2
-Lavamï¿½nder Badeteich Sï¿½dufer Steg;Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;20,5;24,1;22,3;2
-Leonharder See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;9;38;23,5;2
-Leonharder See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;347;382;364,333333;3
+Kraiger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;20,8;21,6;21,2;2
+Längsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;3;6;4,333333;3
+Längsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;15;2017;2,535291;6,929418;4,17843;3
+Längsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;392;422;407,5;4
+Längsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2017;1,451;2,41;1,980875;4
+Längsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,059;0,13387;0,081968;4
+Längsee [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2017;0,1;0,1;0,1;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2017;0,0331;0,0437;0,036775;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,008;0,0137;0,0117;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;13;2017;0,013641;0,020301;0,016754;4
+Längsee [tief.St.];pH;pH-Wert;;1;1;2017;7,7;8;7,85;4
+Längsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;15;2017;0,253682;0,571466;0,362013;4
+Längsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,281942;0,454113;0,35419;4
+Längsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0027;0,0018;4
+Längsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,3;6,2;4,85;4
+Längsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;7,5;22,8;15,575;4
+Lavamünder Badeteich Südufer Steg;Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;2;2017;6;6;6;1
+Lavamünder Badeteich Südufer Steg;K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;302;304;303;2
+Lavamünder Badeteich Südufer Steg;NH4-N;Ammonium-Stickstoff;mg/l;2;2;2017;0,0064;0,0108;0,0086;2
+Lavamünder Badeteich Südufer Steg;NO3-N;Nitrat-Stickstoff;mg/l;0;2;2017;0,00565;0,00565;0,00565;2
+Lavamünder Badeteich Südufer Steg;O2;Sauerstoffgehalt;mg/l;2;2;2017;8,4;8,4;8,4;2
+Lavamünder Badeteich Südufer Steg;P-ges;Phosphor gesamt;mg/l;2;2;2017;0,0159;0,0193;0,0176;2
+Lavamünder Badeteich Südufer Steg;P-ges;Phosphor gesamt;mg/l;0;2;2017;0,0159;0,0193;0,0176;2
+Lavamünder Badeteich Südufer Steg;pH;pH-Wert;;1;1;2017;8,3;8,3;8,3;2
+Lavamünder Badeteich Südufer Steg;PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;2;2017;0,357576;0,365041;0,361309;2
+Lavamünder Badeteich Südufer Steg;PO4-P;Phosphat-Phosphor;mg/l;0;2;2017;0,001;0,002;0,0015;2
+Lavamünder Badeteich Südufer Steg;Sichttiefe;Sichttiefe;m;0;0;2017;3;3,4;3,2;2
+Lavamünder Badeteich Südufer Steg;Wassertemperatur;Wassertemperatur;°C;0;0;2017;20,5;24,1;22,3;2
+Leonharder See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;9;38;23,5;2
+Leonharder See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;347;382;364,333333;3
 Leonharder See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;6;6;2017;0,0053;0,1835;0,074767;3
 Leonharder See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,545364;0,233151;3
 Leonharder See [tief.St.];O2;Sauerstoffgehalt;mg/l;6;6;2017;3,2;13,4;7,3;3
@@ -247,75 +247,75 @@ Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,018436;0,052329;
 Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,016521;0,051743;0,034395;3
 Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;6;6;2017;0,0239;0,054;0,0427;3
 Leonharder See [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8,4;8,1;3
-Leonharder See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;2,04805;4,181798;3,114924;2
+Leonharder See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;2,04805;4,181798;3,114924;2
 Leonharder See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,002436;0,002493;0,002474;3
 Leonharder See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,2;2,8;2,166667;3
-Leonharder See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;10,7;22,3;18,233333;3
-Linsendorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;3;3;3;1
-Linsendorfer See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;362;369;365,5;2
+Leonharder See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;10,7;22,3;18,233333;3
+Linsendorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;3;3;3;1
+Linsendorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;362;369;365,5;2
 Linsendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2017;0,0215;0,033;0,02725;2
 Linsendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,37636;0,48176;0,42906;2
 Linsendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2017;6,6;8,4;7,5;2
 Linsendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0,0083;0,0224;0,01535;2
 Linsendorfer See [tief.St.];pH;pH-Wert;;1;1;2017;8,2;8,2;8,2;2
-Linsendorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0;0;0;0
+Linsendorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0;0;0;0
 Linsendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001;0,001;0,001;2
 Linsendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3,5;4,7;4,1;2
-Linsendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;17,3;21,1;19,2;2
-Magdalenensee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;4;2017;2;2;2;1
-Magdalenensee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;526;546;536;2
+Linsendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;17,3;21,1;19,2;2
+Magdalenensee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;4;2017;2;2;2;1
+Magdalenensee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;526;546;536;2
 Magdalenensee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;4;4;2017;0,0268;0,0618;0,0443;2
 Magdalenensee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;4;2017;0,896808;1,427396;1,162102;2
 Magdalenensee [tief.St.];O2;Sauerstoffgehalt;mg/l;4;4;2017;12,9;16;14,45;2
 Magdalenensee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;4;2017;0,00952;0,01156;0,01054;2
 Magdalenensee [tief.St.];pH;pH-Wert;;1;1;2017;8,2;8,3;8,25;2
-Magdalenensee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;4;2017;0,80334;0,97328;0,88831;2
+Magdalenensee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;4;2017;0,80334;0,97328;0,88831;2
 Magdalenensee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;4;2017;0,00228;0,0023;0,00229;2
 Magdalenensee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3,8;4;3,9;2
-Magdalenensee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;22,2;22,3;22,25;2
-Maltschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;24;24;24;1
-Maltschacher See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;229;230;229,5;2
+Magdalenensee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;22,2;22,3;22,25;2
+Maltschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;24;24;24;1
+Maltschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;229;230;229,5;2
 Maltschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2017;0,0054;0,0074;0,0064;2
 Maltschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,00565;0,014833;0,010242;2
 Maltschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2017;2,6;7,6;5,1;2
 Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;5;5;2017;0,034;0,0371;0,03555;2
 Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0,0252;0,036042;0,030621;2
 Maltschacher See [tief.St.];pH;pH-Wert;;1;1;2017;7,8;8,6;8,2;2
-Maltschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;2,342438;2,342438;2,342438;1
+Maltschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;2,342438;2,342438;2,342438;1
 Maltschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001;0,001275;0,001138;2
 Maltschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,3;2,1;1,7;2
-Maltschacher See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;21,4;23,4;22,4;2
-Millstï¿½tter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;2;6,25;3,5;3
-Millstï¿½tter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;30;2017;1,748023;4,029391;2,797475;3
-Millstï¿½tter See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;166;179;173,5;4
-Millstï¿½tter See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2017;0,002;0,002;0,002;4
-Millstï¿½tter See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,065143;0,372642;0,229211;4
-Millstï¿½tter See [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2017;5,3;7,6;6,425;4
-Millstï¿½tter See [tief.St.];O2;Sauerstoffgehalt;mg/l;100;100;2017;1,2;3,9;2,25;4
-Millstï¿½tter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2017;0,004096;0,012008;0,007604;4
-Millstï¿½tter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,006579;0,011383;0,008137;4
-Millstï¿½tter See [tief.St.];P-ges;Phosphor gesamt;mg/l;100;100;2017;0,0056;0,0115;0,0078;4
-Millstï¿½tter See [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2017;0,0025;0,0119;0,00675;4
-Millstï¿½tter See [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8,4;8,075;4
-Millstï¿½tter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;30;2017;0,2491;0,386232;0,329929;4
-Millstï¿½tter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,151166;0,888439;0,492331;4
-Millstï¿½tter See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001721;0,001258;4
-Millstï¿½tter See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;6,3;11,1;8,325;4
-Millstï¿½tter See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;6,7;19,2;12,825;4
-Moosburger Mï¿½hlteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;1;1;2017;29;29;29;1
-Moosburger Mï¿½hlteich [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;236;267;251,5;2
-Moosburger Mï¿½hlteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0061;0,0164;0,01125;2
-Moosburger Mï¿½hlteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,00565;0,027;0,016325;2
-Moosburger Mï¿½hlteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;7,6;10,1;8,85;2
-Moosburger Mï¿½hlteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0379;0,0438;0,04085;2
-Moosburger Mï¿½hlteich [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8;7,95;2
-Moosburger Mï¿½hlteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;1;1;2017;0;0;0;0
-Moosburger Mï¿½hlteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,001;0,0024;0,0017;2
-Moosburger Mï¿½hlteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,2;1,8;1,5;2
-Moosburger Mï¿½hlteich [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;20,6;21,8;21,2;2
-Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;30;2017;2,020779;5,9939;3,528785;16
-Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;2;10;4,875;8
-Ossiacher See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;228;256;243;9
+Maltschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;21,4;23,4;22,4;2
+Millstätter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;2;6,25;3,5;3
+Millstätter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2017;1,748023;4,029391;2,797475;3
+Millstätter See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;166;179;173,5;4
+Millstätter See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2017;0,002;0,002;0,002;4
+Millstätter See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,065143;0,372642;0,229211;4
+Millstätter See [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2017;5,3;7,6;6,425;4
+Millstätter See [tief.St.];O2;Sauerstoffgehalt;mg/l;100;100;2017;1,2;3,9;2,25;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2017;0,004096;0,012008;0,007604;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,006579;0,011383;0,008137;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;100;100;2017;0,0056;0,0115;0,0078;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2017;0,0025;0,0119;0,00675;4
+Millstätter See [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8,4;8,075;4
+Millstätter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2017;0,2491;0,386232;0,329929;4
+Millstätter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,151166;0,888439;0,492331;4
+Millstätter See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001721;0,001258;4
+Millstätter See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;6,3;11,1;8,325;4
+Millstätter See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;6,7;19,2;12,825;4
+Moosburger Mühlteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2017;29;29;29;1
+Moosburger Mühlteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;236;267;251,5;2
+Moosburger Mühlteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0061;0,0164;0,01125;2
+Moosburger Mühlteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,00565;0,027;0,016325;2
+Moosburger Mühlteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;7,6;10,1;8,85;2
+Moosburger Mühlteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0379;0,0438;0,04085;2
+Moosburger Mühlteich [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8;7,95;2
+Moosburger Mühlteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2017;0;0;0;0
+Moosburger Mühlteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,001;0,0024;0,0017;2
+Moosburger Mühlteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,2;1,8;1,5;2
+Moosburger Mühlteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;20,6;21,8;21,2;2
+Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2017;2,020779;5,9939;3,528785;16
+Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;2;10;4,875;8
+Ossiacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;228;256;243;9
 Ossiacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;45;45;2017;0,002;0,0821;0,032844;9
 Ossiacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,453209;0,202044;9
 Ossiacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;45;45;2017;0,1;9;3,611111;9
@@ -323,35 +323,35 @@ Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;45;2017;0,010752;0,017383;
 Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0108;0,0217;0,014645;9
 Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;45;45;2017;0,0127;0,0244;0,017567;9
 Ossiacher See [tief.St.];pH;pH-Wert;;1;1;2017;7,7;8,6;8,203333;9
-Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;30;2017;0,253988;1,021704;0,73294;9
-Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,348986;1,623587;0,952642;9
+Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2017;0,253988;1,021704;0,73294;9
+Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,348986;1,623587;0,952642;9
 Ossiacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0047;0,002367;9
 Ossiacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,8;7,9;5,433333;9
-Ossiacher See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;5,8;24,6;16,222222;9
-Pirkdorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;2;2017;6;8;7;2
-Pirkdorfer See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;281;290;285,5;2
+Ossiacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;5,8;24,6;16,222222;9
+Pirkdorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;2;2017;6;8;7;2
+Pirkdorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;281;290;285,5;2
 Pirkdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;2;2;2017;0,0077;0,1066;0,05715;2
 Pirkdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;2;2017;0,014;0,039;0,0265;2
 Pirkdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;2;2;2017;7,2;9,5;8,35;2
 Pirkdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;2;2017;0,0382;0,0462;0,0422;2
 Pirkdorfer See [tief.St.];pH;pH-Wert;;1;1;2017;8,3;8,4;8,35;2
-Pirkdorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;2;2017;0;0;0;0
+Pirkdorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;2;2017;0;0;0;0
 Pirkdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;2;2017;0,001;0,0027;0,00185;2
 Pirkdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0,8;0,8;0,8;2
-Pirkdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;14,3;21,1;17,7;2
-Pischeldorfer Badeteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;1;1;2017;3;6;4,5;2
-Pischeldorfer Badeteich [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;524;606;565;2
+Pirkdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;14,3;21,1;17,7;2
+Pischeldorfer Badeteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2017;3;6;4,5;2
+Pischeldorfer Badeteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;524;606;565;2
 Pischeldorfer Badeteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0182;0,0329;0,02555;2
 Pischeldorfer Badeteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;1,82298;3,30996;2,56647;2
 Pischeldorfer Badeteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;9,9;11,3;10,6;2
 Pischeldorfer Badeteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0104;0,0117;0,01105;2
 Pischeldorfer Badeteich [tief.St.];pH;pH-Wert;;1;1;2017;7,7;8;7,85;2
-Pischeldorfer Badeteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;1;1;2017;0;0;0;0
+Pischeldorfer Badeteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2017;0;0;0;0
 Pischeldorfer Badeteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,002;0,003;0,0025;2
 Pischeldorfer Badeteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,5;1,8;1,65;2
-Pischeldorfer Badeteich [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;15,3;19,5;17,4;2
-Pressegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;3;4;3,5;2
-Pressegger See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;393;401;397;3
+Pischeldorfer Badeteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;15,3;19,5;17,4;2
+Pressegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;3;4;3,5;2
+Pressegger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;393;401;397;3
 Pressegger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2017;0,0123;0,0388;0,022933;3
 Pressegger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,239;0,44894;0,315047;3
 Pressegger See [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2017;3,7;9,3;5,7;3
@@ -359,14 +359,14 @@ Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2017;0,006905;0,010609
 Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0069;0,0106;0,009167;3
 Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2017;0,0137;0,0211;0,016567;3
 Pressegger See [tief.St.];pH;pH-Wert;;1;1;2017;7,71;7,8;7,77;3
-Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,272567;1,638431;0,975536;3
-Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;12;2017;0,273156;1,635047;0,97372;3
+Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,272567;1,638431;0,975536;3
+Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2017;0,273156;1,635047;0,97372;3
 Pressegger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0049;0,002633;3
 Pressegger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;4,2;5,1;4,6;3
-Pressegger See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;10,1;23,6;17,5;3
-Rauschelesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;12;2017;6,885955;7;6,942978;2
-Rauschelesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;7;7;7;2
-Rauschelesee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;304;337;326,25;4
+Pressegger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;10,1;23,6;17,5;3
+Rauschelesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;12;2017;6,885955;7;6,942978;2
+Rauschelesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;7;7;7;2
+Rauschelesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;304;337;326,25;4
 Rauschelesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2017;0,1788;1,342;0,91045;4
 Rauschelesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,051;0,51004;0,30884;4
 Rauschelesee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2017;0,1;9,8;2,525;4
@@ -374,94 +374,94 @@ Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2017;0,008935;0,019899;0
 Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2017;0,017;0,0986;0,056125;4
 Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0076;0,0143;0,011325;4
 Rauschelesee [tief.St.];pH;pH-Wert;;1;1;2017;7,61;8,2;7,8275;4
-Rauschelesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;12;2017;0,454547;1,552782;1,107954;4
-Rauschelesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,383732;1,752664;1,186025;4
+Rauschelesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2017;0,454547;1,552782;1,107954;4
+Rauschelesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,383732;1,752664;1,186025;4
 Rauschelesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,0024;0,00135;4
 Rauschelesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3,2;6,2;4,125;4
-Rauschelesee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;4,5;23,4;13,35;4
-Saisser See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;0;0;0;0
-Saisser See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;0;0;0;0
+Rauschelesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;4,5;23,4;13,35;4
+Saisser See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;0;0;0;0
+Saisser See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;0;0;0;0
 Saisser See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2017;0;0;0;0
 Saisser See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0;0;0;0
 Saisser See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2017;0;0;0;0
 Saisser See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0;0;0;0
 Saisser See [tief.St.];pH;pH-Wert;;1;1;2017;0;0;0;0
-Saisser See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0;0;0;0
+Saisser See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0;0;0;0
 Saisser See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0;0;0;0
 Saisser See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0;0;0;0
-Saisser See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;0;0;0;0
-Silbersee Villach [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;6;6;6;1
-Silbersee Villach [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;273;282;277,5;2
+Saisser See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;0;0;0;0
+Silbersee Villach [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;6;6;6;1
+Silbersee Villach [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;273;282;277,5;2
 Silbersee Villach [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2017;0,0232;0,0524;0,0378;2
 Silbersee Villach [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,0175;0,0535;0,0355;2
 Silbersee Villach [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2017;8,6;9,3;8,95;2
 Silbersee Villach [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0,010275;0,0168;0,013538;2
 Silbersee Villach [tief.St.];pH;pH-Wert;;1;1;2017;8,4;8,6;8,5;2
-Silbersee Villach [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0,536948;0,600964;0,568956;2
+Silbersee Villach [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0,536948;0,600964;0,568956;2
 Silbersee Villach [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001;0,00135;0,001175;2
 Silbersee Villach [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,4;4,5;3,45;2
-Silbersee Villach [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;22,8;25,3;24,05;2
-Sonnegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;1;1;2017;4;13;8,5;2
-Sonnegger See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;334;396;365;2
+Silbersee Villach [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;22,8;25,3;24,05;2
+Sonnegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2017;4;13;8,5;2
+Sonnegger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;334;396;365;2
 Sonnegger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0466;0,0497;0,04815;2
 Sonnegger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,39976;0,5287;0,46423;2
 Sonnegger See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;10,2;10,4;10,3;2
 Sonnegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0131;0,0191;0,0161;2
 Sonnegger See [tief.St.];pH;pH-Wert;;1;1;2017;8,2;8,3;8,25;2
-Sonnegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;1;1;2017;0;0;0;0
+Sonnegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2017;0;0;0;0
 Sonnegger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,001;0,0029;0,00195;2
 Sonnegger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,5;1,6;1,55;2
-Sonnegger See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;15,1;21;18,05;2
-St. Andrï¿½er Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;2;2017;24;24;24;1
-St. Andrï¿½er Badesee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;456;480;468;2
-St. Andrï¿½er Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;2;2;2017;0,0239;0,0248;0,02435;2
-St. Andrï¿½er Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;2;2017;1,891;4,04146;2,96623;2
-St. Andrï¿½er Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;2;2;2017;11,2;13,1;12,15;2
-St. Andrï¿½er Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;2;2017;0,0224;0,0297;0,02605;2
-St. Andrï¿½er Badesee [tief.St.];pH;pH-Wert;;1;1;2017;8,1;8,1;8,1;2
-St. Andrï¿½er Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;2;2017;0;0;0;0
-St. Andrï¿½er Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;2;2017;0,0024;0,0026;0,0025;2
-St. Andrï¿½er Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,2;1,7;1,45;2
-St. Andrï¿½er Badesee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;20,4;24,7;22,55;2
-St. Johanner Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;9;2017;4;4;4;1
-St. Johanner Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;4;4;4;1
-St. Johanner Badesee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;420;458;439;2
+Sonnegger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;15,1;21;18,05;2
+St. Andräer Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;2;2017;24;24;24;1
+St. Andräer Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;456;480;468;2
+St. Andräer Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;2;2;2017;0,0239;0,0248;0,02435;2
+St. Andräer Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;2;2017;1,891;4,04146;2,96623;2
+St. Andräer Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;2;2;2017;11,2;13,1;12,15;2
+St. Andräer Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;2;2017;0,0224;0,0297;0,02605;2
+St. Andräer Badesee [tief.St.];pH;pH-Wert;;1;1;2017;8,1;8,1;8,1;2
+St. Andräer Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;2;2017;0;0;0;0
+St. Andräer Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;2;2017;0,0024;0,0026;0,0025;2
+St. Andräer Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,2;1,7;1,45;2
+St. Andräer Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;20,4;24,7;22,55;2
+St. Johanner Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;9;2017;4;4;4;1
+St. Johanner Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;4;4;4;1
+St. Johanner Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;420;458;439;2
 St. Johanner Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;9;9;2017;0,0155;0,0317;0,0236;2
 St. Johanner Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;1,01791;1,28325;1,15058;2
 St. Johanner Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;9;9;2017;8,8;10;9,4;2
 St. Johanner Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;9;9;2017;0,0093;0,016;0,01265;2
 St. Johanner Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0072;0,0092;0,0082;2
 St. Johanner Badesee [tief.St.];pH;pH-Wert;;1;1;2017;7,3;7,5;7,4;2
-St. Johanner Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;9;2017;0,526412;0,591209;0,558811;2
-St. Johanner Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,517225;0,674228;0,595727;2
+St. Johanner Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;9;2017;0,526412;0,591209;0,558811;2
+St. Johanner Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,517225;0,674228;0,595727;2
 St. Johanner Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001;0,001;2
 St. Johanner Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,7;5,9;3,8;2
-St. Johanner Badesee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;22,2;23,2;22,7;2
-St. Urban See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;1;1;2017;23;23;23;1
-St. Urban See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;257;291;274;2
+St. Johanner Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;22,2;23,2;22,7;2
+St. Urban See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2017;23;23;23;1
+St. Urban See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;257;291;274;2
 St. Urban See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2017;0,0049;0,0055;0,0052;2
 St. Urban See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2017;0,00565;0,00565;0,00565;2
 St. Urban See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2017;8,7;9,3;9;2
 St. Urban See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2017;0,0299;0,0433;0,0366;2
 St. Urban See [tief.St.];pH;pH-Wert;;1;1;2017;7,8;8,3;8,05;2
-St. Urban See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;1;1;2017;0;0;0;0
+St. Urban See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2017;0;0;0;0
 St. Urban See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2017;0,001;0,0021;0,00155;2
 St. Urban See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;0,8;1,7;1,25;2
-St. Urban See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;19,6;22,4;21;2
-Trattnigteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;3;2017;13;25;19;2
-Trattnigteich [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;106;120;113;2
+St. Urban See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;19,6;22,4;21;2
+Trattnigteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;3;2017;13;25;19;2
+Trattnigteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;106;120;113;2
 Trattnigteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2017;0,0175;0,1266;0,07205;2
 Trattnigteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2017;0,027375;0,054875;0,041125;2
 Trattnigteich [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2017;7,8;10,1;8,95;2
 Trattnigteich [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2017;0,027025;0,036238;0,031632;2
 Trattnigteich [tief.St.];P-ges;Phosphor gesamt;mg/l;3;3;2017;0,0359;0,0388;0,03735;2
 Trattnigteich [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8,2;8,05;2
-Trattnigteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;3;2017;0;0;0;0
+Trattnigteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;3;2017;0;0;0;0
 Trattnigteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2017;0,001;0,00145;0,001225;2
 Trattnigteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;1,4;2;1,7;2
-Trattnigteich [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;16,2;22,5;19,35;2
-Turnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;5;5;5;1
-Turnersee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;316;365;340,5;2
+Trattnigteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;16,2;22,5;19,35;2
+Turnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;5;5;5;1
+Turnersee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;316;365;340,5;2
 Turnersee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2017;0,787;1,559;1,173;2
 Turnersee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,498;0,79087;0,644435;2
 Turnersee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2017;0,1;0,1;0,1;2
@@ -469,13 +469,13 @@ Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2017;0,012474;0,016419;0,01
 Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0071;0,0132;0,01015;2
 Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2017;0,0381;0,0408;0,03945;2
 Turnersee [tief.St.];pH;pH-Wert;;1;1;2017;8,2;8,2;8,2;2
-Turnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,72587;0,92807;0,82697;2
-Turnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;12;2017;0,732218;1,057812;0,895015;2
+Turnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,72587;0,92807;0,82697;2
+Turnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2017;0,732218;1,057812;0,895015;2
 Turnersee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,002;0,0015;2
 Turnersee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3;3,8;3,4;2
-Turnersee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;19,6;24,2;21,9;2
-Turracher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;1;1;1;1
-Turracher See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;133;133;133;1
+Turnersee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;19,6;24,2;21,9;2
+Turracher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;1;1;1;1
+Turracher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;133;133;133;1
 Turracher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2017;0,0049;0,0049;0,0049;1
 Turracher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,18541;0,18541;0,18541;1
 Turracher See [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2017;0,7;0,7;0,7;1
@@ -483,13 +483,13 @@ Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0086;0,0086;0,008
 Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2017;0,013;0,013;0,013;1
 Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2017;0,009563;0,009563;0,009563;1
 Turracher See [tief.St.];pH;pH-Wert;;1;1;2017;7,8;7,8;7,8;1
-Turracher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,096224;0,096224;0,096224;1
+Turracher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,096224;0,096224;0,096224;1
 Turracher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001;0,001;1
 Turracher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;5,9;5,9;5,9;1
-Turracher See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;13,2;13,2;13,2;1
-Vassacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;10;2017;0;0;0;0
-Vassacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;7;7;7;1
-Vassacher See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;246;250;248;2
+Turracher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;13,2;13,2;13,2;1
+Vassacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2017;0;0;0;0
+Vassacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;7;7;7;1
+Vassacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;246;250;248;2
 Vassacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2017;0,0324;0,303;0,1677;2
 Vassacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,00565;0,027;0,016325;2
 Vassacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2017;0,1;0,1;0,1;2
@@ -497,62 +497,62 @@ Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2017;0,01438;0,017882;0
 Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2017;0,0147;0,0214;0,01805;2
 Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0,0141;0,0171;0,0156;2
 Vassacher See [tief.St.];pH;pH-Wert;;1;1;2017;7,5;7,8;7,65;2
-Vassacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0;0;0;0
-Vassacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;10;2017;0;0;0;0
+Vassacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0;0;0;0
+Vassacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2017;0;0;0;0
 Vassacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001;0,002;0,0015;2
 Vassacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;3,4;3,9;3,65;2
-Vassacher See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;22,3;22,7;22,5;2
-Weiï¿½ensee (tief.St.);Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;0,625;2,25;1,4375;2
-Weiï¿½ensee (tief.St.);K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;293;321;310,666667;3
-Weiï¿½ensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;80;80;2017;0,1882;0,354;0,262733;3
-Weiï¿½ensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;50;50;2017;0,0165;0,1053;0,0562;3
-Weiï¿½ensee (tief.St.);NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,089333;0,048375;3
-Weiï¿½ensee (tief.St.);O2;Sauerstoffgehalt;mg/l;50;50;2017;0,1;0,1;0,1;3
-Weiï¿½ensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;6;2017;0,006512;0,00816;0,007395;3
-Weiï¿½ensee (tief.St.);P-ges;Phosphor gesamt;mg/l;94;94;2017;0,0191;0,0336;0,028233;3
-Weiï¿½ensee (tief.St.);P-ges;Phosphor gesamt;mg/l;50;50;2017;0,0086;0,017;0,0123;3
-Weiï¿½ensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;80;2017;0,008145;0,012106;0,009759;3
-Weiï¿½ensee (tief.St.);pH;pH-Wert;;1;1;2017;7,9;8,2;8;3
-Weiï¿½ensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,351555;0,50818;0,406367;3
-Weiï¿½ensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;30;2017;0,281388;0,609604;0,481011;3
-Weiï¿½ensee (tief.St.);PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,002705;0,001568;3
-Weiï¿½ensee (tief.St.);Sichttiefe;Sichttiefe;m;0;0;2017;7,1;12,3;10;3
-Weiï¿½ensee (tief.St.);Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;8,1;19,8;15,3;3
-Wernberger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;10;2017;10;10;10;1
-Wernberger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;10;10;10;1
-Wernberger Badesee [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;359;401;380;2
+Vassacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;22,3;22,7;22,5;2
+Weißensee (tief.St.);Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;0,625;2,25;1,4375;2
+Weißensee (tief.St.);K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;293;321;310,666667;3
+Weißensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;80;80;2017;0,1882;0,354;0,262733;3
+Weißensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;50;50;2017;0,0165;0,1053;0,0562;3
+Weißensee (tief.St.);NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,089333;0,048375;3
+Weißensee (tief.St.);O2;Sauerstoffgehalt;mg/l;50;50;2017;0,1;0,1;0,1;3
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;6;2017;0,006512;0,00816;0,007395;3
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;94;94;2017;0,0191;0,0336;0,028233;3
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;50;50;2017;0,0086;0,017;0,0123;3
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;80;2017;0,008145;0,012106;0,009759;3
+Weißensee (tief.St.);pH;pH-Wert;;1;1;2017;7,9;8,2;8;3
+Weißensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,351555;0,50818;0,406367;3
+Weißensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2017;0,281388;0,609604;0,481011;3
+Weißensee (tief.St.);PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,002705;0,001568;3
+Weißensee (tief.St.);Sichttiefe;Sichttiefe;m;0;0;2017;7,1;12,3;10;3
+Weißensee (tief.St.);Wassertemperatur;Wassertemperatur;°C;0;0;2017;8,1;19,8;15,3;3
+Wernberger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2017;10;10;10;1
+Wernberger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;10;10;10;1
+Wernberger Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;359;401;380;2
 Wernberger Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2017;1,1575;1,787;1,47225;2
 Wernberger Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,09;0,20375;0,146875;2
 Wernberger Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2017;0,1;0,1;0,1;2
 Wernberger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2017;0,0121;0,0291;0,0206;2
 Wernberger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,0072;0,0109;0,00905;2
 Wernberger Badesee [tief.St.];pH;pH-Wert;;1;1;2017;7,4;7,5;7,45;2
-Wernberger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;10;2017;0,735072;0,906098;0,820585;2
-Wernberger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;1,155108;1,245881;1,200495;2
+Wernberger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2017;0,735072;0,906098;0,820585;2
+Wernberger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;1,155108;1,245881;1,200495;2
 Wernberger Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,001;0,001;2
 Wernberger Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2,8;4,2;3,5;2
-Wernberger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;16,3;22,1;19,2;2
-Wï¿½rthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;30;2017;2,265028;6,220366;4,280351;3
-Wï¿½rthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;6;2017;2;6,75;3,833333;3
-Wï¿½rthersee Saag [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;293;327;315,5;4
-Wï¿½rthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2017;0,1068;0,354;0,2408;4
-Wï¿½rthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;70;70;2017;0,646;0,698;0,668125;4
-Wï¿½rthersee Saag [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,209843;0,082149;4
-Wï¿½rthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2017;0,1;0,1;0,1;4
-Wï¿½rthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;70;70;2017;0,1;0,1;0,1;4
-Wï¿½rthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2017;0,022345;0,027575;0,024356;4
-Wï¿½rthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,008086;0,018252;0,012157;4
-Wï¿½rthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2017;0,0274;0,0473;0,04105;4
-Wï¿½rthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;50;2017;0,014646;0,019515;0,016386;4
-Wï¿½rthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;70;70;2017;0,0898;0,0937;0,09155;4
-Wï¿½rthersee Saag [tief.St.];pH;pH-Wert;;1;1;2017;7,88;8,3;8,0725;4
-Wï¿½rthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;6;2017;0,229996;1,692972;0,872847;4
-Wï¿½rthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;30;2017;0,665419;2,137543;1,426488;4
-Wï¿½rthersee Saag [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,002181;0,001465;4
-Wï¿½rthersee Saag [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;4,1;5,1;4,475;4
-Wï¿½rthersee Saag [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;5,4;19,5;12,55;4
-Zmulner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;ï¿½g/l;0;5;2017;11;11;11;1
-Zmulner See [tief.St.];K25;Elektrische Leitfï¿½higkeit bei 25ï¿½C;ï¿½S/cm;1;1;2017;478;527;502,5;2
+Wernberger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;16,3;22,1;19,2;2
+Wörthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2017;2,265028;6,220366;4,280351;3
+Wörthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2017;2;6,75;3,833333;3
+Wörthersee Saag [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;293;327;315,5;4
+Wörthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2017;0,1068;0,354;0,2408;4
+Wörthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;70;70;2017;0,646;0,698;0,668125;4
+Wörthersee Saag [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2017;0,00565;0,209843;0,082149;4
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2017;0,1;0,1;0,1;4
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;70;70;2017;0,1;0,1;0,1;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2017;0,022345;0,027575;0,024356;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,008086;0,018252;0,012157;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2017;0,0274;0,0473;0,04105;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;50;2017;0,014646;0,019515;0,016386;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;70;70;2017;0,0898;0,0937;0,09155;4
+Wörthersee Saag [tief.St.];pH;pH-Wert;;1;1;2017;7,88;8,3;8,0725;4
+Wörthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2017;0,229996;1,692972;0,872847;4
+Wörthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2017;0,665419;2,137543;1,426488;4
+Wörthersee Saag [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2017;0,001;0,002181;0,001465;4
+Wörthersee Saag [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;4,1;5,1;4,475;4
+Wörthersee Saag [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;5,4;19,5;12,55;4
+Zmulner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2017;11;11;11;1
+Zmulner See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2017;478;527;502,5;2
 Zmulner See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2017;0,0394;1,302;0,6707;2
 Zmulner See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2017;0,241885;0,521023;0,381454;2
 Zmulner See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2017;2,2;6,1;4,15;2
@@ -561,7 +561,7 @@ Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2017;0,0186;0,0187;0,01865
 Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2017;0,019776;0,034489;0,027133;2
 Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2017;0,020525;0,04455;0,032538;2
 Zmulner See [tief.St.];pH;pH-Wert;;1;1;2017;7,9;8,1;8;2
-Zmulner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mmï¿½/l;0;5;2017;0;0;0;0
+Zmulner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2017;0;0;0;0
 Zmulner See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2017;0,001275;0,0017;0,001488;2
 Zmulner See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2017;2;3,4;2,7;2
-Zmulner See [tief.St.];Wassertemperatur;Wassertemperatur;ï¿½C;0;0;2017;20,7;22,4;21,55;2
+Zmulner See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2017;20,7;22,4;21,55;2
