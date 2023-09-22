@@ -1,0 +1,569 @@
+Meßstelle;PARAMETER;PARAMETERBEZEICHNUNG;DIM;T.von;T.bis;JAHR;MIN;MAX;AVG;ANZ
+Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;4,2;8,3;5,7;4
+Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;20;2019;0;0;0;0
+Afritzer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;164;180;170,25;4
+Afritzer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;20;20;2019;0,03;0,741;0,26275;4
+Afritzer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,23236;0,148003;4
+Afritzer See [tief.St.];O2;Sauerstoffgehalt;mg/l;20;20;2019;0,1;7,7;3,825;4
+Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0099;0,0235;0,015475;4
+Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;20;20;2019;0,0137;0,0893;0,037125;4
+Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;22;2019;0,011272;0,023955;0,018915;4
+Afritzer See [tief.St.];pH;pH-Wert;;1;1;2019;7,4;8,8;8,195;4
+Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,355259;2,559308;0,987228;4
+Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;20;2019;0,421462;2,296119;1,316194;4
+Afritzer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,006;0,0025;4
+Afritzer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,3;4,3;3,65;4
+Afritzer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;6,1;23,4;14,425;4
+Aichwaldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;6,1;7,2;6,65;2
+Aichwaldsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;417;435;426;2
+Aichwaldsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;7;7;2019;0,019;0,334;0,1765;2
+Aichwaldsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,09882;0,239;0,16891;2
+Aichwaldsee [tief.St.];O2;Sauerstoffgehalt;mg/l;7;7;2019;2,5;10,6;6,55;2
+Aichwaldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;7;2019;0,0115;0,011728;0,011614;2
+Aichwaldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0115;0,0117;0,0116;2
+Aichwaldsee [tief.St.];pH;pH-Wert;;1;1;2019;8,1;8,2;8,15;2
+Aichwaldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,596459;1,916144;1,256302;2
+Aichwaldsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,002;0,0028;0,0024;2
+Aichwaldsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,7;3,9;3,8;2
+Aichwaldsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;11,3;23,4;17,35;2
+Badesee Kirschentheuer [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;4,4;8,1;6,25;2
+Badesee Kirschentheuer [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2019;6,763636;10,354545;8,559091;2
+Badesee Kirschentheuer [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;359;384;371,5;2
+Badesee Kirschentheuer [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2019;0,0307;0,153;0,09185;2
+Badesee Kirschentheuer [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,06764;0,27914;0,17339;2
+Badesee Kirschentheuer [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2019;0,9;9,5;5,2;2
+Badesee Kirschentheuer [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2019;0,0304;0,0305;0,03045;2
+Badesee Kirschentheuer [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0142;0,0145;0,01435;2
+Badesee Kirschentheuer [tief.St.];pH;pH-Wert;;1;1;2019;8,2;8,3;8,25;2
+Badesee Kirschentheuer [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0;0;0;0
+Badesee Kirschentheuer [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2019;0;0;0;0
+Badesee Kirschentheuer [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0023;0,00165;2
+Badesee Kirschentheuer [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3;3,4;3,2;2
+Badesee Kirschentheuer [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;14,9;25,2;20,05;2
+Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;29;2019;0;0;0;0
+Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;0,5;0,5;0,5;4
+Faaker See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;344;382;362,75;4
+Faaker See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;29;29;2019;0,002;0,011;0,00785;4
+Faaker See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,219471;0,273308;0,247036;4
+Faaker See [tief.St.];O2;Sauerstoffgehalt;mg/l;29;29;2019;0,2;9,5;4,525;4
+Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,003495;0,017164;0,00888;4
+Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;29;2019;0,005112;0,017158;0,009664;4
+Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;29;29;2019;0,0092;0,0181;0,0124;4
+Faaker See [tief.St.];pH;pH-Wert;;1;1;2019;8,24;8,43;8,3225;4
+Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,12418;0,197261;0,15531;4
+Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;29;2019;0,121369;0,191267;0,144947;4
+Faaker See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,003667;0,00234;4
+Faaker See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;0,9;6;3,8;4
+Faaker See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;8,1;22,1;14,825;4
+Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;2,7;6,2;3,95;4
+Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;26;2019;0;0;0;0
+Feldsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;120;129;123,5;4
+Feldsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;26;26;2019;0,112;1,959;0,74325;4
+Feldsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,26905;0,14864;4
+Feldsee [tief.St.];O2;Sauerstoffgehalt;mg/l;26;26;2019;0,1;3,8;1,025;4
+Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;26;26;2019;0,0181;0,1931;0,069575;4
+Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0104;0,0124;0,011375;4
+Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;26;2019;0,011649;0,01576;0,013923;4
+Feldsee [tief.St.];pH;pH-Wert;;1;1;2019;7,4;8,8;8,2125;4
+Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;26;2019;0,199163;2,105666;0,960761;4
+Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,208091;0,839173;0,443573;4
+Feldsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0025;0,001625;4
+Feldsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,4;4,5;4,075;4
+Feldsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;6,3;22,6;14,4;4
+Ferlacher Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;1;8,9;4,95;2
+Ferlacher Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;346;347;346,5;2
+Ferlacher Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2019;0,0603;0,08;0,07015;2
+Ferlacher Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,21023;2,6975;1,453865;2
+Ferlacher Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2019;5,5;8,2;6,85;2
+Ferlacher Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,0098;0,0175;0,01365;2
+Ferlacher Badesee [tief.St.];pH;pH-Wert;;1;1;2019;8,2;8,2;8,2;2
+Ferlacher Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;0;0;0;0
+Ferlacher Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,003;0,0032;0,0031;2
+Ferlacher Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,1;4;3,55;2
+Ferlacher Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;14,1;23,7;18,9;2
+Flatschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2019;20,2;23,9;22,05;2
+Flatschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;209;248;228,5;2
+Flatschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2019;0,0073;0,0164;0,01185;2
+Flatschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2019;0,003;0,39912;0,20106;2
+Flatschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2019;6,2;8,8;7,5;2
+Flatschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2019;0,029;0,0305;0,02975;2
+Flatschacher See [tief.St.];pH;pH-Wert;;1;1;2019;7,8;7,9;7,85;2
+Flatschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2019;0;0;0;0
+Flatschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2019;0,001;0,001;0,001;2
+Flatschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,3;1,5;1,4;2
+Flatschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;15,6;22,5;19,05;2
+Forstsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2019;1,548387;2,835484;2,191936;2
+Forstsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;3,6;8,1;5,85;2
+Forstsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;267;268;267,5;2
+Forstsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2019;0,0053;0,1154;0,06035;2
+Forstsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,38849;0,686;0,537245;2
+Forstsee [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2019;0,1;1,1;0,6;2
+Forstsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0081;0,0124;0,01025;2
+Forstsee [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2019;0,0103;0,0172;0,01375;2
+Forstsee [tief.St.];pH;pH-Wert;;1;1;2019;8,69;8,7;8,695;2
+Forstsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,412948;0,691176;0,552062;2
+Forstsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2019;0,12253;0,437898;0,280214;2
+Forstsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0026;0,0018;2
+Forstsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;4,8;5,6;5,2;2
+Forstsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;17,9;24,6;21,25;2
+Goggausee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;4,933333;57,166667;22,191667;4
+Goggausee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;163;193;175,6;5
+Goggausee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;8;8;2019;0,1553;0,9;0,52566;5
+Goggausee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,003;0,06325;0,01505;5
+Goggausee [tief.St.];O2;Sauerstoffgehalt;mg/l;8;8;2019;0,1;5,2;1,56;5
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2019;0,014;0,0685;0,02872;5
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,01445;0,06055;0,029085;5
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;8;8;2019;0,0169;0,0592;0,04152;5
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;8;2019;0,014973;0,05636;0,031212;5
+Goggausee [tief.St.];pH;pH-Wert;;1;1;2019;7,4;8,56;7,888;5
+Goggausee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;0,295588;2,346589;1,222335;5
+Goggausee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,001;0,003;0,00171;5
+Goggausee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,3;3,8;2,64;5
+Goggausee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;1;22;11,96;5
+Gösselsdorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2019;3,2;7,9;5,55;2
+Gösselsdorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;326;352;339;2
+Gösselsdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2019;0,006;0,0086;0,0073;2
+Gösselsdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2019;0,003;0,003;0,003;2
+Gösselsdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2019;7,4;9,4;8,4;2
+Gösselsdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2019;0,0083;0,015;0,01165;2
+Gösselsdorfer See [tief.St.];pH;pH-Wert;;1;1;2019;8,02;8,28;8,15;2
+Gösselsdorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2019;0;0;0;0
+Gösselsdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2019;0,001;0,0038;0,0024;2
+Gösselsdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,5;2,2;1,85;2
+Gösselsdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;12,5;24;18,25;2
+Greifenburger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;3,6;7,6;5,6;2
+Greifenburger Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;303;321;312;2
+Greifenburger Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2019;0,609;0,924;0,7665;2
+Greifenburger Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,517;0,69149;0,604245;2
+Greifenburger Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2019;0,1;0,6;0,35;2
+Greifenburger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,009;0,0091;0,00905;2
+Greifenburger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2019;0,022;0,0658;0,0439;2
+Greifenburger Badesee [tief.St.];pH;pH-Wert;;1;1;2019;8,48;8,6;8,54;2
+Greifenburger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,768218;2,131214;1,449716;2
+Greifenburger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2019;0,825183;1,447124;1,136154;2
+Greifenburger Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0027;0,00185;2
+Greifenburger Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,9;6,3;5,1;2
+Greifenburger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;23,6;25,4;24,5;2
+Hafnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2019;0;0;0;0
+Hafnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;9,5;17,3;13,4;2
+Hafnersee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;350;401;375,5;2
+Hafnersee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2019;0,657;2,027;1,342;2
+Hafnersee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,003;0,003;2
+Hafnersee [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2019;0,1;0,1;0,1;2
+Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0149;0,0177;0,0163;2
+Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2019;0,015304;0,020154;0,017729;2
+Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2019;0,024;0,0729;0,04845;2
+Hafnersee [tief.St.];pH;pH-Wert;;1;1;2019;8,2;8,3;8,25;2
+Hafnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2019;0;0;0;0
+Hafnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0;0;0;0
+Hafnersee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,0027;0,003;0,00285;2
+Hafnersee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,2;3,7;3,45;2
+Hafnersee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;11,7;24,1;17,9;2
+Hörzendorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;3;2019;19,4;62,1;40,75;2
+Hörzendorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;367;478;422,5;2
+Hörzendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2019;0,013;0,0209;0,01695;2
+Hörzendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2019;0,158234;1,416756;0,787495;2
+Hörzendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2019;0,4;3,7;2,05;2
+Hörzendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2019;0,028913;0,049913;0,039413;2
+Hörzendorfer See [tief.St.];pH;pH-Wert;;1;1;2019;8,11;8,51;8,31;2
+Hörzendorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;3;2019;2,406227;8,022512;5,21437;2
+Hörzendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2019;0,001;0,001625;0,001313;2
+Hörzendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;0,8;1,5;1,15;2
+Hörzendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;24,2;24,8;24,5;2
+Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;15;2019;1,707692;4,369231;2,810898;4
+Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;1;4,6;2,725;4
+Keutschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;282;327;307,5;4
+Keutschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2019;0,198;1,165;0,5232;4
+Keutschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,041063;0,386627;0,187592;4
+Keutschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2019;0,1;7,3;3,625;4
+Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,006274;0,012998;0,009285;4
+Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2019;0,0089;0,0375;0,022025;4
+Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;15;2019;0,009387;0,012584;0,010827;4
+Keutschacher See [tief.St.];pH;pH-Wert;;1;1;2019;7,7;8,44;8,11;4
+Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,279432;1,1756;0,691739;4
+Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;15;2019;0,228583;1,45208;0,762037;4
+Keutschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,00214;0,001285;4
+Keutschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;2,5;7,6;4,325;4
+Keutschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;6,4;23,9;15,225;4
+Klopeiner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;1,175;5,3;2,39375;4
+Klopeiner See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;241;266;253,25;4
+Klopeiner See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2019;1,325;1,485;1,404375;4
+Klopeiner See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,059125;0,017031;4
+Klopeiner See [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2019;0,1;0,1;0,1;3
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,009786;0,024707;0,014893;4
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2019;0,0509;0,064;0,05645;4
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;20;2019;0,010315;0,029121;0,01573;4
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2019;0,016051;0,030219;0,020562;4
+Klopeiner See [tief.St.];pH;pH-Wert;;1;1;2019;8,27;8,6;8,5125;4
+Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;20;2019;0,505725;0,748356;0,634762;4
+Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,508091;0,694762;0,581409;4
+Klopeiner See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,001;0,001;4
+Klopeiner See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;5,6;8,9;7,125;4
+Klopeiner See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;6,4;24,2;14,7;4
+Kraiger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;4,5;6,6;5,55;2
+Kraiger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;0;2019;4,5;6,6;5,55;2
+Kraiger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;492;518;505;2
+Kraiger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;8;8;2019;0,0048;0,2592;0,132;2
+Kraiger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,44081;0,221905;2
+Kraiger See [tief.St.];O2;Sauerstoffgehalt;mg/l;8;8;2019;2,9;4,2;3,55;2
+Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;8;8;2019;0,025;0,0264;0,0257;2
+Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0106;0,015;0,0128;2
+Kraiger See [tief.St.];pH;pH-Wert;;1;1;2019;8,2;8,26;8,23;2
+Kraiger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,771236;0,771236;0,771236;1
+Kraiger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0026;0,0018;2
+Kraiger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,4;5,2;4,3;2
+Kraiger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;24;26,5;25,25;2
+Längsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;15;2019;0;0;0;0
+Längsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;2,5;22,6;9,15;4
+Längsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;391;421;409,75;4
+Längsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2019;2,195;2,633;2,421;4
+Längsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,003;0,003;4
+Längsee [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2019;0,1;0,1;0,1;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,011;0,0156;0,0134;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2019;0,0329;0,041;0,036875;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;13;2019;0,012922;0,019992;0,017298;4
+Längsee [tief.St.];pH;pH-Wert;;1;1;2019;8,1;8,7;8,45;4
+Längsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,257776;3,210843;1,048578;4
+Längsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;15;2019;0,245319;2,273887;0,806363;4
+Längsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,002;0,0015;4
+Längsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,3;5,5;4,6;4
+Längsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;8,5;24,2;15,9;4
+Lavamünder Badeteich Südufer Steg;Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;2;2019;1,7;5,7;3,7;2
+Lavamünder Badeteich Südufer Steg;K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;284;294;289;2
+Lavamünder Badeteich Südufer Steg;NH4-N;Ammonium-Stickstoff;mg/l;2;2;2019;0,002;0,002;0,002;2
+Lavamünder Badeteich Südufer Steg;NO3-N;Nitrat-Stickstoff;mg/l;0;2;2019;0,003;0,003;0,003;2
+Lavamünder Badeteich Südufer Steg;O2;Sauerstoffgehalt;mg/l;2;2;2019;8,2;9,5;8,85;2
+Lavamünder Badeteich Südufer Steg;P-ges;Phosphor gesamt;mg/l;0;2;2019;0,0128;0,0142;0,0135;2
+Lavamünder Badeteich Südufer Steg;P-ges;Phosphor gesamt;mg/l;2;2;2019;0,0128;0,0142;0,0135;2
+Lavamünder Badeteich Südufer Steg;pH;pH-Wert;;1;1;2019;8,27;8,35;8,31;2
+Lavamünder Badeteich Südufer Steg;PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;2;2019;0;0;0;0
+Lavamünder Badeteich Südufer Steg;PO4-P;Phosphat-Phosphor;mg/l;0;2;2019;0,001;0,0021;0,00155;2
+Lavamünder Badeteich Südufer Steg;Sichttiefe;Sichttiefe;m;0;0;2019;3,2;3,6;3,4;2
+Lavamünder Badeteich Südufer Steg;Wassertemperatur;Wassertemperatur;°C;0;0;2019;16,2;25,2;20,7;2
+Leonharder See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;16,3;38,1;27,2;2
+Leonharder See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;380;386;383;2
+Leonharder See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;6;6;2019;0,0345;0,1408;0,08765;2
+Leonharder See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,312714;0,157857;2
+Leonharder See [tief.St.];O2;Sauerstoffgehalt;mg/l;6;6;2019;2,8;8,7;5,75;2
+Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,026864;0,036229;0,031547;2
+Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,026571;0,034382;0,030477;2
+Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;6;6;2019;0,0277;0,0415;0,0346;2
+Leonharder See [tief.St.];pH;pH-Wert;;1;1;2019;8;8,1;8,05;2
+Leonharder See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;1,474298;1,582161;1,52823;2
+Leonharder See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,002164;0,001582;2
+Leonharder See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,5;1,8;1,65;2
+Leonharder See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;13,3;23,5;18,4;2
+Linsendorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;0,2;1,7;0,95;2
+Linsendorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;362;369;365,5;2
+Linsendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2019;0,016;0,0172;0,0166;2
+Linsendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,41365;1,41551;0,91458;2
+Linsendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2019;2,6;11,1;6,85;2
+Linsendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,011;0,021;0,016;2
+Linsendorfer See [tief.St.];pH;pH-Wert;;1;1;2019;8,1;8,3;8,2;2
+Linsendorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;0,048029;0,121819;0,084924;2
+Linsendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,0023;0,003;0,00265;2
+Linsendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;4,2;4,6;4,4;2
+Linsendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;11,5;20,4;15,95;2
+Magdalenensee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;4;2019;1,1;1,3;1,2;2
+Magdalenensee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;487;544;515,5;2
+Magdalenensee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;4;4;2019;0,0174;2,46;1,2387;2
+Magdalenensee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;4;2019;0,7958;1,4794;1,1376;2
+Magdalenensee [tief.St.];O2;Sauerstoffgehalt;mg/l;4;4;2019;11,9;12,6;12,25;2
+Magdalenensee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;4;2019;0,00956;0,01442;0,01199;2
+Magdalenensee [tief.St.];pH;pH-Wert;;1;1;2019;8;8,4;8,2;2
+Magdalenensee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;4;2019;0;0;0;0
+Magdalenensee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;4;2019;0,001;0,00294;0,00197;2
+Magdalenensee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,5;3,7;3,6;2
+Magdalenensee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;22,6;25,4;24;2
+Maltschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;22,2;22,9;22,55;2
+Maltschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;219;227;223;2
+Maltschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2019;0,0514;0,1523;0,10185;2
+Maltschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,003;0,003;0,003;2
+Maltschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2019;4,6;9,5;7,05;2
+Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,034725;0,050742;0,042734;2
+Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;5;5;2019;0,0389;0,0676;0,05325;2
+Maltschacher See [tief.St.];pH;pH-Wert;;1;1;2019;8,17;8,5;8,335;2
+Maltschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;1,464674;1,474506;1,46959;2
+Maltschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,001;0,001333;0,001167;2
+Maltschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,1;2,3;1,7;2
+Maltschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;15,8;23,6;19,7;2
+Millstätter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;1,35;4,05;2,29375;4
+Millstätter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2019;0;0;0;0
+Millstätter See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;164;178;168,75;4
+Millstätter See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2019;0,002;0,002;0,002;4
+Millstätter See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,10627;0,274416;0,213935;4
+Millstätter See [tief.St.];O2;Sauerstoffgehalt;mg/l;100;100;2019;3,6;4,4;4,075;4
+Millstätter See [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2019;5,5;6,7;6,075;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2019;0,0056;0,0077;0,006925;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2019;0,006708;0,008575;0,00769;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,00726;0,009643;0,008604;4
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;100;100;2019;0,0071;0,0084;0,0078;4
+Millstätter See [tief.St.];pH;pH-Wert;;1;1;2019;7,96;9;8,4;4
+Millstätter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,251014;0,842415;0,481782;4
+Millstätter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2019;0,149835;0,592075;0,365058;4
+Millstätter See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,002429;0,001607;4
+Millstätter See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;5,9;8,5;6,625;4
+Millstätter See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;5,3;20,8;13,375;4
+Moosburger Mühlteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;280;289;284,5;2
+Moosburger Mühlteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2019;0,004;0,0178;0,0109;2
+Moosburger Mühlteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2019;0,003;0,003;0,003;2
+Moosburger Mühlteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2019;7,9;11;9,45;2
+Moosburger Mühlteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2019;0,0216;0,0434;0,0325;2
+Moosburger Mühlteich [tief.St.];pH;pH-Wert;;1;1;2019;7,6;8,31;7,955;2
+Moosburger Mühlteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2019;0;0;0;0
+Moosburger Mühlteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2019;0,001;0,001;0,001;2
+Moosburger Mühlteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;0,7;2,6;1,65;2
+Moosburger Mühlteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;18;23,3;20,65;2
+Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;4,5;7,9;5,55;4
+Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2019;3,503974;8,279503;4,765221;4
+Ossiacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;228;253;240;4
+Ossiacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;45;45;2019;0,0057;0,0257;0,01335;4
+Ossiacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,37494;0,217176;4
+Ossiacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;45;45;2019;0,1;8,6;4,075;4
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;45;2019;0,011849;0,01537;0,013359;4
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;45;45;2019;0,0123;0,0226;0,015825;4
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,01236;0,016562;0,014507;4
+Ossiacher See [tief.St.];pH;pH-Wert;;1;1;2019;7,85;8,7;8,36;4
+Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2019;0,680129;2,952539;1,327635;4
+Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,776435;3,013389;1,480121;4
+Ossiacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,002131;0,001473;4
+Ossiacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,7;4,6;4,075;4
+Ossiacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;8;22,5;15,05;4
+Pirkdorfer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;2;2019;9,1;20,6;14,85;2
+Pirkdorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;264;299;281,5;2
+Pirkdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;2;2;2019;0,0051;0,0445;0,0248;2
+Pirkdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;2;2019;0,003;0,003;0,003;2
+Pirkdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;2;2;2019;7,6;9,2;8,4;2
+Pirkdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;2;2019;0,0283;0,0746;0,05145;2
+Pirkdorfer See [tief.St.];pH;pH-Wert;;1;1;2019;8,39;8,53;8,46;2
+Pirkdorfer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;2;2019;0;0;0;0
+Pirkdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;2;2019;0,001;0,004;0,0025;2
+Pirkdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;0,8;1;0,9;2
+Pirkdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;12,5;24,4;18,45;2
+Pischeldorfer Badeteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2019;3,6;5,3;4,45;2
+Pischeldorfer Badeteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;607;648;627,5;2
+Pischeldorfer Badeteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2019;0,0109;0,0216;0,01625;2
+Pischeldorfer Badeteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2019;3,244;3,29977;3,271885;2
+Pischeldorfer Badeteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2019;9,2;10,5;9,85;2
+Pischeldorfer Badeteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2019;0,0094;0,0102;0,0098;2
+Pischeldorfer Badeteich [tief.St.];pH;pH-Wert;;1;1;2019;7,86;8,09;7,975;2
+Pischeldorfer Badeteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2019;0,606934;1,151574;0,879254;2
+Pischeldorfer Badeteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2019;0,001;0,0036;0,0023;2
+Pischeldorfer Badeteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;2;2;2;2
+Pischeldorfer Badeteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;13,6;22,8;18,2;2
+Pressegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;0,5;5,6;2,6;4
+Pressegger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;379;408;398;4
+Pressegger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2019;0,02;0,0937;0,056475;4
+Pressegger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,51081;0,239703;4
+Pressegger See [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2019;3,4;10,5;6,525;4
+Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0091;0,0146;0,012825;4
+Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2019;0,009118;0,014594;0,012829;4
+Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2019;0,0099;0,0247;0,016075;4
+Pressegger See [tief.St.];pH;pH-Wert;;1;1;2019;7,93;8,3;8,1575;4
+Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2019;0,101844;2,364776;0,921124;4
+Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,101778;2,370802;0,922943;4
+Pressegger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,001;0,001;4
+Pressegger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,2;3,4;2,05;4
+Pressegger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;7;23,7;15,2;4
+Rauschelesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;12;2019;0;0;0;0
+Rauschelesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;4,1;8,4;6,7;4
+Rauschelesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;305;358;334,25;4
+Rauschelesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2019;0,1921;2,58;1,072775;4
+Rauschelesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,479;0,316923;4
+Rauschelesee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2019;0,1;8,1;2,975;4
+Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2019;0,02;0,0618;0,040525;4
+Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2019;0,011071;0,016716;0,013885;4
+Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0097;0,0149;0,012175;4
+Rauschelesee [tief.St.];pH;pH-Wert;;1;1;2019;7,55;8,3;8,0125;4
+Rauschelesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,462964;1,371427;0,879864;4
+Rauschelesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2019;0,460832;1,215023;0,819271;4
+Rauschelesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0022;0,0013;4
+Rauschelesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;2,9;5,2;3,875;4
+Rauschelesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;6,1;24,4;15,025;4
+Saisser See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;7,4;11,9;9,65;2
+Saisser See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;175;177;176;2
+Saisser See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2019;0,1266;0,354;0,2403;2
+Saisser See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,003;0,003;0,003;2
+Saisser See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2019;2,6;7,6;5,1;2
+Saisser See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,0155;0,01745;0,016475;2
+Saisser See [tief.St.];pH;pH-Wert;;1;1;2019;7,9;7,9;7,9;2
+Saisser See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;0,496047;0,731705;0,613876;2
+Saisser See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,001333;0,002092;0,001713;2
+Saisser See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,5;3,6;3,55;2
+Saisser See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;24,6;25,4;25;2
+Silbersee Villach [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;0,3;14;7,15;2
+Silbersee Villach [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;236;267;251,5;2
+Silbersee Villach [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2019;0,0475;0,0479;0,0477;2
+Silbersee Villach [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,003;0,1055;0,05425;2
+Silbersee Villach [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2019;8,4;9,5;8,95;2
+Silbersee Villach [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,00805;0,01245;0,01025;2
+Silbersee Villach [tief.St.];pH;pH-Wert;;1;1;2019;8,4;8,7;8,55;2
+Silbersee Villach [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;0,092928;0,729466;0,411197;2
+Silbersee Villach [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,001;0,001;0,001;2
+Silbersee Villach [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;2,8;6,4;4,6;2
+Silbersee Villach [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;14,3;25;19,65;2
+Sonnegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2019;9,2;10,4;9,8;2
+Sonnegger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;377;394;385,5;2
+Sonnegger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2019;0,006;0,0212;0,0136;2
+Sonnegger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2019;0,529;0,59573;0,562365;2
+Sonnegger See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2019;10,3;10,9;10,6;2
+Sonnegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2019;0,0099;0,0117;0,0108;2
+Sonnegger See [tief.St.];pH;pH-Wert;;1;1;2019;8,21;8,22;8,215;2
+Sonnegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2019;0,722545;2,758873;1,740709;2
+Sonnegger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2019;0,001;0,0025;0,00175;2
+Sonnegger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,9;1,9;1,9;2
+Sonnegger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;12,5;23,3;17,9;2
+St. Andräer Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;2;2019;4,9;26,3;15,6;2
+St. Andräer Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;455;480;467,5;2
+St. Andräer Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;2;2;2019;0,0494;0,1003;0,07485;2
+St. Andräer Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;2;2019;0,003;1,584;0,7935;2
+St. Andräer Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;2;2;2019;9;10,3;9,65;2
+St. Andräer Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;2;2019;0,0252;0,0309;0,02805;2
+St. Andräer Badesee [tief.St.];pH;pH-Wert;;1;1;2019;7,76;8,08;7,92;2
+St. Andräer Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;2;2019;0;0;0;0
+St. Andräer Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;2;2019;0,001;0,0026;0,0018;2
+St. Andräer Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,1;1,9;1,5;2
+St. Andräer Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;16,9;26,2;21,55;2
+St. Johanner Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;0,1;4,5;2,3;2
+St. Johanner Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;9;2019;0,1;5,04;2,57;2
+St. Johanner Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;429;446;437,5;2
+St. Johanner Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;9;9;2019;0,0112;0,033;0,0221;2
+St. Johanner Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,758;1,03527;0,896635;2
+St. Johanner Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;9;9;2019;8,2;11,2;9,7;2
+St. Johanner Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;9;9;2019;0,0075;0,0194;0,01345;2
+St. Johanner Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0073;0,0088;0,00805;2
+St. Johanner Badesee [tief.St.];pH;pH-Wert;;1;1;2019;8;8,14;8,07;2
+St. Johanner Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0;0;0;0
+St. Johanner Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;9;2019;0;0;0;0
+St. Johanner Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,001;0,001;2
+St. Johanner Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,9;5,3;4,6;2
+St. Johanner Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;13,4;24,7;19,05;2
+St. Urban See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;1;1;2019;7,4;13,7;10,55;2
+St. Urban See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;279;288;283,5;2
+St. Urban See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2019;0,002;0,002;0,002;2
+St. Urban See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2019;0,003;0,003;0,003;2
+St. Urban See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2019;7,9;9,9;8,9;2
+St. Urban See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2019;0,0189;0,0243;0,0216;2
+St. Urban See [tief.St.];pH;pH-Wert;;1;1;2019;8,2;8,43;8,315;2
+St. Urban See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;1;1;2019;0,558108;1,346717;0,952413;2
+St. Urban See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2019;0,001;0,001;0,001;2
+St. Urban See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,2;2,1;1,65;2
+St. Urban See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;17,2;23,1;20,15;2
+Trattnigteich [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;3;2019;6,9;24,8;15,85;2
+Trattnigteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;100;114;107;2
+Trattnigteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2019;0,0891;0,098;0,09355;2
+Trattnigteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2019;0,003;0,003;0,003;2
+Trattnigteich [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2019;6,2;6,9;6,55;2
+Trattnigteich [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2019;0,023938;0,0334;0,028669;2
+Trattnigteich [tief.St.];P-ges;Phosphor gesamt;mg/l;3;3;2019;0,025;0,0489;0,03695;2
+Trattnigteich [tief.St.];pH;pH-Wert;;1;1;2019;7,5;8,1;7,8;2
+Trattnigteich [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;3;2019;0,380302;0,896098;0,6382;2
+Trattnigteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2019;0,001413;0,002625;0,002019;2
+Trattnigteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;1,9;1,9;1,9;2
+Trattnigteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;12,6;24,7;18,65;2
+Turnersee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;5,1;8,5;6,8;2
+Turnersee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;327;365;346;2
+Turnersee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2019;0,52;1,6075;1,06375;2
+Turnersee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,739;0,8141;0,77655;2
+Turnersee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2019;0,1;0,1;0,1;2
+Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2019;0,0292;0,0399;0,03455;2
+Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2019;0,014112;0,016897;0,015505;2
+Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,0093;0,0155;0,0124;2
+Turnersee [tief.St.];pH;pH-Wert;;1;1;2019;8,31;8,41;8,36;2
+Turnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;1,6196;1,664455;1,642028;2
+Turnersee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2019;1,695491;2,734018;2,214755;2
+Turnersee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,001;0,001;2
+Turnersee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;2,2;3;2,6;2
+Turnersee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;15;24,3;19,65;2
+Turracher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;0,5;1,6;1,05;2
+Turracher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;128;137;132,5;2
+Turracher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2019;0,024;0,1216;0,0728;2
+Turracher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,16327;0,441;0,302135;2
+Turracher See [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2019;0,1;1,3;0,7;2
+Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2019;0,0116;0,013;0,0123;2
+Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2019;0;0;0;0
+Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,006;0,0098;0,0079;2
+Turracher See [tief.St.];pH;pH-Wert;;1;1;2019;8,3;8,41;8,355;2
+Turracher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,112978;0,18824;0,150609;2
+Turracher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,001;0,001;2
+Turracher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;5,3;7;6,15;2
+Turracher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;13,3;20,1;16,7;2
+Vassacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;4,9;11,2;8,05;2
+Vassacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2019;0;0;0;0
+Vassacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;249;264;256,5;2
+Vassacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2019;0,331;0,408;0,3695;2
+Vassacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,003;0,08531;0,044155;2
+Vassacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2019;0,1;0,1;0,1;2
+Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,0137;0,0158;0,01475;2
+Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2019;0,01379;0,01628;0,015035;2
+Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2019;0,0217;0,0266;0,02415;2
+Vassacher See [tief.St.];pH;pH-Wert;;1;1;2019;8,2;8,6;8,4;2
+Vassacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2019;0,130461;0,54284;0,336651;2
+Vassacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;0,141968;0,565001;0,353485;2
+Vassacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,001;0,001;0,001;2
+Vassacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,1;3,8;3,45;2
+Vassacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;13,3;23,7;18,5;2
+Weißensee (tief.St.);Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2019;0;0;0;0
+Weißensee (tief.St.);Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;0,7;3,175;1,44375;4
+Weißensee (tief.St.);K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;295;324;309;4
+Weißensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;80;80;2019;0,0806;0,1219;0,097225;4
+Weißensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;50;50;2019;0,002;0,002;0,002;4
+Weißensee (tief.St.);NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,083268;0,023067;4
+Weißensee (tief.St.);O2;Sauerstoffgehalt;mg/l;50;50;2019;1,2;4,1;2,375;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;80;2019;0,005487;0,009567;0,006974;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;94;94;2019;0,0197;0,0263;0,022225;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;50;50;2019;0,0025;0,0086;0,0058;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;6;2019;0,003695;0,007638;0,005529;4
+Weißensee (tief.St.);pH;pH-Wert;;1;1;2019;8,2;8,4;8,3475;4
+Weißensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2019;0,29297;0,68417;0,429348;4
+Weißensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,333146;0,713236;0,463367;4
+Weißensee (tief.St.);PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,002;0,00125;4
+Weißensee (tief.St.);Sichttiefe;Sichttiefe;m;0;0;2019;4,2;10,2;7;4
+Weißensee (tief.St.);Wassertemperatur;Wassertemperatur;°C;0;0;2019;7,2;21,5;13,325;4
+Wernberger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;10;2019;2,8;5,7;4,25;2
+Wernberger Badesee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;2,8;5,7;4,25;2
+Wernberger Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;371;385;378;2
+Wernberger Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2019;1,532;1,672;1,602;2
+Wernberger Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,09385;0,14753;0,12069;2
+Wernberger Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2019;0,1;0,1;0,1;2
+Wernberger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2019;0,0213;0,0296;0,02545;2
+Wernberger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,008;0,0083;0,00815;2
+Wernberger Badesee [tief.St.];pH;pH-Wert;;1;1;2019;8,1;8,24;8,17;2
+Wernberger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;10;2019;0;0;0;0
+Wernberger Badesee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0;0;0;0
+Wernberger Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,0022;0,0016;2
+Wernberger Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;4,3;4,7;4,5;2
+Wernberger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;24,1;24,4;24,25;2
+Wörthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2019;0;0;0;0
+Wörthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;6;2019;2,625;18,75;8,05;4
+Wörthersee Saag [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;293;325;307,25;4
+Wörthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2019;0,0471;0,196;0,143025;4
+Wörthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;70;70;2019;0,434;0,545;0,50675;4
+Wörthersee Saag [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2019;0,003;0,120643;0,050443;4
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2019;0,1;0,1;0,1;4
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;70;70;2019;0,1;0,1;0,1;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;70;70;2019;0,0657;0,0855;0,07735;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2019;0,017273;0,02515;0,020232;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,006848;0,016148;0,012047;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;50;2019;0,011004;0,019331;0,015009;4
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2019;0,0164;0,0402;0,0258;4
+Wörthersee Saag [tief.St.];pH;pH-Wert;;1;1;2019;8,19;8,81;8,4575;4
+Wörthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2019;0,818956;1,721351;1,342534;4
+Wörthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;6;2019;0,26136;2,444451;1,255987;4
+Wörthersee Saag [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;6;2019;0,001;0,001714;0,001327;4
+Wörthersee Saag [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;3,1;5,3;4,25;4
+Wörthersee Saag [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;7,8;21;13,075;4
+Zmulner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2019;18,2;42;30,1;2
+Zmulner See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2019;465;495;480;2
+Zmulner See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2019;0,117;1,088;0,6025;2
+Zmulner See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2019;0,07275;0,44075;0,25675;2
+Zmulner See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2019;0,3;1,9;1,1;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2019;0,024085;0,024388;0,024237;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;5;5;2019;0,0523;0,0615;0,0569;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2019;0,027325;0,02865;0,027988;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2019;0,0177;0,019;0,01835;2
+Zmulner See [tief.St.];pH;pH-Wert;;1;1;2019;8,11;8,4;8,255;2
+Zmulner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2019;1,080341;3,857263;2,468802;2
+Zmulner See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2019;0,001;0,001575;0,001288;2
+Zmulner See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2019;2;2,6;2,3;2
+Zmulner See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2019;15,9;23,4;19,65;2
