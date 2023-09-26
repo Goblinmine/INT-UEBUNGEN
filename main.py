@@ -97,10 +97,14 @@ ax.set_xticklabels(x_range, rotation=45)
 
 ax.set_ylim(see1["Wassertemperatur"][0], see1["Wassertemperatur"][-1])
 ax.set_yticks(y_range)
-ax.plot(years, see1['Wassertemperatur'], label ="Magdalenensee")
-ax.plot(years, see2['Wassertemperatur'], label="Vassacher See")
-ax.plot(years, see3['Wassertemperatur'], label= "Silbersee")
+ax.plot(years, see1['Wassertemperatur'], label ="Magdalenensee" )
+ax.plot(years, see2['Wassertemperatur'], label="Vassacher See" , color= "#7D3C98")
+ax.plot(years, see3['Wassertemperatur'], label= "Silbersee" , color="#2ECC71")
 
-ax.legend(loc = ax, ncols = 3)
+ax.legend(loc = "lower right", ncols = 3)
+ax.set_title("Wassertemperatur")
+ax.set_xlabel("Jahre")
+ax.set_ylabel("AVG-Temperatur (C°)")
+ax.grid(visible= True)
 
 plt.show()
