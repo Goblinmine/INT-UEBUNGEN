@@ -40,11 +40,12 @@ def flaten_nd_array(nd_list) -> list[Axes]:
     return output
 
 
-fig, nd_ax = plt.subplots(2,2, figsize=(10,6))
+fig, nd_ax = plt.subplots(2,2, figsize=(10,10))
 ax = flaten_nd_array(nd_ax)
 
 # Find the global minimum and maximum values for the y-axis
-global_min = min(lakes[lake_name].MIN.min() for lake_name in lakes)
+# global_min = min(lakes[lake_name].MIN.min() for lake_name in lakes)
+global_min = 0
 global_max = max(lakes[lake_name].MAX.max() for lake_name in lakes)
 
 # Iterate over lakes
@@ -52,15 +53,16 @@ for i, lake_name in enumerate(lakes):
     color = (random.randint(0,10)/10,random.randint(0,10)/10,random.randint(0,10)/10,)
     
     ax[i].set_title(lake_name)
-    ax[i].plot(lakes[lake_name].JAHR, lakes[lake_name].AVG, color=color)
-    ax[i].fill_between(lakes[lake_name].JAHR, lakes[lake_name].MAX, lakes[lake_name].MIN, alpha=0.2, color=color)
+    ax[i].plot(lakes[lake_name].JAHR, lakes[lake_name].AVG, color=color, label='Average Temp')
+    ax[i].fill_between(lakes[lake_name].JAHR, lakes[lake_name].MAX, lakes[lake_name].MIN, alpha=0.2, color=color, label='Min/Max Temps')
     
     # Set the same y-axis limits for all axes
     ax[i].set_ylim(global_min, global_max)
     
     # Customize x-axis ticks and labels
-    ax[i].set_xticks(range(2007, 2023))  # Set ticks every year
-    ax[i].set_xticklabels([str(tick) for tick in range(2007, 2023)], rotation=45)  # Set tick labels and rotate them for readability
+    # Set tick labels and rotate them for readability
+    ax[i].set_xticks(range(2007, 2023))
+    ax[i].set_xticklabels(range(2007, 2023), rotation=45)
     
     ax[i].grid(True)
     ax[i].minorticks_on()
@@ -68,10 +70,26 @@ for i, lake_name in enumerate(lakes):
     ax[i].set_xlabel("Year")
     ax[i].set_ylabel("Temperature (°C)")
     
+    ax[i].legend(loc='lower left')
+    
     test = ax[i]
     
-    for i, j in zip(lakes[lake_name].JAHR, lakes[lake_name].AVG):
-        test.annotate(f'{j}', (i, j), textcoords='offset points', xytext=(0,-30), ha='center')
+    # for i, j in zip(lakes[lake_name].JAHR, lakes[lake_name].AVG):
+    #     test.annotate(f'{j}', (i, j), textcoords='offset points', xytext=(0,-30), ha='center')
+        
+# Show mixed chart
+ax[3].plot(lakes['Magdalenensee'].JAHR, lakes['Magdalenensee'].AVG, label='Magdalenensee')
+ax[3].plot(lakes['Vassacher See'].JAHR, lakes['Vassacher See'].AVG, label='Vassacher See')
+ax[3].plot(lakes['Silbersee'].JAHR, lakes['Silbersee'].AVG, label='Silbersee')
+ax[3].set_xlabel("Year")
+ax[3].set_ylabel("Temperature (°C)")
+ax[3].set_ylim(global_min, global_max)
+ax[3].legend(loc='lower left')
+ax[3].grid(True)
+
+# Customize x-axis ticks and labels
+ax[3].set_xticks(range(2007, 2023))  # Set ticks every 2 years
+ax[3].set_xticklabels([str(tick) for tick in range(2007, 2023)], rotation=45)  # Set tick labels and rotate them for readability
         
 
 plt.tight_layout()
