@@ -59,7 +59,7 @@ for i, lake_name in enumerate(lakes):
     ax[i].set_ylim(global_min, global_max)
     
     # Customize x-axis ticks and labels
-    ax[i].set_xticks(range(2007, 2023))  # Set ticks every 2 years
+    ax[i].set_xticks(range(2007, 2023))  # Set ticks every year
     ax[i].set_xticklabels([str(tick) for tick in range(2007, 2023)], rotation=45)  # Set tick labels and rotate them for readability
     
     ax[i].grid(True)
