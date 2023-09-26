@@ -65,8 +65,7 @@ def show_temp(ax: Axes, title: str):
     ax.set_ylabel('Temperature (°C)')
     ax.legend(loc='lower left')
     ax.set_title(title)
-
-
+    
 
 def flaten_nd_array(nd_list) -> list[Axes]:
     output = []
@@ -77,8 +76,8 @@ def flaten_nd_array(nd_list) -> list[Axes]:
 
 def generate_random_color():
     h = random.uniform(0, 1)
-    s = random.uniform(0.5, 1)
-    l = random.uniform(0.4, 0.8)
+    s = random.uniform(0.8, 1)
+    l = random.uniform(0.4, 0.6)
     return colorsys.hls_to_rgb(h, l, s)
         
 
@@ -86,8 +85,12 @@ def main():
     global data
     read_files()
     
+    fig: Figure
+    
     fig, nd_ax = plt.subplots(2,2, figsize=(10,10))
     ax = flaten_nd_array(nd_ax)
+    
+    fig.suptitle('Water temps from 2007 until 2022 for 3 lakes.', fontsize=16)
     
     data1 = filter_lake(MST_MAGDALENENSEE, P_WASSERTEMPERATUR)
     color1 = generate_random_color()
