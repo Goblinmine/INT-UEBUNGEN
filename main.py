@@ -1,15 +1,17 @@
 import pandas
 import matplotlib.pyplot as plt
-
+from matplotlib.figure import Figure
+from matplotlib.axes import Axes
+from matplotlib import scale as Scale
 data = pandas.read_csv("data/Seen_Morphometrie.csv", encoding='ANSI', sep=";")
 # print(data)
 
 myFiles = []
 years = []
-
+label_names = [ "Magdalenensee", "Vassacher See", "Silbersee"]
 for year in range(2007, 2023):
     myFiles.append(pandas.read_csv(
-        f"data/Seenberichtsdaten Jahr {year}.csv", encoding='ANSI', sep=";"))
+        f"data/Seenberichtsdaten Jahr {year}.csv", encoding='ANSI', sep=";", decimal=','))
     years.append(year)
 
 for dataFrames in myFiles:
@@ -33,18 +35,72 @@ see1 = {
     "Chlorid": [],
     "Chlorophyll": []}
 
+see2 = {
+    "Wassertemperatur": [],
+    "Sichttiefe": [],
+    "ph-Wert": [],
+    "Elektr. Leitfaehigkeit": [],
+    "Phosphor": [],
+    "Nitrat-Stickstoff": [],
+    "Ammonium-Stickstoff": [],
+    "Sauerstoffgehalt": [],
+    "Phytoplankton Biovolumen": [],
+    "Chlorid": [],
+    "Chlorophyll": []}
 
-# print(years)
-year07 = myFiles[0]
-mask = (year07['MESSSTELLE'].str.contains('Magdalenensee')) & (
-    year07["PARAMETERBEZEICHNUNG"] == "Wassertemperatur")
-see1["Wassertemperatur"] = mask
-print(see1)
-# print(year07[mask])
+see3 = {
+    "Wassertemperatur": [],
+    "Sichttiefe": [],
+    "ph-Wert": [],
+    "Elektr. Leitfaehigkeit": [],
+    "Phosphor": [],
+    "Nitrat-Stickstoff": [],
+    "Ammonium-Stickstoff": [],
+    "Sauerstoffgehalt": [],
+    "Phytoplankton Biovolumen": [],
+    "Chlorid": [],
+    "Chlorophyll": []}
 
-# rowsToDelete = year07[~mask]
+# see1 = {
+#     "Wassertemperatur": [],
+#     }
 
-# test = year07.drop(rowsToDelete.index)
 
-# print(test)
-# DELETE FROM data WHERE Messstelle != nameSee
+
+for year_data in myFiles:
+    # alle rows drinen
+    data_filterd: pandas.DataFrame = year_data[(year_data["PARAMETERBEZEICHNUNG"] == "Wassertemperatur") & (year_data["MESSSTELLE"].str.contains("Magdalenensee"))]
+    data_wasser_temp = data_filterd["AVG"].to_list()[0]
+    see1['Wassertemperatur'].append(data_wasser_temp)
+#print(see1)
+
+for year_data_one in myFiles:
+    second_data_filtered: pandas.DataFrame = year_data_one[(year_data_one["PARAMETERBEZEICHNUNG"] == "Wassertemperatur") & (year_data_one["MESSSTELLE"].str.contains("Vassacher See"))]
+    second_data_wasser_temp = second_data_filtered["AVG"].to_list()[0]
+    see2["Wassertemperatur"].append(second_data_wasser_temp)
+
+for year_data_two in myFiles:
+    third_data_filtered: pandas.DataFrame = year_data_two[(year_data_two["PARAMETERBEZEICHNUNG"] == "Wassertemperatur") & (year_data_two["MESSSTELLE"].str.contains("Silbersee"))]
+    third_data_wasser_temp = third_data_filtered["AVG"].to_list()[0]
+    see3["Wassertemperatur"].append(third_data_wasser_temp)
+
+ax: Axes
+
+fig, ax = plt.subplots()
+
+x_range = range(years[0], years[-1]+1)
+y_range = range(0, int(max(see1["Wassertemperatur"])+1))
+
+ax.set_xlim(years[0], years[-1])
+ax.set_xticks(x_range)
+ax.set_xticklabels(x_range, rotation=45)
+
+ax.set_ylim(see1["Wassertemperatur"][0], see1["Wassertemperatur"][-1])
+ax.set_yticks(y_range)
+ax.plot(years, see1['Wassertemperatur'], label ="Magdalenensee")
+ax.plot(years, see2['Wassertemperatur'], label="Vassacher See")
+ax.plot(years, see3['Wassertemperatur'], label= "Silbersee")
+
+ax.legend(loc = ax, ncols = 3)
+
+plt.show()
