@@ -1,4 +1,4 @@
-import pandas
+import pandas 
 import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
 from matplotlib.axes import Axes
@@ -8,7 +8,7 @@ data = pandas.read_csv("data/Seen_Morphometrie.csv", encoding='ANSI', sep=";")
 
 myFiles = []
 years = []
-label_names = [ "Magdalenensee", "Vassacher See", "Silbersee"]
+#label_names = [ "Magdalenensee", "Vassacher See", "Silbersee"]
 for year in range(2007, 2023):
     myFiles.append(pandas.read_csv(
         f"data/Seenberichtsdaten Jahr {year}.csv", encoding='ANSI', sep=";", decimal=','))
