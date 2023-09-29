@@ -35,7 +35,7 @@ def read_files():
         
     lake_data = pd.concat(files).drop('PARAMETER', axis=1).reset_index(drop=True)
     
-    lake_morphometrics = pd.read_csv('data/Seen_Morphometrie.csv', encoding='ANSI', sep=';', decimal=',', thousands='.')
+    lake_morphometrics = pd.read_csv('data/Seen_Morphometrie.csv', encoding='ANSI', sep=';', decimal=',', thousands='.').set_index('SEE')
     
     
     
@@ -80,17 +80,34 @@ def get_lake_biggest_dif():
     less = []
     
     lake_morphometrics['RELATIVE_ABFLUSS'] = (lake_morphometrics.ABFLUSS / lake_morphometrics.VOLUMEN) * 10000
-    lake_morphometrics_sorted = lake_morphometrics.sort_values(by='RELATIVE_ABFLUSS')[lake_morphometrics.RELATIVE_ABFLUSS.notna()].reset_index(drop=True)
+    lake_morphometrics_sorted = lake_morphometrics.sort_values(by='RELATIVE_ABFLUSS', ascending=False) #[lake_morphometrics.RELATIVE_ABFLUSS.notna()]
+    # test = lake_morphometrics[lake_morphometrics.RELATIVE_ABFLUSS.notna()]
+    # print(test)
     
-    testing = lake_morphometrics_sorted[-3:].to_dict()
-    print(testing)
+    lake_morphometrics_sorted['test'] = np.nan
     
-    for i, lake in lake_morphometrics_sorted[-3:].iterrows():
-        more.append(lake.SEE)
+    lake_morphometrics_sorted.loc[lake_morphometrics_sorted['RELATIVE_ABFLUSS'].notna()].head(3)['test'] = True
+    lake_morphometrics_sorted.loc[lake_morphometrics_sorted['RELATIVE_ABFLUSS'].notna()].tail(3)['test'] = False
     
-    for i, lake in lake_morphometrics_sorted[:3].iterrows():
-        less.append(lake.SEE)
-    print(f'more: {more}, less: {less}')
+    
+    # lake_morphometrics_sorted.iloc[:3, -1] = True
+    # # lake_morphometrics_sorted.iloc[-3:, -1] = False
+    # lake_morphometrics_sorted.loc[lake_morphometrics_sorted.notna(), lake_morphometrics_sorted.columns[1]]
+    
+    print(lake_morphometrics_sorted)
+    
+    
+    
+    
+    # testing = lake_morphometrics_sorted[-3:] #.to_dict(orient='index')
+    # print(testing)
+    
+    # for i, lake in lake_morphometrics_sorted[-3:].iterrows():
+    #     more.append(i)
+    
+    # for i, lake in lake_morphometrics_sorted[:3].iterrows():
+    #     less.append(i)
+    # print(f'more: {more}, less: {less}')
 
 
 def main():
