@@ -12,6 +12,7 @@ TEMP = "Wassertemperatur"
 
 kept_data = []
 years = []
+temperatures = []
 data = []
 seen = [MST_MAGDALENSENSEE, MST_VASSACHER_SEE, MST_SILBERSEE]
 
@@ -29,6 +30,14 @@ def getNeededData():
     return kept_data, years
 
 getNeededData()
-# print(kept_data)
-# print(years)
 
+def getWaterTemperature():
+    for see in kept_data:
+        temperature: pd.DataFrame = see[(see["PARAMETERBEZEICHNUNG"] == "Wassertemperatur")]
+        temperatur = temperature["AVG"].to_list()[0]
+        temperatures.append(temperatur)
+    return temperatures
+
+getWaterTemperature()
+
+print(temperatures)

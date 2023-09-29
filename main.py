@@ -11,7 +11,7 @@ years = []
 #label_names = [ "Magdalenensee", "Vassacher See", "Silbersee"]
 for year in range(2007, 2023):
     myFiles.append(pandas.read_csv(
-        f"data/Seenberichtsdaten Jahr {year}.csv", encoding='ANSI', sep=";", decimal=','))
+        f"data/Seenberichtsdat+en Jahr {year}.csv", encoding='ANSI', sep=";", decimal=','))
     years.append(year)
 
 for dataFrame in myFiles:
