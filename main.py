@@ -14,12 +14,11 @@ for year in range(2007, 2023):
         f"data/Seenberichtsdaten Jahr {year}.csv", encoding='ANSI', sep=";", decimal=','))
     years.append(year)
 
-for dataFrames in myFiles:
-    mask = dataFrames['MESSSTELLE'].str.contains(
-        'Magdalenensee|Vassacher See|Silbersee')
-    rowsToDelete = dataFrames[~mask]
-    deletedRows = dataFrames.drop(rowsToDelete.index)
-    # print(deletedRows)
+for dataFrame in myFiles:
+    mask = dataFrame['MESSSTELLE'].str.contains('Magdalenensee|Vassacher See|Silbersee')
+    rowsToDelete = dataFrame[~mask]
+    RowsWeNeed = dataFrame.drop(rowsToDelete.index)
+    #print(RowsWeNeed)
 
 
 see1 = {
@@ -97,6 +96,7 @@ ax.set_xticklabels(x_range, rotation=45)
 
 ax.set_ylim(see1["Wassertemperatur"][0], see1["Wassertemperatur"][-1])
 ax.set_yticks(y_range)
+
 ax.plot(years, see1['Wassertemperatur'], label ="Magdalenensee" )
 ax.plot(years, see2['Wassertemperatur'], label="Vassacher See" , color= "#7D3C98")
 ax.plot(years, see3['Wassertemperatur'], label= "Silbersee" , color="#2ECC71")
