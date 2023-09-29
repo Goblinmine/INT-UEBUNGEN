@@ -71,30 +71,26 @@ def generate_random_color():
     l = random.uniform(0.4, 0.6)
     return colorsys.hls_to_rgb(h, l, s)
 
+testingdict: dict
 
 def get_lake_biggest_dif():
     global lake_morphometrics
-    # test = lake_morphometrics[lake_morphometrics.ABFLUSS]
     
-    # df = df[df['EPS'].notna()]
+    more = []
+    less = []
     
-    lake_morphometrics['AVG'] = lake_morphometrics.ABFLUSS / lake_morphometrics.VOLUMEN * 1000
+    lake_morphometrics['RELATIVE_ABFLUSS'] = (lake_morphometrics.ABFLUSS / lake_morphometrics.VOLUMEN) * 10000
+    lake_morphometrics_sorted = lake_morphometrics.sort_values(by='RELATIVE_ABFLUSS')[lake_morphometrics.RELATIVE_ABFLUSS.notna()].reset_index(drop=True)
     
-    print(lake_morphometrics)
+    testing = lake_morphometrics_sorted[-3:].to_dict()
+    print(testing)
     
-    test1 = lake_morphometrics.sort_values(by='ABFLUSS')[lake_morphometrics.ABFLUSS.notna()].reset_index(drop=True)
+    for i, lake in lake_morphometrics_sorted[-3:].iterrows():
+        more.append(lake.SEE)
     
-    test2 = test1[-3:]
-    test3 = test1[:3]
-    
-    print(test1)
-    print(test2)
-    print(test3)
-    
-    # test2 = lake_morphometrics[lake_morphometrics.SEE == 'Wörthersee'].VOLUMEN
-    
-    # print(test1)
-    # print(test2)
+    for i, lake in lake_morphometrics_sorted[:3].iterrows():
+        less.append(lake.SEE)
+    print(f'more: {more}, less: {less}')
 
 
 def main():
