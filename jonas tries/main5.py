@@ -58,6 +58,7 @@ def main():
     read_files()
     output = get_lake_biggest_dif()     
     plt.suptitle('Title', fontsize=16)
+    print(output)
     plt.plot(output.RELATIVE_ABFLUSS, output.AVG_Phytoplankton, scalex=output.index.tolist(), marker='o', linestyle='')
     plt.xlabel('Relativer Abfluss (l/s/m³)')
     plt.ylabel('AVG Phytoplankton Biovolumen (mm³/l)')
