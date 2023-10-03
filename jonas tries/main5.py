@@ -5,24 +5,10 @@ from matplotlib.axes import Axes
 import numpy as np
 import random
 import colorsys
+import re
 
 lake_data: pd.DataFrame
 lake_morphometrics: pd.DataFrame
-
-MST_VASSACHER_SEE = 'Vassacher See'
-MST_MAGDALENENSEE = 'Magdalenensee'
-MST_SILBERSEE = 'Silbersee'
-
-P_SICHTTIEFE = 'Sichttiefe'
-P_WASSERTEMPERATUR = 'Wassertemperatur'
-P_PH_WERT = 'pH-Wert'
-P_E_LEITFAEIGKEIT = 'Elektrische Leitfähigkeit bei 25°C'
-P_PHOSPHOR_GESAMT = 'Phosphor gesamt'
-P_NITRAT_STICKSTOFF = 'Nitrat-Stickstoff'
-P_SAUERSTOFFGEHALT = 'Sauerstoffgehalt'
-P_AMMONIUM_STICKSTOFF = 'Ammonium-Stickstoff'
-P_PHYTOPLANKTON_BIOVOLUMEN = 'Phytoplankton Biovolumen'
-P_PHOSPHAT_PHOSPHOR = 'Phosphat-Phosphor'
 
 def read_files():
     global lake_data
@@ -36,33 +22,6 @@ def read_files():
     lake_data = pd.concat(files).drop('PARAMETER', axis=1).reset_index(drop=True)
     
     lake_morphometrics = pd.read_csv('data/Seen_Morphometrie.csv', encoding='ANSI', sep=';', decimal=',', thousands='.').set_index('SEE')
-    
-    
-    
-def filter_lake(see = None, parameter = None) -> pd.DataFrame:
-    global lake_data
-    output = None
-    
-    if see == None and parameter == None:
-        output = lake_data[lake_data.MESSSTELLE.str.contains(f'{MST_MAGDALENENSEE}|{MST_SILBERSEE}|{MST_SILBERSEE}')]
-    
-    elif see == None and parameter != None:
-        output = lake_data[(lake_data.MESSSTELLE.str.contains(f'{MST_MAGDALENENSEE}|{MST_SILBERSEE}|{MST_SILBERSEE}'))&(lake_data.PARAMETERBEZEICHNUNG == parameter)]
-    
-    elif see != None and parameter == None:
-        output = lake_data[lake_data.MESSSTELLE.str.contains(see)]
-        
-    else:
-        output = lake_data[lake_data.MESSSTELLE.str.contains(see)&(lake_data.PARAMETERBEZEICHNUNG == parameter)]
-    
-    return output.reset_index(drop=True)
-
-
-def flaten_nd_array(nd_list) -> list[Axes]:
-    output = []
-    for item in nd_list.flat:
-        output.append(item)
-    return output
 
 
 def generate_random_color():
@@ -73,58 +32,35 @@ def generate_random_color():
 
 testingdict: dict
 
-def get_lake_biggest_dif():
+
+def get_lake_biggest_dif(num:int = 3):
     global lake_morphometrics
-    
-    more = []
-    less = []
-    
     lake_morphometrics['RELATIVE_ABFLUSS'] = (lake_morphometrics.ABFLUSS / lake_morphometrics.VOLUMEN) * 10000
-    lake_morphometrics_sorted = lake_morphometrics.sort_values(by='RELATIVE_ABFLUSS', ascending=False) #[lake_morphometrics.RELATIVE_ABFLUSS.notna()]
-    # test = lake_morphometrics[lake_morphometrics.RELATIVE_ABFLUSS.notna()]
-    # print(test)
+    output = lake_morphometrics.sort_values(by='RELATIVE_ABFLUSS', ascending=False)
+    # return output.head(num), output.tail(num)
+    return output.join(get_phytoplankton()).dropna(subset=['RELATIVE_ABFLUSS', 'AVG_Phytoplankton'])
     
-    lake_morphometrics_sorted['test'] = np.nan
-    
-    lake_morphometrics_sorted.loc[lake_morphometrics_sorted['RELATIVE_ABFLUSS'].notna()].head(3)['test'] = True
-    lake_morphometrics_sorted.loc[lake_morphometrics_sorted['RELATIVE_ABFLUSS'].notna()].tail(3)['test'] = False
-    
-    
-    # lake_morphometrics_sorted.iloc[:3, -1] = True
-    # # lake_morphometrics_sorted.iloc[-3:, -1] = False
-    # lake_morphometrics_sorted.loc[lake_morphometrics_sorted.notna(), lake_morphometrics_sorted.columns[1]]
-    
-    print(lake_morphometrics_sorted)
-    
-    
-    
-    
-    # testing = lake_morphometrics_sorted[-3:] #.to_dict(orient='index')
-    # print(testing)
-    
-    # for i, lake in lake_morphometrics_sorted[-3:].iterrows():
-    #     more.append(i)
-    
-    # for i, lake in lake_morphometrics_sorted[:3].iterrows():
-    #     less.append(i)
-    # print(f'more: {more}, less: {less}')
 
-
-def main():
+def get_phytoplankton():
     global lake_data
-    global lake_morphometrics
-    
+    output = pd.DataFrame(columns=['AVG_Phytoplankton'])
+    for row in lake_data[lake_data.PARAMETERBEZEICHNUNG == 'Phytoplankton Biovolumen'][['MESSSTELLE', 'AVG']].itertuples():
+        # See if lake allready entry. if not add entry. if true then calc avg
+        messstelle = re.sub(' [\[\(].*[\]\)]', '', row[1])
+        if messstelle in output.index:
+            output.loc[messstelle] = output.loc[messstelle].AVG_Phytoplankton / 2
+        else:
+            output.loc[messstelle] = [row[2]]
+            
+    return output
+
+def main():  
     read_files()
-    
-    get_lake_biggest_dif()
-    
-    fig: Figure
-    
-    fig, nd_ax = plt.subplots(2,2, figsize=(10,10))
-    ax = flaten_nd_array(nd_ax)
-    
-    fig.suptitle('Title', fontsize=16)
-    
+    output = get_lake_biggest_dif()     
+    plt.suptitle('Title', fontsize=16)
+    plt.plot(output.RELATIVE_ABFLUSS, output.AVG_Phytoplankton, scalex=output.index.tolist(), marker='o', linestyle='')
+    plt.xlabel('Relativer Abfluss (l/s/m³)')
+    plt.ylabel('AVG Phytoplankton Biovolumen (mm³/l)')
     plt.show()
     
 main()
