@@ -46,7 +46,7 @@ def main(file_path: str):
     try:
         output_text = read_file(file_path)
         output_text = geheimsprache(output_text)
-        save_geheimsprache(output_text)
+        save_geheimsprache(output_text, mode='test')
         print(output_text)
     # i decided to catch all exeption here in the main file instead of in each function
     # bc. because the program should not continue if there is an error.
