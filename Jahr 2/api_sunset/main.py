@@ -19,5 +19,6 @@ sunrise = dt.strptime(response.json()['results']['sunrise'], datetime_format).re
 now = dt.now()
 
 print(f'Now: {now.strftime(time_format)}, Sunrise: {sunrise.strftime(time_format)}, Sunset: {sunset.strftime(time_format)}')
-if now < sunset and now > sunrise: # not right
-    print('Test')
+if (now > sunrise) and (now < sunset):
+    print('Tag')
+else: print('Nacht')
