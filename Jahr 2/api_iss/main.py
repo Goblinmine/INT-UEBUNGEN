@@ -3,12 +3,13 @@ from datetime import datetime as dt, timedelta
 
 DEBUG = False
 
-def is_night(lat: float, lng: float) -> bool:
+def is_night(pos: tuple[float, float]) -> bool:
+    
     # We don't need to worry about time zones and daylight saving time
     # because the Sunrise API provides its responses in UTC time without any offsets
     parameters = {
-        'lat':lat,
-        'lng':lng,
+        'lng':pos[0],
+        'lat':pos[1],
         'formatted': 0
     }
     now_utc = dt.utcnow()
@@ -28,9 +29,9 @@ def is_night(lat: float, lng: float) -> bool:
 
 # split in iss_overhead and get_iss_position for easier use in part II
 
-def iss_overhead(lat: float, lng: float) -> bool:
-    iss_lat, iss_lng = get_iss_position()
-    return (((iss_lat <= lat+5) and (iss_lat >= lat-5)) and ((iss_lng <= lng+5) and (iss_lng >= lng-5)))
+def iss_overhead(pos: tuple[float, float]) -> bool:
+    iss_pos = get_iss_position()
+    return (((iss_pos[1] <= pos[1]+5) and (iss_pos[1] >= pos[1]-5)) and ((iss_pos[0] <= pos[0]+5) and (iss_pos[0] >= pos[0]-5)))
 
 def get_iss_position() -> tuple[float, float]:
     response_iss = requests.get('http://api.open-notify.org/iss-now.json')
@@ -41,21 +42,21 @@ def get_iss_position() -> tuple[float, float]:
     
     if DEBUG: print(f'DEBUG: ISS pos -> lat: {iss_lat}, lng: {iss_lng}')
     
-    return iss_lat, iss_lng
+    return iss_lng, iss_lat 
 
     
-def main(lat: float, lng: float, debug_output = False) -> None:
+def main(pos: tuple[float, float], debug_output = False) -> None:
     global DEBUG
     DEBUG = debug_output
 
     try:
-        if not is_night(lat, lng):
+        if not is_night(pos):
             print('You are not gonna see the ISS because its day!')
             return
-        print(f'ISS is{"" if iss_overhead(lat, lng) else " not"} over your head!!')
+        print(f'ISS is{"" if iss_overhead(pos) else " not"} over your head!!')
             
     except Exception as ex:
         print(f'ERROR: {ex}')
 
 if __name__ == '__main__':
-    main(lat=46.636459, lng=14.312225)
+    main(pos=(14.312225, 46.636459))
