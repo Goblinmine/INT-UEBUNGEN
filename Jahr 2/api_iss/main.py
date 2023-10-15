@@ -47,13 +47,17 @@ def get_time(lat, lng):
 
 
 def iss_overhead(lat, lng):
+    iss_lat, iss_lng = get_iss_position()
+    return (((iss_lat <= lat+5) and (iss_lat >= lat-5)) and ((iss_lng <= lng+5) and (iss_lng >= lng-5)))
+
+def get_iss_position():
     response_iss = requests.get('http://api.open-notify.org/iss-now.json')
     response_iss.raise_for_status()
 
     iss_lat = float(response_iss.json()['iss_position']['latitude'])
     iss_lng = float(response_iss.json()['iss_position']['longitude'])
-
-    return (((iss_lat <= lat+5) and (iss_lat >= lat-5)) and ((iss_lng <= lng+5) and (iss_lng >= lng-5)))
+    
+    return iss_lat, iss_lng
 
     
 def main():
@@ -71,7 +75,6 @@ def main():
             
     except Exception as ex:
         print(f'ERROR: {ex}')
-
 
 if __name__ == '__main__':
     main()
