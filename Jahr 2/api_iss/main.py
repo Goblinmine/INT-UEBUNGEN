@@ -1,26 +1,17 @@
-# send msg if its night and the iss is in 5deg on my location
-
 import requests
 from datetime import datetime as dt, timedelta
 import pytz
 
-# parameters = {
-#         'lat':46.636459,
-#         'lng':14.312225,
-#         'formatted': 0
-#     }
+DEBUG = False
 
-
-def is_night(lat, lng):
+def is_night(lat: float, lng: float) -> bool:
     parameters = {
         'lat':lat,
         'lng':lng,
         'formatted': 0
     }
     now = get_time(lat, lng)
-    # now = dt.fromtimestamp(1697230064)
     datetime_format = "%Y-%m-%dT%H:%M:%S%z"
-    # time_format = "%H:%M"
 
     response = requests.get('https://api.sunrise-sunset.org/json', parameters)
     response.raise_for_status()
@@ -32,7 +23,7 @@ def is_night(lat, lng):
     return (now > sunset) and (now < sunrise_ofset)
 
 
-def get_time(lat, lng):  
+def get_time(lat: float, lng: float) -> dt:
     parameters = {
         'key':'R7TIXHW7ALW6',
         'format':'json',
@@ -46,11 +37,11 @@ def get_time(lat, lng):
     return dt.now(tz=pytz.timezone(result.json()['zoneName']))
 
 
-def iss_overhead(lat, lng):
+def iss_overhead(lat: float, lng: float) -> bool:
     iss_lat, iss_lng = get_iss_position()
     return (((iss_lat <= lat+5) and (iss_lat >= lat-5)) and ((iss_lng <= lng+5) and (iss_lng >= lng-5)))
 
-def get_iss_position():
+def get_iss_position() -> tuple[float, float]:
     response_iss = requests.get('http://api.open-notify.org/iss-now.json')
     response_iss.raise_for_status()
 
@@ -60,21 +51,16 @@ def get_iss_position():
     return iss_lat, iss_lng
 
     
-def main():
-    # LAT = 46.636459
-    # LNG = 14.312225
-    LAT = 16
-    LNG = -87
-   
+def main(lat: float, lng: float, debug_output = False) -> None:
+    global DEBUG
+    DEBUG = debug_output
+
     try:
-        if not is_night(LAT, LNG):
-            exit()
-        
-        if iss_overhead(LAT, LNG):
-            print('ISS is over your head!!')
+        if not is_night(lat, lng): exit()
+        print(f'ISS is{"" if iss_overhead(lat, lng) else " not"} over your head!!')
             
     except Exception as ex:
         print(f'ERROR: {ex}')
 
 if __name__ == '__main__':
-    main()
+    main(lat=46.636459, lng=14.312225, debug_output=True)
