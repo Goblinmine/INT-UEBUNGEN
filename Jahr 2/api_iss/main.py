@@ -4,6 +4,8 @@ from datetime import datetime as dt, timedelta
 DEBUG = False
 
 def is_night(lat: float, lng: float) -> bool:
+    # We don't need to worry about time zones and daylight saving time
+    # because the Sunrise API provides its responses in UTC time without any offsets
     parameters = {
         'lat':lat,
         'lng':lng,
@@ -24,6 +26,7 @@ def is_night(lat: float, lng: float) -> bool:
     if DEBUG: print(f'DEBUG: night -> sunset: {sunset}, now_utc: {now_utc} , sunrise_offset: {sunrise_offset}, output: {night}')
     return night
 
+# split in iss_overhead and get_iss_position for easier use in part II
 
 def iss_overhead(lat: float, lng: float) -> bool:
     iss_lat, iss_lng = get_iss_position()
