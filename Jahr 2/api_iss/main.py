@@ -1,5 +1,5 @@
 import requests
-from datetime import datetime as dt, timedelta
+from datetime import datetime as dt, timedelta, time
 import math
 
 DEBUG = False
@@ -43,11 +43,9 @@ def is_night(pos: tuple[float, float]) -> bool:
 
     sunset = dt.strptime(response.json()['results']['sunset'], datetime_format).replace(tzinfo=None)
     sunrise = dt.strptime(response.json()['results']['sunrise'], datetime_format).replace(tzinfo=None)
-    sunrise_offset = sunrise + timedelta(days=1)
-
-    # night = (now > sunset) and (now < sunrise_ofset)
-    night = sunset < now_utc < sunrise_offset
-    if DEBUG: print(f'DEBUG: night -> sunset: {sunset}, now_utc: {now_utc} , sunrise_offset: {sunrise_offset}, output: {night}')
+    
+    night = not sunrise <= now_utc <= sunset
+    if DEBUG: print(f'DEBUG: night -> sunset: {sunset}, now_utc: {now_utc} , sunrise: {sunrise}, output: {night}')
     return night
 
 # split in iss_overhead and get_iss_position for easier use in part II

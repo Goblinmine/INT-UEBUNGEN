@@ -98,6 +98,7 @@ def iss_loop():
 
 
 def main():
+    api.DEBUG = True
     iss_loop()
         
 
