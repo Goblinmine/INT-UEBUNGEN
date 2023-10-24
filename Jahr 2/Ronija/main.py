@@ -97,7 +97,7 @@ class Rauber(Person):
             hostage.move_as_hostage(self, ort)
         return super().move_to(ort)
     
-    def give_birth(self, father: Self, is_male: bool, name: str) -> Any:
+    def give_birth(self, father: Self, is_male: bool, name: str) -> Self:
         if not self.is_male:
             print(f'{self.name} gave birth to {name} in {self.current_position}')
             return Rauber(name=name, mutter=self, father=father, is_male=is_male, 
