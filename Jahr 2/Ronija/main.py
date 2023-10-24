@@ -2,7 +2,8 @@ from typing import Any, Self
 from random import Random as r
 
 class Person():
-    def __init__(self, name: str, is_male: bool, current_position: str = None, mutter: Self = None, father: Self = None, home: str = None) -> None:
+    def __init__(self, name: str, is_male: bool, current_position: str = None, 
+                 mutter: Self = None, father: Self = None, home: str = None) -> None:
         self.name = name
         self.mutter = mutter
         self.fater = father
@@ -39,7 +40,8 @@ class Person():
     def give_birth(self, father: Self, is_male: bool, name: str) -> Self:
         if not self.is_male:
             print(f'{self.name} gave birth to {name} in {self.current_position}')
-            return Person(name=name, mutter=self, father=father, is_male=is_male, home=self.home, current_position=self.current_position)
+            return Person(name=name, mutter=self, father=father, is_male=is_male, 
+                          home=self.home, current_position=self.current_position)
     
     def set_new_home(self, home: str) -> None:
         self.home = home
@@ -57,13 +59,14 @@ class Person():
         
     def killed(self) -> None:
         self.__dead == True
-        print(f'{self.name} is no dead!')
+        print(f'{self.name} is now dead!')
         
     def feels(self, feels: str) -> None:
         print(f'{self.name} {feels}')
         
 class Rauber(Person):
-    def __init__(self, name: str, is_male: bool, current_position: str = None, mutter: Self = None, father: Self = None, home: str = None) -> None:
+    def __init__(self, name: str, is_male: bool, current_position: str = None, 
+                 mutter: Self = None, father: Self = None, home: str = None) -> None:
         super().__init__(name, is_male, current_position, mutter, father, home)
         self.hostages: list[Person] = []
     
@@ -94,17 +97,19 @@ class Rauber(Person):
             hostage.move_as_hostage(self, ort)
         return super().move_to(ort)
     
-    def give_birth(self, father: Self, is_male: bool, name: str) -> Self:
+    def give_birth(self, father: Self, is_male: bool, name: str) -> Any:
         if not self.is_male:
             print(f'{self.name} gave birth to {name} in {self.current_position}')
-            return Rauber(name=name, mutter=self, father=father, is_male=is_male, home=self.home, current_position=self.current_position)
+            return Rauber(name=name, mutter=self, father=father, is_male=is_male, 
+                          home=self.home, current_position=self.current_position)
 
 class Gruppe():
-    def __init__(self, home: str, current_position: str, name: str = None, people: list[Person] = []) -> None:
+    def __init__(self, home: str, current_position: str, 
+                 name: str = None, people: list[Person] = []) -> None:
         self.home = home
         self.current_position = current_position
         self.personen: list[Person] = people
-        self.in_conflikt = []
+        self.in_conflict = []
         self.name = name
         
     def move_to(self, ort: str) -> None:
@@ -115,21 +120,21 @@ class Gruppe():
     def move_home(self) -> None:
         self.move_to(self.home)
         
-    def start_conflikt(self, group: Self) -> None:
-        if group not in self.in_conflikt:
-            self.in_conflikt.append(group)
-            group.in_conflikt.append(self)
-            print(f'{self.name} started conflikt with {group.name}')
+    def start_conflict(self, group: Self) -> None:
+        if group not in self.in_conflict:
+            self.in_conflict.append(group)
+            group.in_conflict.append(self)
+            print(f'{self.name} started conflict with {group.name}')
         
-    def stop_conflikt(self, group: Self) -> None:
-        if group in self.in_conflikt:
-            self.in_conflikt.remove(group)
-            group.in_conflikt.remove(self)
-            print(f'{self.name} stoped the conflikt with {group.name}')
+    def stop_conflict(self, group: Self) -> None:
+        if group in self.in_conflict:
+            self.in_conflict.remove(group)
+            group.in_conflict.remove(self)
+            print(f'{self.name} stoped the conflict with {group.name}')
         
-    def add_person(self, person: Person, quied = False) -> None:
+    def add_person(self, person: Person, quiet = False) -> None:
         self.personen.append(person)
-        if not quied: print(f"{person.name} now part of {self.name}")    
+        if not quiet: print(f"{person.name} now part of {self.name}")    
         
     def remove_person(self, person: Person) -> None:
         self.personen.remove(person)
@@ -141,7 +146,7 @@ class Gruppe():
         
     def ambush(self, group: Self) -> None:
         print(f"{self.name} ambushed {group.name}")
-        self.start_conflikt(group)   
+        self.start_conflict(group)   
         
     def merge_gruppe(self, gruppe: Self, new_name: str) -> Self:
         output = Gruppe(self.home, self.current_position, new_name)
@@ -255,23 +260,24 @@ class EncounterController():
 def main():
     encounter = EncounterController()
     
-    landsknechte = Landsknechte(Person(name='Vog', is_male=True, home='Vogts Castle'), 'Mattiswald', 'Mattiswald', 'Landsknechte des Vogts')
+    landsknechte = Landsknechte(Person(name='Vog', is_male=True, home='Vogts Castle'), 
+                                'Mattiswald', 'Mattiswald', 'Landsknechte des Vogts')
     
     mattis = Rauber(name='Mattis', is_male=True, home='Mattisburg')
     lovis = Rauber(name='Lovis', is_male=False, home='Mattisburg')
     
     mattis_rauberbande = RauberBande(mattis, 'Mattisburg', 'Mattisburg', name="Mattis' Räuberbande", people=[mattis, lovis])
 
-    birk = Rauber(name='Birk Borkason', is_male=True, current_position='Mattiswald')
     undis = Rauber(name='Undis', is_male=False, current_position='Mattiswald')
     borka = Rauber(name='Borka', is_male=True, current_position='Mattiswald')
     
-    borkaräuber = RauberBande(borka, 'Mattisburg', 'Mattisburg', name="Borkaräuber", people=[birk, undis, borka])
+    borkaräuber = RauberBande(borka, 'Mattisburg', 'Mattisburg', name="Borkaräuber", people=[undis, borka])
     
     # Start of Storry
     print('\n')
     print('Lightning strikes the Mattisburg and splits it in two.')
     ronja = lovis.give_birth(mattis, is_male=False, name='Ronja')
+    birk = undis.give_birth(borka, True, 'Birk Borkason')
     print('\na few years later:')
     print('part of Festung now named "Borkafeste"')
     borkaräuber.set_new_home('Borkafeste')
@@ -283,14 +289,14 @@ def main():
     ronja.move_to('Mattisburg')
     birk.move_to('Mattisburg')
     mattis.take_hostage(birk)
-    mattis_rauberbande.start_conflikt(borkaräuber)
+    mattis_rauberbande.start_conflict(borkaräuber)
     ronja.feels(f'Dosent like that {mattis_rauberbande.name} took {birk.name} as a hostage.')
     ronja.move_to('Borkafeste')
     borka.take_hostage(ronja)
     mattis.feels(f"Doesn't like that {ronja.name} is friends with {birk.name}")
     borka.feels(f"Doesn't like that {birk.name} is friends with {ronja.name}")
     
-    mattis_rauberbande.stop_conflikt(borkaräuber)
+    mattis_rauberbande.stop_conflict(borkaräuber)
     mattis.release_hostage(birk)
     borka.release_hostage(ronja)
     
@@ -319,11 +325,11 @@ def main():
     vereinigten_tauberbande = mattis_rauberbande.merge_gruppe(borkaräuber, 'vereinigten Räuberbande', mattis)
     
     print('\nIn Spring:')
+    # print(type(ronja))
     ronja = ronja.ich_will_kein_rauber_mehr_sein()
+    # print(type(ronja))
     ronja.move_to('verlassene Bärenhöhle')
     birk.move_to('verlassene Bärenhöhle')
-    
-    
     
 
 if __name__ == '__main__': main()
