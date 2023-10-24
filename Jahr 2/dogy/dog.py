@@ -84,7 +84,31 @@ class FrisbeeDog(Dog):
             str = str + ' and I have a frisbee'
         return str
 
+class Cat():
+    def __init__(self, name):
+        self.name = name
+
+    def meow(self):
+        print(self.name, 'Says, "Meow"')
+        
+class Person():
+    def __init__(self, name) -> None:
+        if type(name) is not str:
+            raise TypeError("param should be a string")
+        self.name = name
+        
+class Dog_walker(Person):
+    def __init__(self, name) -> None:
+        super().__init__(name)
+        
+    def walk_dogies(self, dogies: dict[str, Dog]) -> None:
+        for dog_name, dog in dogies.items():
+            dog.walk()
+            
 class Hotel:
+    
+    dog_walker: Dog_walker = None
+        
     def __init__(self, name):
         self.name = name
         self.kennel_names = []
@@ -112,25 +136,40 @@ class Hotel:
         for dog_name in self.kennel:
             dog = self.kennel[dog_name]
             dog.bark()
-
-class Cat():
-    def __init__(self, name):
-        self.name = name
-
-    def meow(self):
-        print(self.name, 'Says, "Meow"')
+            
+            
+    def hire_dog_walker(self, dog_walker: Dog_walker) -> None:
+        if type(dog_walker) is not Dog_walker:
+            raise TypeError("param should be a Dog_walker")
+              
+        self.dog_walker = dog_walker 
+        
+    
+    def walk_service(self) -> None:
+        if self.dog_walker == None:
+            print('No Dogwalker hired!')
+            return
+        self.dog_walker.walk_dogies(self.kennel)
 
 def test_code():
     codie = Dog('Codie', 12, 38)
     jackson = Dog('Jackson', 9, 12)
     rody = ServiceDog('Rody', 8, 38, 'Joseph')
-    frisbee = Frisbee('red')
-    dude =  FrisbeeDog('Dude', 5, 20)
-    dude.catch(frisbee)
+    # frisbee = Frisbee('red')
+    # dude =  FrisbeeDog('Dude', 5, 20)
+    # dude.catch(frisbee)
 
-    codie.walk()
-    jackson.walk()
-    rody.walk()
-    dude.walk()
+    # codie.walk()
+    # jackson.walk()
+    # rody.walk()
+    # dude.walk()
+    
+    hans = Dog_walker('Hans')
+    hotel = Hotel('HHH')
+    hotel.check_in(codie)
+    hotel.check_in(jackson)
+    hotel.check_in(rody)
+    # hotel.hire_dog_walker(hans)
+    hotel.walk_service()
 
 test_code()
