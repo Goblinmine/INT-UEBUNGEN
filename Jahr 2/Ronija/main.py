@@ -1,12 +1,8 @@
 from typing import Any, Self
-
-class Ort:
-    def __init__(self, name: str, unter_orte: list[Self] = None) -> None:
-        self.name = name
-        self.unter_orte = unter_orte
+from random import Random as r
 
 class Person():
-    def __init__(self, name: str, is_male: bool, current_position: Ort = None, mutter: Self = None, father: Self = None, home: Ort = None) -> None:
+    def __init__(self, name: str, is_male: bool, current_position: str = None, mutter: Self = None, father: Self = None, home: str = None) -> None:
         self.name = name
         self.mutter = mutter
         self.fater = father
@@ -23,7 +19,7 @@ class Person():
         self.__dead = False
         self.friends = []
         
-    def move_to(self, ort: Ort) -> None:
+    def move_to(self, ort: str) -> None:
         if self.is_hostage:
             print(f'{self.name} is a hostage so cant move on its own.')
         else:
@@ -45,7 +41,7 @@ class Person():
             print(f'{self.name} gave birth to {name} in {self.current_position}')
             return Person(name=name, mutter=self, father=father, is_male=is_male, home=self.home, current_position=self.current_position)
     
-    def set_new_home(self, home: Ort) -> None:
+    def set_new_home(self, home: str) -> None:
         self.home = home
         print(f'{self.name}s new home is {home}')
         
@@ -67,7 +63,7 @@ class Person():
         print(f'{self.name} {feels}')
         
 class Rauber(Person):
-    def __init__(self, name: str, is_male: bool, current_position: Ort = None, mutter: Self = None, father: Self = None, home: Ort = None) -> None:
+    def __init__(self, name: str, is_male: bool, current_position: str = None, mutter: Self = None, father: Self = None, home: str = None) -> None:
         super().__init__(name, is_male, current_position, mutter, father, home)
         self.hostages: list[Person] = []
     
@@ -93,7 +89,7 @@ class Rauber(Person):
         print(f"{self.name} doesn's want to be a Räuber anymore. Is now a normal Person.")
         return new_person
     
-    def move_to(self, ort: Ort) -> None:
+    def move_to(self, ort: str) -> None:
         for hostage in self.hostages:
             hostage.move_as_hostage(self, ort)
         return super().move_to(ort)
@@ -104,14 +100,14 @@ class Rauber(Person):
             return Rauber(name=name, mutter=self, father=father, is_male=is_male, home=self.home, current_position=self.current_position)
 
 class Gruppe():
-    def __init__(self, home: Ort, current_position: Ort, name: str = None) -> None:
+    def __init__(self, home: str, current_position: str, name: str = None, people: list[Person] = []) -> None:
         self.home = home
         self.current_position = current_position
-        self.personen: list[Person] = []
+        self.personen: list[Person] = people
         self.in_conflikt = []
         self.name = name
         
-    def move_to(self, ort: Ort) -> None:
+    def move_to(self, ort: str) -> None:
         for person in self.personen:
             person.move_to(ort)
         print(f'Gruppe {self.name} moved to {ort}.')
@@ -131,16 +127,15 @@ class Gruppe():
             group.in_conflikt.remove(self)
             print(f'{self.name} stoped the conflikt with {group.name}')
         
-    def add_person(self, persons: list[Person]) -> None:
-        for person in persons:
-            self.personen.append(person)
-            print(f"{person.name} now part of {self.name}")
+    def add_person(self, person: Person, quied = False) -> None:
+        self.personen.append(person)
+        if not quied: print(f"{person.name} now part of {self.name}")    
         
     def remove_person(self, person: Person) -> None:
         self.personen.remove(person)
         print(f"{person.name} got removed from {self.name}")
         
-    def set_new_home(self, new_home: Ort) -> None:
+    def set_new_home(self, new_home: str) -> None:
         self.home = new_home
         print(f'{self.name} new home now {new_home}')
         
@@ -150,43 +145,47 @@ class Gruppe():
         
     def merge_gruppe(self, gruppe: Self, new_name: str) -> Self:
         output = Gruppe(self.home, self.current_position, new_name)
-        all_people = self.personen
+   
+        for person in self.personen:
+            output.add_person(person, True)
         for person in gruppe.personen:
-            all_people.append(person)
-        output.add_person(all_people)
+            output.add_person(person, True)
+            
+        print(f'{self.name} and {gruppe.name} merged to new group called {new_name}')
         return output
     
 class RauberBande(Gruppe):
-    def __init__(self, hauptmann: Person, home: Ort, current_position: Ort, name: str = None) -> None:
-        super().__init__(home, current_position, name)
+    def __init__(self, hauptmann: Person, home: str, current_position: str, name: str = None, people: list[Rauber] = []) -> None:
+        super().__init__(home, current_position, name, people)
         self.hauptmann = hauptmann
         
-    def add_person(self, rauber: list[Rauber]) -> None:
-        for ein_rauber in rauber:
-            if not isinstance(ein_rauber, Rauber):
-                raise TypeError()
+    def add_person(self, rauber: Rauber, quied = False) -> None:
+        if not isinstance(rauber, Rauber):
+            raise TypeError()
         
-        return super().add_person(rauber)
+        return super().add_person(rauber, quied)
     
-    def merge_gruppe(self, gruppe: Self, new_name: str, new_hauptmann) -> Self:
-        all_people = self.personen
-        for person in gruppe.personen:
-            all_people.append(person)
-        
+    def merge_gruppe(self, gruppe: Self, new_name: str, new_hauptmann) -> Self:        
         output = RauberBande(new_hauptmann, self.home, self.current_position, new_name)
-       
-        output.add_person(all_people)
+        
+        for rauber in self.personen:
+            output.add_person(rauber, True)
+        for rauber in gruppe.personen:
+            output.add_person(rauber, True)
+            
+        print(f'{self.name} and {gruppe.name} merged to new group called {new_name}')
+            
         return output
         
 class Landsknechte(Gruppe):
-    def __init__(self, lord: Person, home: Ort, current_position: Ort, name: str = None) -> None:
+    def __init__(self, lord: Person, home: str, current_position: str, name: str = None) -> None:
         super().__init__(home, current_position, name)
         self.lord = lord
         
 # Monster
 
 class Monster():
-    def __init__(self, home: Ort, current_position: Ort) -> None:
+    def __init__(self, home: str, current_position: str) -> None:
         self.home = home
         self.current_position = current_position
         night_active: bool = None
@@ -195,28 +194,28 @@ class Monster():
         self.current_position = self.home
         
 class Dunkelolker(Monster):
-    def __init__(self, home: Ort, current_position: Ort) -> None:
+    def __init__(self, home: str, current_position: str) -> None:
         super().__init__(home, current_position)
         
     def talk(self, msg: str) -> None:
         print(f'{self.__class__} says:"{msg}".')
         
 class Unterirdischen(Monster):
-    def __init__(self, home: Ort, current_position: Ort) -> None:
+    def __init__(self, home: str, current_position: str) -> None:
         super().__init__(home, current_position)
         
     def lure_human(self, person: Person) -> None:
         raise NotImplementedError()
         
 class Rumpelwichte(Monster):
-    def __init__(self, home: Ort, current_position: Ort) -> None:
+    def __init__(self, home: str, current_position: str) -> None:
         super().__init__(home, current_position)
         
     def tripping_hayard(self, person: Person) -> None:
         raise NotImplementedError()
     
 class Graugnome(Monster):
-    def __init__(self, home: Ort, current_position: Ort) -> None:
+    def __init__(self, home: str, current_position: str) -> None:
         super().__init__(home, current_position)
         self.night_active = True
         
@@ -224,7 +223,7 @@ class Graugnome(Monster):
         raise NotImplementedError()
     
 class Wildruden(Monster):
-    def __init__(self, home: Ort, current_position: Ort) -> None:
+    def __init__(self, home: str, current_position: str) -> None:
         super().__init__(home, current_position)
         self.child_in_fangs: Person = None
         self.night_active = False
@@ -241,31 +240,33 @@ class Wildruden(Monster):
             self.child_in_fangs.killed()
             
 class EncounterController():
-    def __init__(self, monster: list[Monster]) -> None:
-        self.moster: list[Monster] = monster
+    def __init__(self) -> None:
+        self.moster: list[Monster] = None
+        self.__create_monster_pool()
         
     def trigger_encounter(person: Person) -> Monster:
         raise NotImplementedError()
+    
+    def __create_monster_pool(self):
+        pass
+        # r.randint(10)
 
         
 def main():
+    encounter = EncounterController()
+    
     landsknechte = Landsknechte(Person(name='Vog', is_male=True, home='Vogts Castle'), 'Mattiswald', 'Mattiswald', 'Landsknechte des Vogts')
     
     mattis = Rauber(name='Mattis', is_male=True, home='Mattisburg')
     lovis = Rauber(name='Lovis', is_male=False, home='Mattisburg')
     
-    mattis_rauberbande = RauberBande(mattis, 'Mattisburg', 'Mattisburg', name="Mattis' Räuberbande")
-    mattis_rauberbande.add_person([mattis, lovis])
-
+    mattis_rauberbande = RauberBande(mattis, 'Mattisburg', 'Mattisburg', name="Mattis' Räuberbande", people=[mattis, lovis])
 
     birk = Rauber(name='Birk Borkason', is_male=True, current_position='Mattiswald')
     undis = Rauber(name='Undis', is_male=False, current_position='Mattiswald')
     borka = Rauber(name='Borka', is_male=True, current_position='Mattiswald')
     
-    borkaräuber = RauberBande(borka, 'Mattisburg', 'Mattisburg', name="Borkaräuber")
-    
-    borkaräuber.add_person([birk, undis, borka])
-    
+    borkaräuber = RauberBande(borka, 'Mattisburg', 'Mattisburg', name="Borkaräuber", people=[birk, undis, borka])
     
     # Start of Storry
     print('\n')
@@ -275,7 +276,7 @@ def main():
     print('part of Festung now named "Borkafeste"')
     borkaräuber.set_new_home('Borkafeste')
     
-    # TODO: gegenseitig in brenzligen Situationen helfen
+    print(f'\nSome stuff happens to {ronja.name} and {birk.name} and thez help each other')
     ronja.add_friend(birk)
     
     print('\na little bit later:')
@@ -296,7 +297,11 @@ def main():
     ronja.move_to('verlassene Bärenhöhle')
     birk.move_to('verlassene Bärenhöhle')
     
-    # TODO: encounters
+    # print('\n')
+    # for i in range(5):
+    #     encounter.trigger_encounter()
+    
+    
     print('\nHalf a year later:')
     mattis.feels('is longing for his daughter')
     mattis.move_to('verlassene Bärenhöhle')
