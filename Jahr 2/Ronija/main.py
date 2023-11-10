@@ -19,6 +19,7 @@ class Person():
         self.free = True
         self.__dead = False
         self.friends = []
+        self.currently_with_group = True
         
     def move_to(self, ort: str) -> None:
         if self.is_hostage:
@@ -183,8 +184,8 @@ class RauberBande(Gruppe):
         return output
         
 class Landsknechte(Gruppe):
-    def __init__(self, lord: Person, home: str, current_position: str, name: str = None) -> None:
-        super().__init__(home, current_position, name)
+    def __init__(self, lord: Person, home: str, current_position: str, name: str = None, people: list[Person] = []) -> None:
+        super().__init__(home, current_position, name, people=people)
         self.lord = lord
         
 # Monster
@@ -260,8 +261,12 @@ class EncounterController():
 def main():
     encounter = EncounterController()
     
+    lars = Person(name='Lars', is_male=True, current_position='Mattiswald')
+    ludwig = Person(name='Ludwig', is_male=True, current_position='Mattiswald')
+    leroy = Person(name='Leroy', is_male=True, current_position='Mattiswald')
+    
     landsknechte = Landsknechte(Person(name='Vog', is_male=True, home='Vogts Castle'), 
-                                'Mattiswald', 'Mattiswald', 'Landsknechte des Vogts')
+                                'Mattiswald', 'Mattiswald', 'Landsknechte des Vogts', people=[lars, ludwig, leroy])
     
     mattis = Rauber(name='Mattis', is_male=True, home='Mattisburg')
     lovis = Rauber(name='Lovis', is_male=False, home='Mattisburg')
@@ -330,6 +335,19 @@ def main():
     # print(type(ronja))
     ronja.move_to('verlassene Bärenhöhle')
     birk.move_to('verlassene Bärenhöhle')
+    
+    # continue
+    # verirren sich die drei Landsknechte Lars, Ludwig und Leroy im Wald. 
+    lars.currently_with_group = False
+    lars.move_to('Wald')
+    ludwig.currently_with_group = False
+    ludwig.move_to('Wald')
+    leroy.currently_with_group = False
+    leroy.move_to('Wald')
+    
+    
+    
+    
     
 
 if __name__ == '__main__': main()
