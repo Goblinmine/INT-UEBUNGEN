@@ -1,13 +1,12 @@
 import mysql.connector          # Treiber importieren
+import json
 
 class Db_Zugriff:
 
     def __init__(self):
-        self.dbconfig = {'host': '127.0.0.1',
-            'user': 'root',
-            'password': 'root',
-            'database': 'biblio',
-            'port': '8889'}
+        self.dbconfig = None
+        with open('.dbSecret.json') as f:
+            self.dbconfig = json.load(f)
 
         self.conn = mysql.connector.connect(**self.dbconfig)  # ** bedeutet, dass die Einzelwerte verwendet werden
         self.cursor = self.conn.cursor()

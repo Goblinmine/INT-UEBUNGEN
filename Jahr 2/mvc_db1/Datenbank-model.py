@@ -1,5 +1,6 @@
 import mysql.connector
 import sys
+import json
 
 class db_Zugriff():
     dbconfig = {}
@@ -8,11 +9,9 @@ class db_Zugriff():
 
     def __init__(self):
         try:
-            self.dbconfig = {'host': '127.0.0.1',
-                        'user': 'root',
-                        'password': 'root',
-                        'database': 'biblio',
-                        'port': '8889'}
+            self.dbconfig = None
+            with open('.dbSecret.json') as f:
+                self.dbconfig = json.load(f)
 
             self.conn = mysql.connector.connect(**self.dbconfig)  ## ** bedeutet, dass die Einzelwerte verwendet werden
 
