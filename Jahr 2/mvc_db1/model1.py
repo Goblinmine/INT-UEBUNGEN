@@ -20,12 +20,12 @@ class Db_Zugriff:
         return result
 
 
-    def insertBuch(self, id, sachgebiet, autor, titel, ort, jahr, verlag):
+    def insertBuch(self, isbn, titel, author, auflage, preis):
         _SQL = """insert into buecher 
-                (BuchNr, Sachgebiet, Autor, Titel, Ort, Jahr, Verlag) 
+                (isbn, titel, autor, auflage, preis) 
                 values 
-                (%s, %s, %s, %s, %s, %s, %s)"""
-        self.cursor.execute(_SQL, (id, sachgebiet, autor, titel, ort, jahr, verlag))
+                (%s, %s, %s, %s, %s)"""
+        self.cursor.execute(_SQL, (isbn, titel, author, auflage, preis))
         self.conn.commit()
         return self.cursor.rowcount
 
@@ -36,15 +36,15 @@ class Db_Zugriff:
         return self.cursor.fetchall()
 
     def delete_buchnr_from_Buecher(self, number):
-        _SQL = "delete from buecher where buchnr=" + str(number)
+        _SQL = "delete from buecher where isbn=" + str(number)
         self.cursor.execute(_SQL)
         self.conn.commit()
         print(self.cursor.rowcount, "record(s) deleted")
 
     def get_next_buchnr(self):
-        _SQL = "select max(buchnr) from buecher"
+        _SQL = "select max(isbn) from buecher"
         self.cursor.execute(_SQL)
-        next = self.cursor.fetchone()[0] + 1
+        next = int(self.cursor.fetchone()[0]) + 1
         return next
 
 
@@ -60,7 +60,7 @@ def testIt():
     #    print(row)
 
     #print("Alle Bücher")
-    print(db.insertBuch('1606', 'Jugend', 'Cornelia Funke', 'Drachenreiter', 'Hamburg', '1997', 'Dressler'))
+    print(db.insertBuch(db.get_next_buchnr(), 'Drachenreiter', 'Cornelia Funke', '1', '10.5'))
     #db.delete_buchnr_from_Buecher(1606)
     #for row in db.get_all_Buecher():
     #    print(row)
