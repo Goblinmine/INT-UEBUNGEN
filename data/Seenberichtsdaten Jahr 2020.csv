@@ -1,0 +1,570 @@
+MESSSTELLE;PARAMETERBEZEICHNUNG;DIM;T.von;T.bis;JAHR;AVG;MIN;MAX;ANZ
+Afritzer See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;20;2020;11,439657;6,797391;16,288943;6
+Afritzer See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;6,366667;3,2;8;3
+Afritzer See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;170,666667;165;175;3
+Afritzer See [tief.St.];Ammonium-Stickstoff;mg/l;20;20;2020;0,756333;0,402;1,23;3
+Afritzer See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,142667;0,062;0,242;3
+Afritzer See [tief.St.];Sauerstoffgehalt;mg/l;20;20;2020;0,9;0,1;2,5;3
+Afritzer See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,016;0,014;0,017;3
+Afritzer See [tief.St.];Phosphor gesamt;mg/l;20;20;2020;0,051167;0,0195;0,096;3
+Afritzer See [tief.St.];Phosphor gesamt;mg/l;0;22;2020;0,021405;0,0163;0,025028;3
+Afritzer See [tief.St.];pH-Wert;;1;1;2020;7,966667;7,6;8,3;3
+Afritzer See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;20;2020;1,28482;0,265205;2,488207;3
+Afritzer See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;1,02248;0,247749;2,206981;3
+Afritzer See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,002667;0,001;0,004;3
+Afritzer See [tief.St.];Sichttiefe;m;0;0;2020;4,2;3,3;4,8;3
+Afritzer See [tief.St.];Wassertemperatur;°C;0;0;2020;13,7;7;18,5;3
+Aichwaldsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;8;4,3;11,7;2
+Aichwaldsee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;411;408;414;2
+Aichwaldsee [tief.St.];Ammonium-Stickstoff;mg/l;7;7;2020;0,19695;0,0209;0,373;2
+Aichwaldsee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,112;0,086;0,138;2
+Aichwaldsee [tief.St.];Sauerstoffgehalt;mg/l;7;7;2020;8,55;0,1;17;2
+Aichwaldsee [tief.St.];Phosphor gesamt;mg/l;0;7;2020;0,012082;0,010108;0,014055;2
+Aichwaldsee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,01205;0,0101;0,014;2
+Aichwaldsee [tief.St.];pH-Wert;;1;1;2020;8,05;8;8,1;2
+Aichwaldsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;1,068651;0,871101;1,266201;2
+Aichwaldsee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+Aichwaldsee [tief.St.];Sichttiefe;m;0;0;2020;3,85;3,5;4,2;2
+Aichwaldsee [tief.St.];Wassertemperatur;°C;0;0;2020;19,55;16,4;22,7;2
+Badesee Kirschentheuer [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;10;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Ammonium-Stickstoff;mg/l;10;10;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Sauerstoffgehalt;mg/l;10;10;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Phosphor gesamt;mg/l;10;10;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];pH-Wert;;1;1;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Phytoplankton Biovolumen;mm³/l;0;10;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Sichttiefe;m;0;0;2020;0;0;0;0
+Badesee Kirschentheuer [tief.St.];Wassertemperatur;°C;0;0;2020;0;0;0;0
+Faaker See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;1,025;1;1,1;4
+Faaker See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;29;2020;1,24494;0,999975;1,798788;4
+Faaker See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;366;349;380;4
+Faaker See [tief.St.];Ammonium-Stickstoff;mg/l;29;29;2020;0,022975;0,002;0,059;4
+Faaker See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,262994;0,200905;0,312643;4
+Faaker See [tief.St.];Sauerstoffgehalt;mg/l;29;29;2020;4,65;0,1;9,2;4
+Faaker See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,007091;0,00569;0,007762;4
+Faaker See [tief.St.];Phosphor gesamt;mg/l;0;29;2020;0,007384;0,006092;0,008448;4
+Faaker See [tief.St.];Phosphor gesamt;mg/l;29;29;2020;0,012375;0,009;0,0185;4
+Faaker See [tief.St.];pH-Wert;;1;1;2020;8,295;8,2;8,47;4
+Faaker See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,231044;0,10624;0,340561;4
+Faaker See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;29;2020;0,206573;0,084753;0,364;4
+Faaker See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001945;0,001;0,003;4
+Faaker See [tief.St.];Sichttiefe;m;0;0;2020;4,575;3,4;5,5;4
+Faaker See [tief.St.];Wassertemperatur;°C;0;0;2020;14,75;7,2;21,2;4
+Feldsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;26;2020;7,271312;3,481443;10,329564;6
+Feldsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;7,566667;4,3;9,7;3
+Feldsee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;120,333333;119;123;3
+Feldsee [tief.St.];Ammonium-Stickstoff;mg/l;26;26;2020;0,6404;0,1062;1,066;3
+Feldsee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,165333;0,003;0,247;3
+Feldsee [tief.St.];Sauerstoffgehalt;mg/l;26;26;2020;0,1;0,1;0,1;3
+Feldsee [tief.St.];Phosphor gesamt;mg/l;26;26;2020;0,091733;0,0182;0,169;3
+Feldsee [tief.St.];Phosphor gesamt;mg/l;0;26;2020;0,014048;0,011795;0,016793;3
+Feldsee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,009333;0,008;0,011;3
+Feldsee [tief.St.];pH-Wert;;1;1;2020;8,233333;7,7;8,6;3
+Feldsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,763766;0,18359;1,401514;3
+Feldsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;26;2020;0,665112;0,191741;1,102273;3
+Feldsee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;3
+Feldsee [tief.St.];Sichttiefe;m;0;0;2020;4,266667;3,6;4,6;3
+Feldsee [tief.St.];Wassertemperatur;°C;0;0;2020;13,6;6,9;18,3;3
+Ferlacher Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;5,15;4,9;5,4;2
+Ferlacher Badesee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;377;375;379;2
+Ferlacher Badesee [tief.St.];Ammonium-Stickstoff;mg/l;5;5;2020;0,0895;0,085;0,094;2
+Ferlacher Badesee [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,397;0,343;0,451;2
+Ferlacher Badesee [tief.St.];Sauerstoffgehalt;mg/l;5;5;2020;4,75;4,5;5;2
+Ferlacher Badesee [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,01225;0,01;0,0145;2
+Ferlacher Badesee [tief.St.];pH-Wert;;1;1;2020;8,225;8,2;8,25;2
+Ferlacher Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;0;0;0;0
+Ferlacher Badesee [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,001;0,001;0,001;2
+Ferlacher Badesee [tief.St.];Sichttiefe;m;0;0;2020;3,2;2,7;3,7;2
+Ferlacher Badesee [tief.St.];Wassertemperatur;°C;0;0;2020;20,55;18,7;22,4;2
+Flatschacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;1;1;2020;21,4;21,4;21,4;1
+Flatschacher See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;230;228;232;2
+Flatschacher See [tief.St.];Ammonium-Stickstoff;mg/l;1;1;2020;0,0955;0,081;0,11;2
+Flatschacher See [tief.St.];Nitrat-Stickstoff;mg/l;1;1;2020;0,494;0,247;0,741;2
+Flatschacher See [tief.St.];Sauerstoffgehalt;mg/l;1;1;2020;5,65;5,5;5,8;2
+Flatschacher See [tief.St.];Phosphor gesamt;mg/l;1;1;2020;0,0471;0,047;0,0472;2
+Flatschacher See [tief.St.];pH-Wert;;1;1;2020;7,51;7,4;7,62;2
+Flatschacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;1;1;2020;0;0;0;0
+Flatschacher See [tief.St.];Phosphat-Phosphor;mg/l;1;1;2020;0,003;0,003;0,003;2
+Flatschacher See [tief.St.];Sichttiefe;m;0;0;2020;1,3;1,1;1,5;2
+Flatschacher See [tief.St.];Wassertemperatur;°C;0;0;2020;18,1;18;18,2;2
+Forstsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;30;2020;2,912784;2,777419;3,048148;2
+Forstsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;6,1;5,7;6,5;2
+Forstsee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;254,5;251;258;2
+Forstsee [tief.St.];Ammonium-Stickstoff;mg/l;30;30;2020;0,0475;0,002;0,093;2
+Forstsee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,567;0,367;0,767;2
+Forstsee [tief.St.];Sauerstoffgehalt;mg/l;30;30;2020;2,2;0,1;4,3;2
+Forstsee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,01125;0,0105;0,012;2
+Forstsee [tief.St.];Phosphor gesamt;mg/l;30;30;2020;0,019;0,012;0,026;2
+Forstsee [tief.St.];pH-Wert;;1;1;2020;8,6;8,5;8,7;2
+Forstsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+Forstsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;30;2020;0;0;0;0
+Forstsee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,002;0,001;0,003;2
+Forstsee [tief.St.];Sichttiefe;m;0;0;2020;3,85;3;4,7;2
+Forstsee [tief.St.];Wassertemperatur;°C;0;0;2020;19,65;18;21,3;2
+Goggausee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;17,166667;12,233333;23,1;3
+Goggausee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;170,333333;164;178;3
+Goggausee [tief.St.];Ammonium-Stickstoff;mg/l;8;8;2020;0,416333;0,233;0,551;3
+Goggausee [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,027917;0,003;0,07775;3
+Goggausee [tief.St.];Sauerstoffgehalt;mg/l;8;8;2020;1,85;0,1;3,6;2
+Goggausee [tief.St.];Phosphor gesamt;mg/l;0;3;2020;0,0268;0,0194;0,033;3
+Goggausee [tief.St.];Phosphor gesamt;mg/l;0;8;2020;0,036914;0,034765;0,038107;3
+Goggausee [tief.St.];Phosphor gesamt;mg/l;8;8;2020;0,0669;0,037;0,1027;3
+Goggausee [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,030017;0,0238;0,034;3
+Goggausee [tief.St.];pH-Wert;;1;1;2020;7,766667;7,5;8;3
+Goggausee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;1,599927;0,700255;2,740779;3
+Goggausee [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,00175;0,001;0,003;3
+Goggausee [tief.St.];Sichttiefe;m;0;0;2020;2,6;1,3;3,3;3
+Goggausee [tief.St.];Wassertemperatur;°C;0;0;2020;11,95;5,1;18,8;2
+Gösselsdorfer See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;1;1;2020;6,15;3,7;8,6;2
+Gösselsdorfer See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;344,5;333;356;2
+Gösselsdorfer See [tief.St.];Ammonium-Stickstoff;mg/l;1;1;2020;0,008;0,004;0,012;2
+Gösselsdorfer See [tief.St.];Nitrat-Stickstoff;mg/l;1;1;2020;0,003;0,003;0,003;2
+Gösselsdorfer See [tief.St.];Sauerstoffgehalt;mg/l;1;1;2020;8,05;6,9;9,2;2
+Gösselsdorfer See [tief.St.];Phosphor gesamt;mg/l;1;1;2020;0,01435;0,01;0,0187;2
+Gösselsdorfer See [tief.St.];pH-Wert;;1;1;2020;8,24;8,1;8,38;2
+Gösselsdorfer See [tief.St.];Phytoplankton Biovolumen;mm³/l;1;1;2020;0;0;0;0
+Gösselsdorfer See [tief.St.];Phosphat-Phosphor;mg/l;1;1;2020;0,001;0,001;0,001;2
+Gösselsdorfer See [tief.St.];Sichttiefe;m;0;0;2020;2,4;2,1;2,7;2
+Gösselsdorfer See [tief.St.];Wassertemperatur;°C;0;0;2020;20,45;17,4;23,5;2
+Greifenburger Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;4,95;3,5;6,4;2
+Greifenburger Badesee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;297;275;319;2
+Greifenburger Badesee [tief.St.];Ammonium-Stickstoff;mg/l;12;12;2020;0,781;0,185;1,377;2
+Greifenburger Badesee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,594;0,42;0,768;2
+Greifenburger Badesee [tief.St.];Sauerstoffgehalt;mg/l;12;12;2020;4,25;0,1;8,4;2
+Greifenburger Badesee [tief.St.];Phosphor gesamt;mg/l;12;12;2020;0,0386;0,0162;0,061;2
+Greifenburger Badesee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,01295;0,012;0,0139;2
+Greifenburger Badesee [tief.St.];pH-Wert;;1;1;2020;8,4;8,4;8,4;2
+Greifenburger Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+Greifenburger Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;12;2020;0;0;0;0
+Greifenburger Badesee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+Greifenburger Badesee [tief.St.];Sichttiefe;m;0;0;2020;4,1;4,1;4,1;2
+Greifenburger Badesee [tief.St.];Wassertemperatur;°C;0;0;2020;20,1;18,6;21,6;2
+Hafnersee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;12,3;9;15,6;2
+Hafnersee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;10;2020;11,22536;8,213678;14,237042;2
+Hafnersee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;390,5;385;396;2
+Hafnersee [tief.St.];Ammonium-Stickstoff;mg/l;10;10;2020;1,9635;0,647;3,28;2
+Hafnersee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,2785;0,106;0,451;2
+Hafnersee [tief.St.];Sauerstoffgehalt;mg/l;10;10;2020;0,2;0,1;0,3;2
+Hafnersee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,01875;0,0175;0,02;2
+Hafnersee [tief.St.];Phosphor gesamt;mg/l;0;10;2020;0,019879;0,018069;0,021689;2
+Hafnersee [tief.St.];Phosphor gesamt;mg/l;10;10;2020;0,04415;0,0303;0,058;2
+Hafnersee [tief.St.];pH-Wert;;1;1;2020;8,175;8,1;8,25;2
+Hafnersee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+Hafnersee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;10;2020;0;0;0;0
+Hafnersee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,0015;0,001;0,002;2
+Hafnersee [tief.St.];Sichttiefe;m;0;0;2020;2,85;2,6;3,1;2
+Hafnersee [tief.St.];Wassertemperatur;°C;0;0;2020;19,6;16;23,2;2
+Hörzendorfer See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;3;2020;39,55;37,2;41,9;2
+Hörzendorfer See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;492,5;471;514;2
+Hörzendorfer See [tief.St.];Ammonium-Stickstoff;mg/l;3;3;2020;0,23;0,031;0,429;2
+Hörzendorfer See [tief.St.];Nitrat-Stickstoff;mg/l;0;3;2020;1,349;0,71875;1,97925;2
+Hörzendorfer See [tief.St.];Sauerstoffgehalt;mg/l;3;3;2020;3,45;0,6;6,3;2
+Hörzendorfer See [tief.St.];Phosphor gesamt;mg/l;0;3;2020;0,065682;0,058863;0,0725;2
+Hörzendorfer See [tief.St.];pH-Wert;;1;1;2020;8,02;7,8;8,24;2
+Hörzendorfer See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;3;2020;3,834141;3,535534;4,132747;2
+Hörzendorfer See [tief.St.];Phosphat-Phosphor;mg/l;0;3;2020;0,0025;0,002375;0,002625;2
+Hörzendorfer See [tief.St.];Sichttiefe;m;0;0;2020;0,75;0,5;1;2
+Hörzendorfer See [tief.St.];Wassertemperatur;°C;0;0;2020;20,4;18,3;22,5;2
+Keutschacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;2,925;1,1;6;4
+Keutschacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;15;2020;4,480595;1,607692;5,623077;4
+Keutschacher See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;306,25;277;319;4
+Keutschacher See [tief.St.];Ammonium-Stickstoff;mg/l;15;15;2020;0,53775;0,249;1,01;4
+Keutschacher See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,169917;0,038286;0,253571;4
+Keutschacher See [tief.St.];Sauerstoffgehalt;mg/l;15;15;2020;2,475;0,1;6,3;4
+Keutschacher See [tief.St.];Phosphor gesamt;mg/l;15;15;2020;0,01895;0,009;0,031;4
+Keutschacher See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,011605;0,010405;0,01409;4
+Keutschacher See [tief.St.];Phosphor gesamt;mg/l;0;15;2020;0,013971;0,011649;0,015172;4
+Keutschacher See [tief.St.];pH-Wert;;1;1;2020;8,275;8;8,4;4
+Keutschacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,552018;0,387635;0,859844;4
+Keutschacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;15;2020;0,560934;0,341735;0,818841;4
+Keutschacher See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001328;0,001;0,00231;4
+Keutschacher See [tief.St.];Sichttiefe;m;0;0;2020;3,9;2,6;6;4
+Keutschacher See [tief.St.];Wassertemperatur;°C;0;0;2020;16,3;7,1;21,8;4
+Klopeiner See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;2,625;1,5;4;4
+Klopeiner See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;258,25;237;268;4
+Klopeiner See [tief.St.];Ammonium-Stickstoff;mg/l;30;30;2020;1,339;1,224;1,397;4
+Klopeiner See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,003;0,003;0,003;4
+Klopeiner See [tief.St.];Sauerstoffgehalt;mg/l;30;30;2020;0,1;0,1;0,1;4
+Klopeiner See [tief.St.];Phosphor gesamt;mg/l;30;30;2020;0,038325;0,024;0,0582;4
+Klopeiner See [tief.St.];Phosphor gesamt;mg/l;0;30;2020;0,016287;0,01188;0,022162;4
+Klopeiner See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,011235;0,009357;0,013298;4
+Klopeiner See [tief.St.];Phosphor gesamt;mg/l;0;20;2020;0,012302;0,00993;0,014623;4
+Klopeiner See [tief.St.];pH-Wert;;1;1;2020;8,3775;7,96;8,64;4
+Klopeiner See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;20;2020;0,633521;0,408806;0,891003;4
+Klopeiner See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,5017;0,430083;0,588465;4
+Klopeiner See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001523;0,001;0,002048;4
+Klopeiner See [tief.St.];Sichttiefe;m;0;0;2020;6,975;5;9,9;4
+Klopeiner See [tief.St.];Wassertemperatur;°C;0;0;2020;15,5;6,2;22,3;4
+Kraiger See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;9,8;7;12,6;2
+Kraiger See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;0;2020;9,8;7;12,6;2
+Kraiger See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;466,5;451;482;2
+Kraiger See [tief.St.];Ammonium-Stickstoff;mg/l;8;8;2020;0,111;0,097;0,125;2
+Kraiger See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,003;0,003;0,003;2
+Kraiger See [tief.St.];Sauerstoffgehalt;mg/l;8;8;2020;10,05;8,2;11,9;2
+Kraiger See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,01735;0,016;0,0187;2
+Kraiger See [tief.St.];Phosphor gesamt;mg/l;8;8;2020;0,0255;0,011;0,04;2
+Kraiger See [tief.St.];pH-Wert;;1;1;2020;8,325;8,25;8,4;2
+Kraiger See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+Kraiger See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,002;0,002;0,002;2
+Kraiger See [tief.St.];Sichttiefe;m;0;0;2020;3,6;3,5;3,7;2
+Kraiger See [tief.St.];Wassertemperatur;°C;0;0;2020;19,9;17,4;22,4;2
+Längsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;5,8;4,9;7,5;3
+Längsee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;15;2020;7,751285;4,381422;10,951633;3
+Längsee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;414;396;423;3
+Längsee [tief.St.];Ammonium-Stickstoff;mg/l;15;15;2020;1,590667;1,236;1,898;3
+Längsee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,112333;0,096;0,129;3
+Längsee [tief.St.];Sauerstoffgehalt;mg/l;15;15;2020;0,1;0,1;0,1;3
+Längsee [tief.St.];Phosphor gesamt;mg/l;15;15;2020;0,042067;0,0392;0,047;3
+Längsee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,013033;0,012;0,0141;3
+Längsee [tief.St.];Phosphor gesamt;mg/l;0;13;2020;0,018732;0,014005;0,022121;3
+Längsee [tief.St.];pH-Wert;;1;1;2020;8,266667;8,1;8,4;3
+Längsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;15;2020;0,740681;0,519988;1,110554;3
+Längsee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,687172;0,589841;0,806505;3
+Längsee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001667;0,001;0,003;3
+Längsee [tief.St.];Sichttiefe;m;0;0;2020;4,9;4,1;5,8;3
+Längsee [tief.St.];Wassertemperatur;°C;0;0;2020;16,933333;8;21,5;3
+Lavamünder Badeteich Südufer Steg;Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;2;2020;4,65;2,3;7;2
+Lavamünder Badeteich Südufer Steg;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;269,5;246;293;2
+Lavamünder Badeteich Südufer Steg;Ammonium-Stickstoff;mg/l;2;2;2020;0,0065;0,002;0,011;2
+Lavamünder Badeteich Südufer Steg;Nitrat-Stickstoff;mg/l;0;2;2020;0,003;0,003;0,003;2
+Lavamünder Badeteich Südufer Steg;Sauerstoffgehalt;mg/l;2;2;2020;8,4;8,1;8,7;2
+Lavamünder Badeteich Südufer Steg;Phosphor gesamt;mg/l;0;2;2020;0,01625;0,0155;0,017;2
+Lavamünder Badeteich Südufer Steg;Phosphor gesamt;mg/l;2;2;2020;0,01625;0,0155;0,017;2
+Lavamünder Badeteich Südufer Steg;pH-Wert;;1;1;2020;8,23;8,16;8,3;2
+Lavamünder Badeteich Südufer Steg;Phytoplankton Biovolumen;mm³/l;0;2;2020;0;0;0;0
+Lavamünder Badeteich Südufer Steg;Phosphat-Phosphor;mg/l;0;2;2020;0,001;0,001;0,001;2
+Lavamünder Badeteich Südufer Steg;Sichttiefe;m;0;0;2020;3,15;3;3,3;2
+Lavamünder Badeteich Südufer Steg;Wassertemperatur;°C;0;0;2020;19,55;17,9;21,2;2
+Leonharder See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;13,1;12,8;13,4;2
+Leonharder See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;364;354;374;2
+Leonharder See [tief.St.];Ammonium-Stickstoff;mg/l;6;6;2020;0,0584;0,0298;0,087;2
+Leonharder See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,197036;0,165;0,229071;2
+Leonharder See [tief.St.];Sauerstoffgehalt;mg/l;6;6;2020;6,65;6,1;7,2;2
+Leonharder See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,024965;0,023478;0,026451;2
+Leonharder See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,026868;0,024807;0,028929;2
+Leonharder See [tief.St.];Phosphor gesamt;mg/l;6;6;2020;0,0323;0,0286;0,036;2
+Leonharder See [tief.St.];pH-Wert;;1;1;2020;7,965;7,8;8,13;2
+Leonharder See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,797673;0,583553;1,011792;2
+Leonharder See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+Leonharder See [tief.St.];Sichttiefe;m;0;0;2020;2,95;2,8;3,1;2
+Leonharder See [tief.St.];Wassertemperatur;°C;0;0;2020;19,75;18,7;20,8;2
+Linsendorfer See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;2,05;1,4;2,7;2
+Linsendorfer See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;363,5;363;364;2
+Linsendorfer See [tief.St.];Ammonium-Stickstoff;mg/l;5;5;2020;0,021;0,017;0,025;2
+Linsendorfer See [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,571;0,48;0,662;2
+Linsendorfer See [tief.St.];Sauerstoffgehalt;mg/l;5;5;2020;7,2;4,5;9,9;2
+Linsendorfer See [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,0102;0,009;0,0114;2
+Linsendorfer See [tief.St.];pH-Wert;;1;1;2020;8,09;8;8,18;2
+Linsendorfer See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;0;0;0;0
+Linsendorfer See [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,001;0,001;0,001;2
+Linsendorfer See [tief.St.];Sichttiefe;m;0;0;2020;4,4;4,2;4,6;2
+Linsendorfer See [tief.St.];Wassertemperatur;°C;0;0;2020;17,4;16,2;18,6;2
+Magdalenensee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;4;2020;1,65;1,5;1,8;2
+Magdalenensee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;538;531;545;2
+Magdalenensee [tief.St.];Ammonium-Stickstoff;mg/l;4;4;2020;0,0659;0,056;0,0758;2
+Magdalenensee [tief.St.];Nitrat-Stickstoff;mg/l;0;4;2020;1,2522;1,1136;1,3908;2
+Magdalenensee [tief.St.];Sauerstoffgehalt;mg/l;4;4;2020;12,15;7,3;17;2
+Magdalenensee [tief.St.];Phosphor gesamt;mg/l;0;4;2020;0,00881;0,0076;0,01002;2
+Magdalenensee [tief.St.];pH-Wert;;1;1;2020;8,065;7,96;8,17;2
+Magdalenensee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;4;2020;0;0;0;0
+Magdalenensee [tief.St.];Phosphat-Phosphor;mg/l;0;4;2020;0,00112;0,001;0,00124;2
+Magdalenensee [tief.St.];Sichttiefe;m;0;0;2020;4,05;4;4,1;2
+Magdalenensee [tief.St.];Wassertemperatur;°C;0;0;2020;19,35;18,6;20,1;2
+Maltschacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;24;19,2;28,8;2
+Maltschacher See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;230,5;220;241;2
+Maltschacher See [tief.St.];Ammonium-Stickstoff;mg/l;5;5;2020;0,273;0,005;0,541;2
+Maltschacher See [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,088834;0,003;0,174667;2
+Maltschacher See [tief.St.];Sauerstoffgehalt;mg/l;5;5;2020;7,9;6,3;9,5;2
+Maltschacher See [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,039529;0,034833;0,044225;2
+Maltschacher See [tief.St.];Phosphor gesamt;mg/l;5;5;2020;0,0557;0,04;0,0714;2
+Maltschacher See [tief.St.];pH-Wert;;1;1;2020;8,225;7,75;8,7;2
+Maltschacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;1,512976;1,155854;1,870098;2
+Maltschacher See [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,001667;0,001333;0,002;2
+Maltschacher See [tief.St.];Sichttiefe;m;0;0;2020;1,9;1,2;2,6;2
+Maltschacher See [tief.St.];Wassertemperatur;°C;0;0;2020;19,85;17,7;22;2
+Millstätter See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;1,975;1,4;3,3;4
+Millstätter See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;30;2020;3,16068;1,237934;6,468538;8
+Millstätter See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;166,25;164;169;4
+Millstätter See [tief.St.];Ammonium-Stickstoff;mg/l;50;50;2020;0,002;0,002;0,002;4
+Millstätter See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,257792;0,198548;0,318738;4
+Millstätter See [tief.St.];Sauerstoffgehalt;mg/l;100;100;2020;3,25;2,1;3,8;4
+Millstätter See [tief.St.];Sauerstoffgehalt;mg/l;50;50;2020;6,225;5,2;6,9;4
+Millstätter See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,009017;0,008595;0,00969;4
+Millstätter See [tief.St.];Phosphor gesamt;mg/l;0;70;2020;0,007336;0,007058;0,007651;4
+Millstätter See [tief.St.];Phosphor gesamt;mg/l;50;50;2020;0,0057;0,005;0,0063;4
+Millstätter See [tief.St.];Phosphor gesamt;mg/l;100;100;2020;0,0058;0,0025;0,008;4
+Millstätter See [tief.St.];pH-Wert;;1;1;2020;8,2725;7,71;8,58;4
+Millstätter See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,390168;0,199471;0,509024;4
+Millstätter See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;30;2020;0,355759;0,129494;0,550704;4
+Millstätter See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001795;0,001;0,002179;4
+Millstätter See [tief.St.];Sichttiefe;m;0;0;2020;6,825;5,7;7,5;4
+Millstätter See [tief.St.];Wassertemperatur;°C;0;0;2020;15,175;6,4;21,5;4
+Moosburger Mühlteich [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;1;1;2020;25,05;13,2;36,9;2
+Moosburger Mühlteich [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;288,5;282;295;2
+Moosburger Mühlteich [tief.St.];Ammonium-Stickstoff;mg/l;1;1;2020;0,125;0,055;0,195;2
+Moosburger Mühlteich [tief.St.];Nitrat-Stickstoff;mg/l;1;1;2020;0,003;0,003;0,003;2
+Moosburger Mühlteich [tief.St.];Sauerstoffgehalt;mg/l;1;1;2020;5,75;3,6;7,9;2
+Moosburger Mühlteich [tief.St.];Phosphor gesamt;mg/l;1;1;2020;0,0573;0,0476;0,067;2
+Moosburger Mühlteich [tief.St.];pH-Wert;;1;1;2020;7,805;7,57;8,04;2
+Moosburger Mühlteich [tief.St.];Phytoplankton Biovolumen;mm³/l;1;1;2020;2,666727;2,323416;3,010037;2
+Moosburger Mühlteich [tief.St.];Phosphat-Phosphor;mg/l;1;1;2020;0,0025;0,002;0,003;2
+Moosburger Mühlteich [tief.St.];Sichttiefe;m;0;0;2020;1,5;0,8;2,2;2
+Moosburger Mühlteich [tief.St.];Wassertemperatur;°C;0;0;2020;20,25;18,6;21,9;2
+Ossiacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;30;2020;7,210877;4,410188;14,124969;4
+Ossiacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;11,075;7,9;18,2;4
+Ossiacher See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;236,2;220;250;5
+Ossiacher See [tief.St.];Ammonium-Stickstoff;mg/l;45;45;2020;0,0035;0,002;0,008;4
+Ossiacher See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,254524;0,01181;0,4295;4
+Ossiacher See [tief.St.];Sauerstoffgehalt;mg/l;45;45;2020;4,9;1,1;9,8;5
+Ossiacher See [tief.St.];Phosphor gesamt;mg/l;45;45;2020;0,01188;0,008;0,014;5
+Ossiacher See [tief.St.];Phosphor gesamt;mg/l;0;45;2020;0,013034;0,010854;0,014682;5
+Ossiacher See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,016344;0,010857;0,022545;5
+Ossiacher See [tief.St.];pH-Wert;;1;1;2020;8,5;7,9;8,8;5
+Ossiacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;1,098054;0,869971;1,408741;4
+Ossiacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;30;2020;0,7564;0,60216;0,952484;4
+Ossiacher See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001614;0,001;0,003;5
+Ossiacher See [tief.St.];Sichttiefe;m;0;0;2020;3,72;2,9;4,9;5
+Ossiacher See [tief.St.];Wassertemperatur;°C;0;0;2020;16,66;7,6;22,9;5
+Pirkdorfer See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;2;2020;14,95;6,2;23,7;2
+Pirkdorfer See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;288;288;288;2
+Pirkdorfer See [tief.St.];Ammonium-Stickstoff;mg/l;2;2;2020;0,015;0,006;0,024;2
+Pirkdorfer See [tief.St.];Nitrat-Stickstoff;mg/l;0;2;2020;0,003;0,003;0,003;2
+Pirkdorfer See [tief.St.];Sauerstoffgehalt;mg/l;2;2;2020;8,2;7,7;8,7;2
+Pirkdorfer See [tief.St.];Phosphor gesamt;mg/l;0;2;2020;0,0454;0,043;0,0478;2
+Pirkdorfer See [tief.St.];pH-Wert;;1;1;2020;8,345;8,3;8,39;2
+Pirkdorfer See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;2;2020;0;0;0;0
+Pirkdorfer See [tief.St.];Phosphat-Phosphor;mg/l;0;2;2020;0,0015;0,001;0,002;2
+Pirkdorfer See [tief.St.];Sichttiefe;m;0;0;2020;0,9;0,9;0,9;2
+Pirkdorfer See [tief.St.];Wassertemperatur;°C;0;0;2020;20,05;17,6;22,5;2
+Pischeldorfer Badeteich [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;1;1;2020;20,45;11,8;29,1;2
+Pischeldorfer Badeteich [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;602,5;575;630;2
+Pischeldorfer Badeteich [tief.St.];Ammonium-Stickstoff;mg/l;1;1;2020;0,0085;0,007;0,01;2
+Pischeldorfer Badeteich [tief.St.];Nitrat-Stickstoff;mg/l;1;1;2020;2,8695;2,498;3,241;2
+Pischeldorfer Badeteich [tief.St.];Sauerstoffgehalt;mg/l;1;1;2020;10,65;10,5;10,8;2
+Pischeldorfer Badeteich [tief.St.];Phosphor gesamt;mg/l;1;1;2020;0,0161;0,013;0,0192;2
+Pischeldorfer Badeteich [tief.St.];pH-Wert;;1;1;2020;7,885;7,87;7,9;2
+Pischeldorfer Badeteich [tief.St.];Phytoplankton Biovolumen;mm³/l;1;1;2020;0;0;0;0
+Pischeldorfer Badeteich [tief.St.];Phosphat-Phosphor;mg/l;1;1;2020;0,002;0,001;0,003;2
+Pischeldorfer Badeteich [tief.St.];Sichttiefe;m;0;0;2020;1,75;1,5;2;2
+Pischeldorfer Badeteich [tief.St.];Wassertemperatur;°C;0;0;2020;19,2;17,2;21,2;2
+Pressegger See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;3,366667;1,3;5,8;3
+Pressegger See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;397;370;420;3
+Pressegger See [tief.St.];Ammonium-Stickstoff;mg/l;12;12;2020;0,057;0,038;0,079;3
+Pressegger See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,414;0,327;0,522;3
+Pressegger See [tief.St.];Sauerstoffgehalt;mg/l;12;12;2020;5,1;2,2;10,2;3
+Pressegger See [tief.St.];Phosphor gesamt;mg/l;0;12;2020;0,011909;0,007998;0,015014;3
+Pressegger See [tief.St.];Phosphor gesamt;mg/l;12;12;2020;0,023467;0,012;0,034;3
+Pressegger See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,0119;0,008;0,015;3
+Pressegger See [tief.St.];pH-Wert;;1;1;2020;7,966667;7,9;8,1;3
+Pressegger See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;12;2020;0,353287;0,238656;0,561534;3
+Pressegger See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,353647;0,239084;0,562673;3
+Pressegger See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;3
+Pressegger See [tief.St.];Sichttiefe;m;0;0;2020;2,4;1,4;3,2;3
+Pressegger See [tief.St.];Wassertemperatur;°C;0;0;2020;13,433333;5,1;17,7;3
+Rauschelesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;12;2020;10,701795;7,848478;13,555111;2
+Rauschelesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;8,65;2;15,3;2
+Rauschelesee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;313,5;298;329;2
+Rauschelesee [tief.St.];Ammonium-Stickstoff;mg/l;12;12;2020;2,44625;1,5475;3,345;2
+Rauschelesee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,2775;0,215;0,34;2
+Rauschelesee [tief.St.];Sauerstoffgehalt;mg/l;12;12;2020;0,1;0,1;0,1;2
+Rauschelesee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,01765;0,0163;0,019;2
+Rauschelesee [tief.St.];Phosphor gesamt;mg/l;0;12;2020;0,023506;0,022584;0,024428;2
+Rauschelesee [tief.St.];Phosphor gesamt;mg/l;12;12;2020;0,179;0,052;0,306;2
+Rauschelesee [tief.St.];pH-Wert;;1;1;2020;7,95;7,5;8,4;2
+Rauschelesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;12;2020;0,72676;0,275383;1,178137;2
+Rauschelesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,706233;0,082672;1,329793;2
+Rauschelesee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+Rauschelesee [tief.St.];Sichttiefe;m;0;0;2020;4,9;2,3;7,5;2
+Rauschelesee [tief.St.];Wassertemperatur;°C;0;0;2020;21;20,5;21,5;2
+Saisser See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;0;0;0;0
+Saisser See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;0;0;0;0
+Saisser See [tief.St.];Ammonium-Stickstoff;mg/l;5;5;2020;0;0;0;0
+Saisser See [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0;0;0;0
+Saisser See [tief.St.];Sauerstoffgehalt;mg/l;5;5;2020;0;0;0;0
+Saisser See [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0;0;0;0
+Saisser See [tief.St.];pH-Wert;;1;1;2020;0;0;0;0
+Saisser See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;0;0;0;0
+Saisser See [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0;0;0;0
+Saisser See [tief.St.];Sichttiefe;m;0;0;2020;0;0;0;0
+Saisser See [tief.St.];Wassertemperatur;°C;0;0;2020;0;0;0;0
+Silbersee Villach [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;4,95;1,9;8;2
+Silbersee Villach [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;267,5;253;282;2
+Silbersee Villach [tief.St.];Ammonium-Stickstoff;mg/l;5;5;2020;0,0255;0,025;0,026;2
+Silbersee Villach [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,057375;0,003;0,11175;2
+Silbersee Villach [tief.St.];Sauerstoffgehalt;mg/l;5;5;2020;9,1;8,5;9,7;2
+Silbersee Villach [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,013488;0,012725;0,01425;2
+Silbersee Villach [tief.St.];pH-Wert;;1;1;2020;8,59;8,58;8,6;2
+Silbersee Villach [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;0;0;0;0
+Silbersee Villach [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,001;0,001;0,001;2
+Silbersee Villach [tief.St.];Sichttiefe;m;0;0;2020;4;2,6;5,4;2
+Silbersee Villach [tief.St.];Wassertemperatur;°C;0;0;2020;21,1;19,8;22,4;2
+Sonnegger See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;1;1;2020;13,65;12,3;15;2
+Sonnegger See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;392,5;367;418;2
+Sonnegger See [tief.St.];Ammonium-Stickstoff;mg/l;1;1;2020;0,013;0,008;0,018;2
+Sonnegger See [tief.St.];Nitrat-Stickstoff;mg/l;1;1;2020;0,764;0,55;0,978;2
+Sonnegger See [tief.St.];Sauerstoffgehalt;mg/l;1;1;2020;11,25;10,9;11,6;2
+Sonnegger See [tief.St.];Phosphor gesamt;mg/l;1;1;2020;0,01915;0,018;0,0203;2
+Sonnegger See [tief.St.];pH-Wert;;1;1;2020;8,25;8,1;8,4;2
+Sonnegger See [tief.St.];Phytoplankton Biovolumen;mm³/l;1;1;2020;0;0;0;0
+Sonnegger See [tief.St.];Phosphat-Phosphor;mg/l;1;1;2020;0,0015;0,001;0,002;2
+Sonnegger See [tief.St.];Sichttiefe;m;0;0;2020;1,7;1,5;1,9;2
+Sonnegger See [tief.St.];Wassertemperatur;°C;0;0;2020;18,65;16,7;20,6;2
+St. Andräer Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;2;2020;27,4;14,4;40,4;2
+St. Andräer Badesee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;452;436;468;2
+St. Andräer Badesee [tief.St.];Ammonium-Stickstoff;mg/l;2;2;2020;0,0295;0,006;0,053;2
+St. Andräer Badesee [tief.St.];Nitrat-Stickstoff;mg/l;0;2;2020;2,7445;1,519;3,97;2
+St. Andräer Badesee [tief.St.];Sauerstoffgehalt;mg/l;2;2;2020;10,35;10,3;10,4;2
+St. Andräer Badesee [tief.St.];Phosphor gesamt;mg/l;0;2;2020;0,02725;0,0235;0,031;2
+St. Andräer Badesee [tief.St.];pH-Wert;;1;1;2020;8,015;7,93;8,1;2
+St. Andräer Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;2;2020;0;0;0;0
+St. Andräer Badesee [tief.St.];Phosphat-Phosphor;mg/l;0;2;2020;0,003;0,003;0,003;2
+St. Andräer Badesee [tief.St.];Sichttiefe;m;0;0;2020;1,3;1,1;1,5;2
+St. Andräer Badesee [tief.St.];Wassertemperatur;°C;0;0;2020;20,8;18,9;22,7;2
+St. Johanner Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;2,2;1;3,4;2
+St. Johanner Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;9;2020;2,2;1;3,4;2
+St. Johanner Badesee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;434,5;426;443;2
+St. Johanner Badesee [tief.St.];Ammonium-Stickstoff;mg/l;9;9;2020;0,033;0,031;0,035;2
+St. Johanner Badesee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;1,2995;1,106;1,493;2
+St. Johanner Badesee [tief.St.];Sauerstoffgehalt;mg/l;9;9;2020;10,9;8,3;13,5;2
+St. Johanner Badesee [tief.St.];Phosphor gesamt;mg/l;9;9;2020;0,01335;0,0127;0,014;2
+St. Johanner Badesee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,00835;0,008;0,0087;2
+St. Johanner Badesee [tief.St.];pH-Wert;;1;1;2020;8,025;8;8,05;2
+St. Johanner Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;9;2020;0;0;0;0
+St. Johanner Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+St. Johanner Badesee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+St. Johanner Badesee [tief.St.];Sichttiefe;m;0;0;2020;5,05;3,1;7;2
+St. Johanner Badesee [tief.St.];Wassertemperatur;°C;0;0;2020;20,5;17,2;23,8;2
+St. Urban See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;1;1;2020;22,8;21;24,6;2
+St. Urban See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;282;271;293;2
+St. Urban See [tief.St.];Ammonium-Stickstoff;mg/l;1;1;2020;0,006;0,002;0,01;2
+St. Urban See [tief.St.];Nitrat-Stickstoff;mg/l;1;1;2020;0,003;0,003;0,003;2
+St. Urban See [tief.St.];Sauerstoffgehalt;mg/l;1;1;2020;7,6;7,3;7,9;2
+St. Urban See [tief.St.];Phosphor gesamt;mg/l;1;1;2020;0,0411;0,038;0,0442;2
+St. Urban See [tief.St.];pH-Wert;;1;1;2020;8,035;7,87;8,2;2
+St. Urban See [tief.St.];Phytoplankton Biovolumen;mm³/l;1;1;2020;0;0;0;0
+St. Urban See [tief.St.];Phosphat-Phosphor;mg/l;1;1;2020;0,002;0,001;0,003;2
+St. Urban See [tief.St.];Sichttiefe;m;0;0;2020;1,3;1,1;1,5;2
+St. Urban See [tief.St.];Wassertemperatur;°C;0;0;2020;19,5;17,7;21,3;2
+Trattnigteich [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;3;2020;30,35;27,7;33;2
+Trattnigteich [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;110;106;114;2
+Trattnigteich [tief.St.];Ammonium-Stickstoff;mg/l;3;3;2020;0,07245;0,0589;0,086;2
+Trattnigteich [tief.St.];Nitrat-Stickstoff;mg/l;0;3;2020;0,043313;0,003;0,083625;2
+Trattnigteich [tief.St.];Sauerstoffgehalt;mg/l;3;3;2020;5,5;4,8;6,2;2
+Trattnigteich [tief.St.];Phosphor gesamt;mg/l;3;3;2020;0,0447;0,04;0,0494;2
+Trattnigteich [tief.St.];Phosphor gesamt;mg/l;0;3;2020;0,034919;0,026875;0,042963;2
+Trattnigteich [tief.St.];pH-Wert;;1;1;2020;7,9;7,6;8,2;2
+Trattnigteich [tief.St.];Phytoplankton Biovolumen;mm³/l;0;3;2020;1,293449;1,286598;1,3003;2
+Trattnigteich [tief.St.];Phosphat-Phosphor;mg/l;0;3;2020;0,001;0,001;0,001;2
+Trattnigteich [tief.St.];Sichttiefe;m;0;0;2020;1,45;1,1;1,8;2
+Trattnigteich [tief.St.];Wassertemperatur;°C;0;0;2020;20;16,9;23,1;2
+Turnersee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;6,2;6,1;6,3;2
+Turnersee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;12;2020;0,792426;0,779645;0,805207;4
+Turnersee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;350,5;327;374;2
+Turnersee [tief.St.];Ammonium-Stickstoff;mg/l;12;12;2020;1,5605;0,949;2,172;2
+Turnersee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,7795;0,661;0,898;2
+Turnersee [tief.St.];Sauerstoffgehalt;mg/l;12;12;2020;0,25;0,1;0,4;2
+Turnersee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,0128;0,009;0,0166;2
+Turnersee [tief.St.];Phosphor gesamt;mg/l;0;12;2020;0,016318;0,013791;0,018845;2
+Turnersee [tief.St.];Phosphor gesamt;mg/l;12;12;2020;0,0392;0,0284;0,05;2
+Turnersee [tief.St.];pH-Wert;;1;1;2020;8,335;8,27;8,4;2
+Turnersee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;12;2020;0;0;0;0
+Turnersee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0;0;0;0
+Turnersee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+Turnersee [tief.St.];Sichttiefe;m;0;0;2020;3,25;2,9;3,6;2
+Turnersee [tief.St.];Wassertemperatur;°C;0;0;2020;20,3;18,4;22,2;2
+Turracher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;11,1;2,6;19,6;2
+Turracher See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;137;134;140;2
+Turracher See [tief.St.];Ammonium-Stickstoff;mg/l;30;30;2020;0,0697;0,069;0,0704;2
+Turracher See [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,1875;0,161;0,214;2
+Turracher See [tief.St.];Sauerstoffgehalt;mg/l;30;30;2020;1,65;0,1;3,2;2
+Turracher See [tief.St.];Phosphor gesamt;mg/l;0;30;2020;0;0;0;0
+Turracher See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,0103;0,007;0,0136;2
+Turracher See [tief.St.];Phosphor gesamt;mg/l;30;30;2020;0,01395;0,0109;0,017;2
+Turracher See [tief.St.];pH-Wert;;1;1;2020;8,2;8,1;8,3;2
+Turracher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,515626;0,1396;0,891652;2
+Turracher See [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,0015;0,001;0,002;2
+Turracher See [tief.St.];Sichttiefe;m;0;0;2020;4,2;2,2;6,2;2
+Turracher See [tief.St.];Wassertemperatur;°C;0;0;2020;12,8;9;16,6;2
+Vassacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;10;2020;14,552903;9,597528;19,508278;2
+Vassacher See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;15,25;10,4;20,1;2
+Vassacher See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;269,5;259;280;2
+Vassacher See [tief.St.];Ammonium-Stickstoff;mg/l;10;10;2020;0,4235;0,399;0,448;2
+Vassacher See [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,0775;0,003;0,152;2
+Vassacher See [tief.St.];Sauerstoffgehalt;mg/l;10;10;2020;0,1;0,1;0,1;2
+Vassacher See [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,02235;0,015;0,0297;2
+Vassacher See [tief.St.];Phosphor gesamt;mg/l;10;10;2020;0,03385;0,033;0,0347;2
+Vassacher See [tief.St.];Phosphor gesamt;mg/l;0;10;2020;0,023105;0,01682;0,02939;2
+Vassacher See [tief.St.];pH-Wert;;1;1;2020;8,555;8,4;8,71;2
+Vassacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;0,89953;0,637305;1,161754;2
+Vassacher See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;10;2020;0,855802;0,585647;1,125956;2
+Vassacher See [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,001;0,001;0,001;2
+Vassacher See [tief.St.];Sichttiefe;m;0;0;2020;2,5;2,2;2,8;2
+Vassacher See [tief.St.];Wassertemperatur;°C;0;0;2020;20,55;18,8;22,3;2
+Weißensee (tief.St.);Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;1,1;1;1,4;4
+Weißensee (tief.St.);Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;30;2020;1,56583;1,108619;2,440887;4
+Weißensee (tief.St.);Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;310,5;290;327;4
+Weißensee (tief.St.);Ammonium-Stickstoff;mg/l;80;80;2020;0,085375;0,0634;0,111;4
+Weißensee (tief.St.);Ammonium-Stickstoff;mg/l;50;50;2020;0,002;0,002;0,002;4
+Weißensee (tief.St.);Nitrat-Stickstoff;mg/l;0;6;2020;0,106137;0,077357;0,138833;4
+Weißensee (tief.St.);Sauerstoffgehalt;mg/l;50;50;2020;1,475;0,8;2,1;4
+Weißensee (tief.St.);Phosphor gesamt;mg/l;50;50;2020;0,005925;0,0025;0,008;4
+Weißensee (tief.St.);Phosphor gesamt;mg/l;0;6;2020;0,005797;0,003667;0,007;4
+Weißensee (tief.St.);Phosphor gesamt;mg/l;0;80;2020;0,006913;0,004574;0,008132;4
+Weißensee (tief.St.);Phosphor gesamt;mg/l;94;94;2020;0,01985;0,0169;0,024;4
+Weißensee (tief.St.);pH-Wert;;1;1;2020;8,35;8,2;8,5;4
+Weißensee (tief.St.);Phytoplankton Biovolumen;mm³/l;0;6;2020;0,311954;0,174825;0,551166;4
+Weißensee (tief.St.);Phytoplankton Biovolumen;mm³/l;0;30;2020;0,296277;0,198115;0,52529;4
+Weißensee (tief.St.);Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;4
+Weißensee (tief.St.);Sichttiefe;m;0;0;2020;9,95;7,3;13,5;4
+Weißensee (tief.St.);Wassertemperatur;°C;0;0;2020;13,775;8,1;19,7;4
+Wernberger Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;5,85;3,4;8,3;2
+Wernberger Badesee [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;10;2020;6,195455;3,4;8,990909;2
+Wernberger Badesee [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;379,5;364;395;2
+Wernberger Badesee [tief.St.];Ammonium-Stickstoff;mg/l;10;10;2020;1,31;1,17;1,45;2
+Wernberger Badesee [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,2005;0,152;0,249;2
+Wernberger Badesee [tief.St.];Sauerstoffgehalt;mg/l;10;10;2020;0,1;0,1;0,1;2
+Wernberger Badesee [tief.St.];Phosphor gesamt;mg/l;10;10;2020;0,0183;0,0166;0,02;2
+Wernberger Badesee [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,00745;0,007;0,0079;2
+Wernberger Badesee [tief.St.];pH-Wert;;1;1;2020;8,05;8;8,1;2
+Wernberger Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;1,47593;1,47593;1,47593;1
+Wernberger Badesee [tief.St.];Phytoplankton Biovolumen;mm³/l;0;10;2020;0,986652;0,986652;0,986652;1
+Wernberger Badesee [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,001;0,001;0,001;2
+Wernberger Badesee [tief.St.];Sichttiefe;m;0;0;2020;4,3;3,6;5;2
+Wernberger Badesee [tief.St.];Wassertemperatur;°C;0;0;2020;19,8;18;21,6;2
+Wörthersee Saag [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;30;2020;7,976142;3,500223;10,557399;4
+Wörthersee Saag [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;6;2020;4,375;2,1;10,6;4
+Wörthersee Saag [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;309,25;289;323;4
+Wörthersee Saag [tief.St.];Ammonium-Stickstoff;mg/l;50;50;2020;0,203175;0,1457;0,297;4
+Wörthersee Saag [tief.St.];Ammonium-Stickstoff;mg/l;70;70;2020;0,539;0,467;0,687;4
+Wörthersee Saag [tief.St.];Nitrat-Stickstoff;mg/l;0;6;2020;0,068012;0,003;0,176262;4
+Wörthersee Saag [tief.St.];Sauerstoffgehalt;mg/l;50;50;2020;0,1;0,1;0,1;4
+Wörthersee Saag [tief.St.];Sauerstoffgehalt;mg/l;70;70;2020;0,1;0,1;0,1;4
+Wörthersee Saag [tief.St.];Phosphor gesamt;mg/l;70;70;2020;0,08215;0,0679;0,095;4
+Wörthersee Saag [tief.St.];Phosphor gesamt;mg/l;0;50;2020;0,01532;0,011247;0,019835;4
+Wörthersee Saag [tief.St.];Phosphor gesamt;mg/l;50;50;2020;0,03615;0,028;0,042;4
+Wörthersee Saag [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,012114;0,007667;0,015295;4
+Wörthersee Saag [tief.St.];pH-Wert;;1;1;2020;8,255;7,86;8,5;4
+Wörthersee Saag [tief.St.];Phytoplankton Biovolumen;mm³/l;0;6;2020;0,75862;0,317326;1,594437;4
+Wörthersee Saag [tief.St.];Phytoplankton Biovolumen;mm³/l;0;30;2020;1,383552;0,618367;1,980587;4
+Wörthersee Saag [tief.St.];Phosphat-Phosphor;mg/l;0;6;2020;0,00125;0,001;0,002;4
+Wörthersee Saag [tief.St.];Sichttiefe;m;0;0;2020;3,95;1,8;5,5;4
+Wörthersee Saag [tief.St.];Wassertemperatur;°C;0;0;2020;15,075;6,1;21,4;4
+Zmulner See [tief.St.];Chlorophyll a integr. Gesamtp. Sonde - Feldwert;µg/l;0;5;2020;5,5;5,5;5,5;1
+Zmulner See [tief.St.];Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2020;488,5;484;493;2
+Zmulner See [tief.St.];Ammonium-Stickstoff;mg/l;5;5;2020;0,7485;0,649;0,848;2
+Zmulner See [tief.St.];Nitrat-Stickstoff;mg/l;0;5;2020;0,534875;0,30325;0,7665;2
+Zmulner See [tief.St.];Sauerstoffgehalt;mg/l;5;5;2020;5,15;0,1;10,2;2
+Zmulner See [tief.St.];Phosphor gesamt;mg/l;0;5;2020;0,023675;0,02325;0,0241;2
+Zmulner See [tief.St.];Phosphor gesamt;mg/l;5;5;2020;0,0452;0,0424;0,048;2
+Zmulner See [tief.St.];Phosphor gesamt;mg/l;0;6;2020;0,020883;0,020039;0,021726;2
+Zmulner See [tief.St.];Phosphor gesamt;mg/l;0;3;2020;0,0165;0,015;0,018;2
+Zmulner See [tief.St.];pH-Wert;;1;1;2020;8,01;7,82;8,2;2
+Zmulner See [tief.St.];Phytoplankton Biovolumen;mm³/l;0;5;2020;0;0;0;0
+Zmulner See [tief.St.];Phosphat-Phosphor;mg/l;0;5;2020;0,00225;0,00225;0,00225;2
+Zmulner See [tief.St.];Sichttiefe;m;0;0;2020;3,1;2,6;3,6;2
+Zmulner See [tief.St.];Wassertemperatur;°C;0;0;2020;19,5;17,4;21,6;2
