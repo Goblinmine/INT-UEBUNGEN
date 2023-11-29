@@ -1,0 +1,516 @@
+MESSSTELLE;PARAMETER;PARAMETERBEZEICHNUNG;DIM;T.von;T.bis;JAHR;MIN;MAX;AVG;ANZ
+Afritzer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4,1;6,2;5,05;4
+Afritzer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;9,1;18,3;13,05;4
+Afritzer See [tief.St.];pH;pH-Wert;;1;1;2011;7,6;8,6;8,15;4
+Afritzer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;170;173;171,5;4
+Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,007308;0,014;0,010996;4
+Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;20;20;2011;0,0115;0,1148;0,058575;4
+Afritzer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;22;2011;0,009691;0,030271;0,019435;4
+Afritzer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,002167;0,001499;4
+Afritzer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,011793;0,189896;0,087457;4
+Afritzer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;20;20;2011;0,0625;0,741;0,3826;4
+Afritzer See [tief.St.];O2;Sauerstoffgehalt;mg/l;20;20;2011;0,2;5,2;2,15;4
+Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,570593;1,248189;0,941615;3
+Afritzer See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;20;2011;0,79758;1,742418;1,118387;3
+Afritzer See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;4,083333;6;4,78125;4
+Aichwaldsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4;4,3;4,15;2
+Aichwaldsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;18,6;20,2;19,4;2
+Aichwaldsee [tief.St.];pH;pH-Wert;;1;1;2011;7,9;8,1;8;2
+Aichwaldsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;404;422;413;2
+Aichwaldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,007433;0,008125;0,007779;2
+Aichwaldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;7;2011;0,007681;0,008077;0,007879;2
+Aichwaldsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001289;0,001705;0,001497;2
+Aichwaldsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,129333;0,178986;0,15416;2
+Aichwaldsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;7;7;2011;0,022667;0,1061;0,064384;2
+Aichwaldsee [tief.St.];O2;Sauerstoffgehalt;mg/l;7;7;2011;5,5;8,366667;6,933334;2
+Badesee Kirschentheuer [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;2,5;3,1;2,8;2
+Badesee Kirschentheuer [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;22,1;23,7;22,9;2
+Badesee Kirschentheuer [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,3;8,3;2
+Badesee Kirschentheuer [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;343;372;357,5;2
+Badesee Kirschentheuer [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,011992;0,012975;0,012484;2
+Badesee Kirschentheuer [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2011;0,0149;0,024;0,01945;2
+Badesee Kirschentheuer [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;2
+Badesee Kirschentheuer [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2011;0,137896;0,4591;0,298498;2
+Badesee Kirschentheuer [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2011;0,0569;0,1011;0,079;2
+Badesee Kirschentheuer [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2011;7,1;9,7;8,4;2
+Faaker See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,7;5,2;4,566667;3
+Faaker See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;6;23;15,1;3
+Faaker See [tief.St.];pH;pH-Wert;;1;1;2011;7,9;8,3;8,1;3
+Faaker See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;335;377;358,333333;3
+Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,00279;0,00406;0,003406;3
+Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;29;29;2011;0,0083;0,0125;0,010433;3
+Faaker See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;29;2011;0,003608;0,006094;0,004593;3
+Faaker See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001684;0,001263;3
+Faaker See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,17408;0,274064;0,228684;3
+Faaker See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;29;29;2011;0,0091;0,1957;0,0732;3
+Faaker See [tief.St.];O2;Sauerstoffgehalt;mg/l;29;29;2011;0,2;4,9;1,866667;3
+Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,215641;2,45242;1,033072;3
+Faaker See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;29;2011;0,155374;1,04771;0,515336;3
+Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;0,732813;2;1,244271;3
+Faaker See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;29;2011;0,879924;1,870066;1,235379;3
+Feldsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3;4,2;3,675;4
+Feldsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;8,8;18;12,85;4
+Feldsee [tief.St.];pH;pH-Wert;;1;1;2011;7,6;8,8;8,125;4
+Feldsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;116;120;118;4
+Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,00845;0,013525;0,011356;4
+Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;26;26;2011;0,0078;0,0334;0,017975;4
+Feldsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;26;2011;0,010768;0,015713;0,013492;4
+Feldsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;4
+Feldsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,019167;0,185539;0,091927;4
+Feldsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;26;26;2011;0,0252;0,1371;0,08385;4
+Feldsee [tief.St.];O2;Sauerstoffgehalt;mg/l;26;26;2011;0,2;2,8;1,15;4
+Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,732437;1,03236;0,865245;4
+Feldsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;26;2011;0,908487;2,162119;1,442385;4
+Feldsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;4,416667;9;6,875;4
+Ferlacher Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4,1;4,2;4,15;2
+Ferlacher Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20;20,8;20,4;2
+Ferlacher Badesee [tief.St.];pH;pH-Wert;;1;1;2011;8,2;8,2;8,2;2
+Ferlacher Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;300;308;304;2
+Ferlacher Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,008229;0,009692;0,008961;2
+Ferlacher Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001468;0,00126;2
+Ferlacher Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,2018;0,237132;0,219466;2
+Ferlacher Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2011;0,0668;0,0684;0,0676;2
+Ferlacher Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2011;4,7;5,8;5,25;2
+Flatschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,2;2,15;1,495;10
+Flatschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;7,5;22,5;19,35;10
+Flatschacher See [tief.St.];pH;pH-Wert;;1;1;2011;7,6;8,1;7,871467;15
+Flatschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;182,4;239;217,08;15
+Flatschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0212;0,0721;0,033093;15
+Flatschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,0031;0,001831;15
+Flatschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;0,044;1,36733;0,415239;15
+Flatschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0056;0,0563;0,028847;15
+Flatschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;6,5;11;8,98;10
+Flatschacher See Vorteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;0,8;1,5;1,082;10
+Flatschacher See Vorteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;7,1;19,6;16,62;10
+Flatschacher See Vorteich [tief.St.];pH;pH-Wert;;1;1;2011;7,4;8,1;7,690667;15
+Flatschacher See Vorteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;229;274;248,073333;15
+Flatschacher See Vorteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0273;0,1346;0,056527;15
+Flatschacher See Vorteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,0199;0,004204;15
+Flatschacher See Vorteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;0,53768;2,05477;1,154299;15
+Flatschacher See Vorteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0086;0,1656;0,039313;15
+Flatschacher See Vorteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;5,2;11,7;7,72;10
+Forstsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4,7;6,3;5,5;2
+Forstsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,7;21,9;21,3;2
+Forstsee [tief.St.];pH;pH-Wert;;1;1;2011;8,6;8,8;8,7;2
+Forstsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;239;249;244;2
+Forstsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,008158;0,008167;0,008163;2
+Forstsee [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2011;0,0222;0,0283;0,02525;2
+Forstsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,002375;0,001714;2
+Forstsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,20663;0,55421;0,38042;2
+Forstsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2011;0,58;0,623;0,6015;2
+Forstsee [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2011;0,2;0,3;0,25;2
+Goggausee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,2;2,1;1,733333;3
+Goggausee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;4,8;18,1;9,566667;3
+Goggausee [tief.St.];pH;pH-Wert;;1;1;2011;6,8;8,3;7,733333;3
+Goggausee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;144;172;159;3
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,013892;0,03615;0,025867;3
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;8;8;2011;0,0297;0,0443;0,0367;3
+Goggausee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;8;2011;0,018942;0,036224;0,027737;3
+Goggausee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,003783;0,002553;3
+Goggausee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00308;0,061898;0,029854;3
+Goggausee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;8;8;2011;0,2541;1,0675;0,627533;3
+Goggausee [tief.St.];O2;Sauerstoffgehalt;mg/l;8;8;2011;0,2;2,2;0,866667;3
+Goggausee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;1,074382;9,281913;3,994787;3
+Goggausee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;9,583333;57;33,291667;2
+Gösselsdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,5;1,5;1,5;1
+Gösselsdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;21,8;22,8;22,3;2
+Gösselsdorfer See [tief.St.];pH;pH-Wert;;1;1;2011;8,1;8,3;8,2;2
+Gösselsdorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;298;313;305,5;2
+Gösselsdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0097;0,0137;0,0117;2
+Gösselsdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,001052;0,001052;2
+Gösselsdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;0,00308;0,00308;0,00308;2
+Gösselsdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0083;0,0108;0,00955;2
+Gösselsdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;7,9;9,3;8,6;2
+Greifenburger Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;5;7,3;6,15;2
+Greifenburger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;21;24,1;22,55;2
+Greifenburger Badesee [tief.St.];pH;pH-Wert;;1;1;2011;8,4;8,6;8,5;2
+Greifenburger Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;289;310;299,5;2
+Greifenburger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,0097;0,012358;0,011029;2
+Greifenburger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2011;0,0137;0,048;0,03085;2
+Greifenburger Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,004842;0,002947;2
+Greifenburger Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,634285;0,968058;0,801172;2
+Greifenburger Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2011;0,0575;0,679;0,36825;2
+Greifenburger Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2011;0,2;4,2;2,2;2
+Hafnersee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;2,8;3,1;2,95;2
+Hafnersee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;17,9;20,5;19,2;2
+Hafnersee [tief.St.];pH;pH-Wert;;1;1;2011;8;8,2;8,1;2
+Hafnersee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;368;374;371;2
+Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,017817;0,019825;0,018821;2
+Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2011;0,0572;0,1058;0,0815;2
+Hafnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2011;0,020063;0,023258;0,021661;2
+Hafnersee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001313;0,002283;0,001798;2
+Hafnersee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,145648;0,359918;0,252783;2
+Hafnersee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2011;0,659;4,15;2,4045;2
+Hafnersee [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2011;0,2;0,2;0,2;2
+Hörzendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1;1,3;1,15;2
+Hörzendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,6;22,9;21,75;2
+Hörzendorfer See [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,3;8,3;2
+Hörzendorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;437;457;447;2
+Hörzendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2011;0,037525;0,039288;0,038407;2
+Hörzendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2011;0,001052;0,001052;0,001052;2
+Hörzendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2011;1,184886;1,768808;1,476847;2
+Hörzendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2011;0,0842;0,2306;0,1574;2
+Hörzendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2011;2,2;2,6;2,4;2
+Keutschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,9;6,8;3,9;4
+Keutschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;5,8;23,8;13,925;4
+Keutschacher See [tief.St.];pH;pH-Wert;;1;1;2011;7,1;8,5;7,9;4
+Keutschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;297;324;311,75;4
+Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,007217;0,008317;0,007934;4
+Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2011;0,0086;0,0265;0,0172;4
+Keutschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;15;2011;0,008;0,009356;0,008575;4
+Keutschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,002114;0,001726;4
+Keutschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,10025;0,251542;0,182549;4
+Keutschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2011;0,2088;0,432;0,2981;4
+Keutschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2011;0,2;7;3,3;4
+Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,208173;1,344107;0,583817;4
+Keutschacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;15;2011;0,258735;1,204369;0,567086;4
+Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;1;3,833333;2,510417;4
+Keutschacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;15;2011;1;4,851242;2,828513;4
+Klopeiner See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,9;9,1;6,1;4
+Klopeiner See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;5,8;24,3;12,133333;6
+Klopeiner See [tief.St.];pH;pH-Wert;;1;1;2011;7,8;8,6;8,1;6
+Klopeiner See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;228;252;240,333333;6
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,006675;0,009125;0,007983;4
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2011;0,0226;0,0429;0,030975;4
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2011;0,011875;0,015566;0,013682;4
+Klopeiner See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000104;0,001052;0,000578;4
+Klopeiner See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00308;0,071667;0,022832;4
+Klopeiner See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2011;0,76;1,381;1,0185;4
+Klopeiner See [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2011;0,1;0,2;0,183333;6
+Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,335825;0,671664;0,492195;4
+Klopeiner See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;20;2011;0,371975;0,540413;0,425413;4
+Klopeiner See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;2;4,208333;2,65625;4
+Klopeiner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;20;2011;0,00879;0,013373;0,010518;4
+Kraiger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,8;2,9;2,35;2
+Kraiger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;17;22,8;19,9;2
+Kraiger See [tief.St.];pH;pH-Wert;;1;1;2011;8,2;8,3;8,25;2
+Kraiger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;474;502;488;2
+Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,007267;0,01235;0,009809;2
+Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;8;8;2011;0,0134;0,0286;0,021;2
+Kraiger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000104;0,001052;0,000578;2
+Kraiger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,005478;0,006163;0,005821;2
+Kraiger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;8;8;2011;0,0428;1,645;0,8439;2
+Kraiger See [tief.St.];O2;Sauerstoffgehalt;mg/l;8;8;2011;0,2;7,9;4,05;2
+Kraiger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2011;0,008302;0,012167;0,010235;2
+Längsee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,5;5,7;4,375;4
+Längsee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;8;20,9;14,3;4
+Längsee [tief.St.];pH;pH-Wert;;1;1;2011;7,7;8,7;8,325;4
+Längsee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;372;407;387,25;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,005858;0,012183;0,009058;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;15;15;2011;0,0142;0,0441;0,03095;4
+Längsee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;13;2011;0,013284;0,014644;0,013888;4
+Längsee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;4
+Längsee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,04525;0,139217;0,097013;4
+Längsee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;15;15;2011;0,676;2,57;2,03775;4
+Längsee [tief.St.];O2;Sauerstoffgehalt;mg/l;15;15;2011;0,2;0,7;0,325;4
+Längsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,481799;1,883112;0,973916;4
+Längsee [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;15;2011;0,645695;1,384663;1,069526;4
+Längsee [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;5,916667;7;6,541667;4
+Lavamünder Badeteich Südufer Steg;Sichttiefe;Sichttiefe;m;0;0;2011;2,9;2,9;2,9;2
+Lavamünder Badeteich Südufer Steg;Wassertemperatur;Wassertemperatur;°C;1;1;2011;22;22,9;22,45;2
+Lavamünder Badeteich Südufer Steg;pH;pH-Wert;;1;1;2011;8,2;8,2;8,2;2
+Lavamünder Badeteich Südufer Steg;K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;272;275;273,5;2
+Lavamünder Badeteich Südufer Steg;P-ges;Phosphor gesamt;mg/l;0;5;2011;0,012775;0,018738;0,015757;2
+Lavamünder Badeteich Südufer Steg;P-ges;Phosphor gesamt;mg/l;3;3;2011;0,0139;0,0198;0,01685;2
+Lavamünder Badeteich Südufer Steg;PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;2
+Lavamünder Badeteich Südufer Steg;NO3-N;Nitrat-Stickstoff;mg/l;0;3;2011;0,00308;0,00308;0,00308;2
+Lavamünder Badeteich Südufer Steg;NH4-N;Ammonium-Stickstoff;mg/l;3;3;2011;0,0064;0,0083;0,00735;2
+Lavamünder Badeteich Südufer Steg;O2;Sauerstoffgehalt;mg/l;3;3;2011;6,7;7,5;7,1;2
+Leonharder See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,7;3,7;2,7;2
+Leonharder See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;18,6;22,3;20,45;2
+Leonharder See [tief.St.];pH;pH-Wert;;1;1;2011;7,9;8,4;8,15;2
+Leonharder See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;360;418;389;2
+Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,014017;0,022933;0,018475;2
+Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;6;6;2011;0,02465;0,029;0,026825;2
+Leonharder See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,0033;0,002176;2
+Leonharder See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00906;0,234863;0,121962;2
+Leonharder See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;6;6;2011;0,116;0,1284;0,1222;2
+Leonharder See [tief.St.];O2;Sauerstoffgehalt;mg/l;6;6;2011;5,6;5,7;5,65;2
+Leonharder See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2011;0,013668;0,021355;0,017512;2
+Linsendorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,1;3,3;3,2;2
+Linsendorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;17,3;19,7;18,5;2
+Linsendorfer See [tief.St.];pH;pH-Wert;;1;1;2011;8;8;8;2
+Linsendorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;363;364;363,5;2
+Linsendorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,010325;0,013292;0,011809;2
+Linsendorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,002155;0,001604;2
+Linsendorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,492338;0,614124;0,553231;2
+Linsendorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2011;0,0179;0,0187;0,0183;2
+Linsendorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2011;7;8,8;7,9;2
+Magdalenensee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4;4,1;4,05;2
+Magdalenensee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;18,4;22,3;20,35;2
+Magdalenensee [tief.St.];pH;pH-Wert;;1;1;2011;8,1;8,1;8,1;2
+Magdalenensee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;522;537;529,5;2
+Magdalenensee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;4;2011;0,00819;0,00977;0,00898;2
+Magdalenensee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;4;2011;0,001052;0,00307;0,002061;2
+Magdalenensee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;4;2011;1,493679;2,078437;1,786058;2
+Magdalenensee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;4;4;2011;0,02525;0,0357;0,030475;2
+Magdalenensee [tief.St.];O2;Sauerstoffgehalt;mg/l;4;4;2011;11,5;14,15;12,825;2
+Maltschacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,6;2,5;2,05;2
+Maltschacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;18,7;23,4;21,05;2
+Maltschacher See [tief.St.];pH;pH-Wert;;1;1;2011;8,9;8,9;8,9;2
+Maltschacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;174;214;194;2
+Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,01575;0,016875;0,016313;2
+Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;5;5;2011;0,0173;0,0174;0,01735;2
+Maltschacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000104;0,001052;0,000578;2
+Maltschacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00308;0,163845;0,083463;2
+Maltschacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2011;0,0065;0,0702;0,03835;2
+Maltschacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2011;0,3;2;1,15;2
+Maltschacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2011;0,015585;0,01693;0,016258;2
+Millstätter See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4,6;10,4;6,509091;11
+Millstätter See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;4,1;22,3;13,590909;11
+Millstätter See [tief.St.];pH;pH-Wert;;1;1;2011;7,3;9;8,318182;11
+Millstätter See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;163;174;165,454545;11
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,00279;0,008958;0,006493;11
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2011;0,00279;0,007;0,003656;11
+Millstätter See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;70;2011;0,00279;0,007059;0,005411;22
+Millstätter See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001801;0,001267;11
+Millstätter See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,096833;0,265623;0,168267;11
+Millstätter See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2011;0,002117;0,0077;0,004232;11
+Millstätter See [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2011;3,9;8,1;5,172727;11
+Millstätter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,356666;2,192698;1,004989;11
+Millstätter See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2011;0,370991;1,904535;1,14346;11
+Millstätter See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;1;7,208333;3,496212;11
+Moosburger Mitterteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;0,5;1,7;1,1;2
+Moosburger Mitterteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,8;24,4;22,6;2
+Moosburger Mitterteich [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,5;8,4;2
+Moosburger Mitterteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;240;255;247,5;2
+Moosburger Mitterteich [tief.St.];P-ges;Phosphor gesamt;mg/l;0;2;2011;0,049267;0,0718;0,060534;2
+Moosburger Mitterteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;2;2011;0,001052;0,001368;0,00121;2
+Moosburger Mitterteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;2;2011;0,00445;0,00445;0,00445;2
+Moosburger Mitterteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;2;2;2011;0,0113;0,153;0,08215;2
+Moosburger Mitterteich [tief.St.];O2;Sauerstoffgehalt;mg/l;2;2;2011;5,1;5,5;5,3;2
+Moosburger Mühlteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;0,8;1,5;1,15;2
+Moosburger Mühlteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;21,3;24,6;22,95;2
+Moosburger Mühlteich [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,5;8,4;2
+Moosburger Mühlteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;249;255;252;2
+Moosburger Mühlteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0294;0,0485;0,03895;2
+Moosburger Mühlteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,001052;0,001052;2
+Moosburger Mühlteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;0,00308;0,00308;0,00308;2
+Moosburger Mühlteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0068;0,012;0,0094;2
+Moosburger Mühlteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;7,7;8,5;8,1;2
+Ossiacher See Ost;Sichttiefe;Sichttiefe;m;0;0;2011;2,8;4,5;3,842857;7
+Ossiacher See Ost;Wassertemperatur;Wassertemperatur;°C;0;0;2011;6,2;25;15,1;7
+Ossiacher See Ost;pH;pH-Wert;;1;1;2011;8;8,9;8,314286;7
+Ossiacher See Ost;K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;212;241;232;7
+Ossiacher See Ost;P-ges;Phosphor gesamt;mg/l;0;5;2011;0,009367;0,02265;0,013074;7
+Ossiacher See Ost;P-ges;Phosphor gesamt;mg/l;11;11;2011;0,0111;0,054;0,0246;7
+Ossiacher See Ost;NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00719;0,61454;0,301377;7
+Ossiacher See Ost;NH4-N;Ammonium-Stickstoff;mg/l;11;11;2011;0,0119;0,2945;0,1128;7
+Ossiacher See Ost;PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,002333;0,001481;7
+Ossiacher See Ost;O2;Sauerstoffgehalt;mg/l;11;11;2011;0,2;10;5,414286;7
+Ossiacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4;7,2;5,142857;8
+Ossiacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;4,4;24;13,65;8
+Ossiacher See [tief.St.];pH;pH-Wert;;1;1;2011;7,6;8,8;8,2625;8
+Ossiacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;212;240;232,375;8
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,007658;0,011492;0,009901;8
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;45;45;2011;0,0087;0,0177;0,01245;8
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;45;2011;0,009704;0,017855;0,012239;8
+Ossiacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,0028;0,001597;8
+Ossiacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,009127;0,511066;0,297727;8
+Ossiacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;45;45;2011;0,00665;0,018617;0,012623;8
+Ossiacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;45;45;2011;0,4;10;3,84375;8
+Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,40692;0,619557;0,50717;4
+Ossiacher See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2011;0,322627;0,596468;0,447609;4
+Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;2,416667;6,208333;3,966667;5
+Ossiacher See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2011;2,808065;5,44662;3,81842;5
+Ossiacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2011;0,009856;0,018932;0,012493;8
+Pirkdorfer See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;0,6;1,2;0,9;2
+Pirkdorfer See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;21,9;22,2;22,05;2
+Pirkdorfer See [tief.St.];pH;pH-Wert;;1;1;2011;8,1;8,2;8,15;2
+Pirkdorfer See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;272;277;274,5;2
+Pirkdorfer See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2011;0,032263;0,0397;0,035982;2
+Pirkdorfer See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2011;0,001052;0,001052;0,001052;2
+Pirkdorfer See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2011;0,00308;0,027071;0,015076;2
+Pirkdorfer See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2011;0,0065;0,0091;0,0078;2
+Pirkdorfer See [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2011;6;6,8;6,4;2
+Pischeldorfer Badeteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;2;2;2;1
+Pischeldorfer Badeteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20;21,4;20,7;2
+Pischeldorfer Badeteich [tief.St.];pH;pH-Wert;;1;1;2011;7,7;7,8;7,75;2
+Pischeldorfer Badeteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;584;596;590;2
+Pischeldorfer Badeteich [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0087;0,0103;0,0095;2
+Pischeldorfer Badeteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,001052;0,001052;2
+Pischeldorfer Badeteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;3,93886;3,98495;3,961905;2
+Pischeldorfer Badeteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0141;0,0219;0,018;2
+Pischeldorfer Badeteich [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;9,2;9,8;9,5;2
+Pressegger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,1;5,7;4,475;4
+Pressegger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;2,8;21,6;13,25;4
+Pressegger See [tief.St.];pH;pH-Wert;;1;1;2011;7,8;8,4;8,075;4
+Pressegger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;382;393;388,75;4
+Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,003568;0,008742;0,005814;4
+Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2011;0,00279;0,0115;0,007548;4
+Pressegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2011;0,003175;0,008933;0,005878;4
+Pressegger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000104;0,00325;0,001365;4
+Pressegger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,257699;0,538151;0,412451;4
+Pressegger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2011;0,0251;0,0565;0,046025;4
+Pressegger See [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2011;0,2;10,6;3,75;4
+Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,09977;0,999179;0,372494;4
+Pressegger See [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;12;2011;0,099847;0,99766;0,372245;4
+Pressegger See [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;1,416667;4;2,40625;4
+Rauschelesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,3;3,8;3,55;2
+Rauschelesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,7;22,1;21,4;2
+Rauschelesee [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,4;8,35;2
+Rauschelesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;302;331;316,5;2
+Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,010858;0,014433;0,012646;2
+Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2011;0,041;0,0744;0,0577;2
+Rauschelesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2011;0,016837;0,019684;0,018261;2
+Rauschelesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,003625;0,002339;2
+Rauschelesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,056338;0,266268;0,161303;2
+Rauschelesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2011;1,405;3,99;2,6975;2
+Rauschelesee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2011;0,2;0,2;0,2;2
+Silbersee Villach [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;2,1;4,3;3,2;2
+Silbersee Villach [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,6;22;21,3;2
+Silbersee Villach [tief.St.];pH;pH-Wert;;1;1;2011;8,5;8,6;8,55;2
+Silbersee Villach [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;251;259;255;2
+Silbersee Villach [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,010875;0,011;0,010938;2
+Silbersee Villach [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;2
+Silbersee Villach [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,040833;0,096917;0,068875;2
+Silbersee Villach [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2011;0,0549;0,0675;0,0612;2
+Silbersee Villach [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2011;7,3;8,7;8;2
+Sonnegger See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,6;1,9;1,75;2
+Sonnegger See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,7;21,6;21,15;2
+Sonnegger See [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,3;8,3;2
+Sonnegger See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;324;345;334,5;2
+Sonnegger See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0104;0,0137;0,01205;2
+Sonnegger See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,001052;0,001052;2
+Sonnegger See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;0,37177;0,53634;0,454055;2
+Sonnegger See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0192;0,0247;0,02195;2
+Sonnegger See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;10,4;11,5;10,95;2
+St. Andräer Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1;1,8;1,4;2
+St. Andräer Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;1;0;2011;23,1;23,6;23,35;2
+St. Andräer Badesee [tief.St.];pH;pH-Wert;;1;1;2011;8,1;8,2;8,15;2
+St. Andräer Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;431;455;443;2
+St. Andräer Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2011;0,0252;0,0365;0,03085;2
+St. Andräer Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2011;0,001052;0,001483;0,001268;2
+St. Andräer Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2011;2,876466;4,850228;3,863347;2
+St. Andräer Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2011;0,0208;0,597;0,3089;2
+St. Andräer Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2011;4;11,6;7,8;2
+St. Johanner Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;4,8;4,9;4,85;2
+St. Johanner Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;21,2;23,5;22,35;2
+St. Johanner Badesee [tief.St.];pH;pH-Wert;;1;1;2011;8,1;8,1;8,1;2
+St. Johanner Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;418;439;428,5;2
+St. Johanner Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,004922;0,00605;0,005486;2
+St. Johanner Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;9;9;2011;0,0063;0,0311;0,0187;2
+St. Johanner Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;2
+St. Johanner Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;1,041389;1,417715;1,229552;2
+St. Johanner Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;9;9;2011;0,009;0,0713;0,04015;2
+St. Johanner Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;9;9;2011;8,8;10;9,4;2
+St. Urban See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,2;1,9;1,55;2
+St. Urban See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,8;23,5;22,15;2
+St. Urban See [tief.St.];pH;pH-Wert;;1;1;2011;8,4;8,5;8,45;2
+St. Urban See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;249;253;251;2
+St. Urban See [tief.St.];P-ges;Phosphor gesamt;mg/l;1;1;2011;0,0208;0,0339;0,02735;2
+St. Urban See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;1;1;2011;0,001052;0,001052;0,001052;2
+St. Urban See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;1;1;2011;0,00308;0,00308;0,00308;2
+St. Urban See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;1;1;2011;0,0065;0,01;0,00825;2
+St. Urban See [tief.St.];O2;Sauerstoffgehalt;mg/l;1;1;2011;7,8;8;7,9;2
+Trattnigteich [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,3;1,4;1,35;2
+Trattnigteich [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;19,1;21,6;20,35;2
+Trattnigteich [tief.St.];pH;pH-Wert;;1;1;2011;7,4;8,5;7,95;2
+Trattnigteich [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;96;100;98;2
+Trattnigteich [tief.St.];P-ges;Phosphor gesamt;mg/l;0;3;2011;0,023063;0,025275;0,024169;2
+Trattnigteich [tief.St.];P-ges;Phosphor gesamt;mg/l;3;3;2011;0,023;0,0264;0,0247;2
+Trattnigteich [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;3;2011;0,001052;0,001052;0,001052;2
+Trattnigteich [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;3;2011;0,005649;0,00719;0,00642;2
+Trattnigteich [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;3;3;2011;0,0088;0,0155;0,01215;2
+Trattnigteich [tief.St.];O2;Sauerstoffgehalt;mg/l;3;3;2011;6,8;9,3;8,05;2
+Turnersee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;2,5;4,2;3,35;2
+Turnersee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;23,1;24,6;23,85;2
+Turnersee [tief.St.];pH;pH-Wert;;1;1;2011;8,3;8,4;8,35;2
+Turnersee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;312;324;318;2
+Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,005775;0,009342;0,007559;2
+Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;12;12;2011;0,0239;0,0305;0,0272;2
+Turnersee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;12;2011;0,008196;0,014525;0,011361;2
+Turnersee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000104;0,001052;0,000578;2
+Turnersee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,732813;0,844966;0,78889;2
+Turnersee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;12;12;2011;0,743;0,928;0,8355;2
+Turnersee [tief.St.];O2;Sauerstoffgehalt;mg/l;12;12;2011;0,2;0,2;0,2;2
+Turracher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;5,2;5,8;5,5;2
+Turracher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;12,4;16,4;14,4;2
+Turracher See [tief.St.];pH;pH-Wert;;1;1;2011;8,2;8,8;8,5;2
+Turracher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;120;122;121;2
+Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,006392;0,008508;0,00745;2
+Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;30;30;2011;0,0092;0,01;0,0096;2
+Turracher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2011;0,007391;0,008769;0,00808;2
+Turracher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,00153;0,001291;2
+Turracher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;6;2011;0,133282;0,233418;0,18335;2
+Turracher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;30;30;2011;0,0098;0,0488;0,0293;2
+Turracher See [tief.St.];O2;Sauerstoffgehalt;mg/l;30;30;2011;0,7;2,1;1,4;2
+Vassacher See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,9;4,7;4,3;2
+Vassacher See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;18,6;23,6;21,1;2
+Vassacher See [tief.St.];pH;pH-Wert;;1;1;2011;8,4;8,6;8,5;2
+Vassacher See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;243;260;251,5;2
+Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,009608;0,009942;0,009775;2
+Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2011;0,0243;0,0307;0,0275;2
+Vassacher See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001052;0,001052;2
+Vassacher See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00606;0,03475;0,020405;2
+Vassacher See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2011;0,371;0,535;0,453;2
+Vassacher See [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2011;0,2;0,2;0,2;2
+Vassacher See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;10;2011;0,010954;0,010977;0,010966;2
+Weißensee (tief.St.);Sichttiefe;Sichttiefe;m;0;0;2011;8,1;11,4;9,2;4
+Weißensee (tief.St.);Wassertemperatur;Wassertemperatur;°C;0;0;2011;5,8;22,2;13,1;4
+Weißensee (tief.St.);pH;pH-Wert;;1;1;2011;7,7;8,6;8,275;4
+Weißensee (tief.St.);K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;275;300;286,5;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;5;2011;0,00279;0,004846;0,003731;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;50;50;2011;0,0063;0,0092;0,00735;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;80;2011;0,004616;0,006175;0,00568;4
+Weißensee (tief.St.);PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000657;0,001052;0,000953;4
+Weißensee (tief.St.);NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00308;0,053083;0,024222;4
+Weißensee (tief.St.);NH4-N;Ammonium-Stickstoff;mg/l;50;50;2011;0,0149;0,0816;0,036275;4
+Weißensee (tief.St.);O2;Sauerstoffgehalt;mg/l;50;50;2011;0,2;0,2;0,2;4
+Weißensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,182544;0,516415;0,295204;4
+Weißensee (tief.St.);PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2011;0,202326;0,351;0,269253;4
+Weißensee (tief.St.);Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;0;2011;1;5;2,5;4
+Weißensee (tief.St.);Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2011;1,481132;4,285401;2,621466;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;94;2011;0,004838;0,006371;0,005919;4
+Weißensee (tief.St.);P-ges;Phosphor gesamt;mg/l;0;30;2011;0,003339;0,005574;0,004493;4
+Wernberger Badesee [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;3,7;3,9;3,8;2
+Wernberger Badesee [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;20,4;20,9;20,65;2
+Wernberger Badesee [tief.St.];pH;pH-Wert;;1;1;2011;8,2;8,2;8,2;2
+Wernberger Badesee [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;361;366;363,5;2
+Wernberger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,006383;0,008567;0,007475;2
+Wernberger Badesee [tief.St.];P-ges;Phosphor gesamt;mg/l;10;10;2011;0,0078;0,0196;0,0137;2
+Wernberger Badesee [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,001052;0,001872;0,001462;2
+Wernberger Badesee [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,159132;0,238339;0,198736;2
+Wernberger Badesee [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;10;10;2011;0,983;1,78;1,3815;2
+Wernberger Badesee [tief.St.];O2;Sauerstoffgehalt;mg/l;10;10;2011;0,2;0,8;0,5;2
+Wörthersee Saag [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;2,5;6,7;4,316667;10
+Wörthersee Saag [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;4;25,6;16,15;12
+Wörthersee Saag [tief.St.];pH;pH-Wert;;1;1;2011;7,6;8,7;8,366667;12
+Wörthersee Saag [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;279;313;297,083333;12
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,00585;0,012583;0,008843;9
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;50;50;2011;0,0118;0,0439;0,025378;9
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;70;70;2011;0,0267;0,0868;0,059089;9
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;50;2011;0,010064;0,015468;0,012164;26
+Wörthersee Saag [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,0001;0,002117;0,000992;9
+Wörthersee Saag [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,00308;0,158644;0,032992;9
+Wörthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;50;50;2011;0,0062;0,1315;0,043922;9
+Wörthersee Saag [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;70;70;2011;0,0753;0,511;0,278144;9
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;50;50;2011;0,2;3,6;1,191667;12
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;70;70;2011;0,1;0,2;0,183333;12
+Wörthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;5;2011;0,265046;5,338974;2,033733;10
+Wörthersee Saag [tief.St.];PHP Biovol.;Phytoplankton Biovolumen;mm³/l;0;30;2011;1,392453;3,296064;2,182635;10
+Wörthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;5;2011;2,208333;10,375;5,375;10
+Wörthersee Saag [tief.St.];Chl a int.;Chlorophyll a integr. Gesamtp.;µg/l;0;30;2011;4,728755;8,306938;6,244219;10
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;30;2011;0,009522;0,016064;0,011809;13
+Wörthersee Saag [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;50;2011;3,893345;10,20338;7,40259;17
+Wörthersee Saag [tief.St.];pH;pH-Wert;;0;50;2011;7,550251;8,037995;7,802929;17
+Wörthersee Saag [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;0;50;2011;304,078237;310,102934;307,454105;17
+Wörthersee Saag [tief.St.];O2;Sauerstoffgehalt;mg/l;0;50;2011;5,420837;8,793657;6,971528;17
+Wörthersee Saag [tief.St.];O2-Sättigung;Sauerstoffsättigung;%;0;50;2011;46,562177;74,612239;61,912822;17
+Wörthersee Saag [tief.St.];SBV 4,3;Säurebindungsvermögen bis pH 4,3;mmol/l;0;50;2011;2,684897;2,802936;2,73764;13
+Wörthersee Saag [tief.St.];NO2-N;Nitrit-Stickstoff;mg/l;0;50;2011;0,001049;0,00149;0,00114;13
+Wörthersee Saag [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;50;2011;0,089081;0,152175;0,122354;13
+Wörthersee Saag [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;50;2011;0,00082;0,004673;0,002066;13
+Wörthersee Saag [tief.St.];P-ges;Phosphor gesamt;mg/l;0;50;2011;0,010064;0,015468;0,012164;26
+Wörthersee Saag [tief.St.];Cl;Chlorid;mg/l;0;50;2011;11,778003;12,531122;12,028999;13
+Zmulner See [tief.St.];Sichttiefe;Sichttiefe;m;0;0;2011;1,5;2,1;1,8;2
+Zmulner See [tief.St.];Wassertemperatur;Wassertemperatur;°C;0;0;2011;17,9;23,1;20,5;2
+Zmulner See [tief.St.];pH;pH-Wert;;1;1;2011;8,1;8,4;8,25;2
+Zmulner See [tief.St.];K25;Elektrische Leitfähigkeit bei 25°C;µS/cm;1;1;2011;473;510;491,5;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;5;2011;0,016633;0,021992;0,019313;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;5;5;2011;0,0177;0,054;0,03585;2
+Zmulner See [tief.St.];PO4-P;Phosphat-Phosphor;mg/l;0;5;2011;0,000736;0,001314;0,001025;2
+Zmulner See [tief.St.];NO3-N;Nitrat-Stickstoff;mg/l;0;5;2011;0,265943;1,057558;0,661751;2
+Zmulner See [tief.St.];NH4-N;Ammonium-Stickstoff;mg/l;5;5;2011;0,515;1,675;1,095;2
+Zmulner See [tief.St.];O2;Sauerstoffgehalt;mg/l;5;5;2011;0,2;4,7;2,45;2
+Zmulner See [tief.St.];P-ges;Phosphor gesamt;mg/l;0;6;2011;0,01629;0,017307;0,016799;2
