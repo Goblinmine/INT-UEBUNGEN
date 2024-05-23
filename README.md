@@ -1,3 +1,6 @@
+>[!IMPORTANT]
+>This repo moved to my [selfhosted gitea](https://git.maybug.net/Goblinmine/INT-UEBUNGEN)
+
 # INT-UEBUNGEN
 
 Welcome to the INT-UEBUNGEN Repository! This is a space where I share my solutions to coding assignments from our school. The solutions are provided here to inspire and assist you, but remember that the true essence of learning lies in understanding and applying the concepts.
